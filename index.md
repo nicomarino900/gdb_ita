@@ -23,7 +23,13 @@ siblings:
 }}
 }!}
 
-### Table of Contents:
+{!{
+<div class="gutter"><blockquote>
+  Traduzione realizzata da <strong>Nico Marino</strong>.
+</blockquote></div>
+}!}
+
+### Elenco dei contenuti:
 
 {!{ <div class="two-column-list"> }!}
 
