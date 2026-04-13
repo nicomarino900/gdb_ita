@@ -96,7 +96,7 @@ Dal lato sociale, il genere coinvolge il nostro [habitus](https://it.wikipedia.o
 
 Infatti, questi sono tutti fattori culturali: concetti sviluppatisi nel tempo all' interno della popolazione. Nonostante siano essenzialmente "inventati", hanno comunque forte connotazione legata al genere e una persona tenderà a connettersi all'habitus del proprio genere subconscio senza neanche accorgersene. Quando ci vengono negati questi aspetti sociali, questo porta a un disagio con la propria posizione sociale nella vita.
 
-Gli esperimenti di John Money tentarono di confermare la sua credenza che il genere fosse un costrutto interamente sociale e che ogni bambino potesse venir cresciuto credendo di essere qualunque cosa gli venisse insegnato a essere. Il suo esperimento fu un grande fallimento (vedi la sezione Disforia Biochimica). Il genere non cambia; a 40 anni, ogni essere umano possiede lo stesso genere che aveva a 4 anni. Ciò che cambia è la personale comprensione del nostro genere mentre maturiamo come individui.
+Gli esperimenti di John Money tentarono di confermare la sua credenza che il genere fosse un costrutto interamente sociale e che ogni bambino potesse venir cresciuto credendo di essere qualunque cosa gli venisse insegnato a essere. Il suo esperimento fu un grande fallimento (vedi il capitolo Disforia Biochimica). Il genere non cambia; a 40 anni, ogni essere umano possiede lo stesso genere che aveva a 4 anni. Ciò che cambia è la personale comprensione del nostro genere mentre maturiamo come individui.
 
 Questi sintomi negati (depressione, derealizzazione, disagio sociale) sono i sintomi della Disforia di Genere.
 
@@ -108,4 +108,4 @@ Si dice non binaria (in inglese non-binary o enby), un' identità che, in parole
 
 Potrebbe essere un' affinità ad alcuni aspetti di un genere, ma non ad altri. Per esempio, una persona di genere [demigirl ("semiragazza", articolo in inglese)](https://gender.wikia.org/wiki/Demigirl) potrebbe essere stata assegnata femmina alla nascita ma sentire solo una connessione parziale con la femminilità, oppure potrebbe essere una persona assegnata maschio alla nascita che si è sottoposta a terapia ormonale per alleviare la disforia fisica e possiede un fenotipo femminile, ma senza provare forte connessione agli aspetti sociali dell' essere donna.
 
-In termini generali, questo libro descriverà il genere contrapponendo identità binarie (maschio/femmina) con identità non binarie, ma questo puramente per semplificarne la stesura. Per favore, ricorda che la profondità dell' esperienza e dell' espressione del genere e molto, molto più complicata di questa semplice sintesi.
+In termini generali, questo libro descriverà il genere contrapponendo identità binarie (maschio/femmina) con identità non binarie, ma questo puramente per semplificarne la stesura. Per favore, ricorda che la profondità dell' esperienza e dell' espressione del genere è molto, molto più complicata di questa semplice sintesi.
