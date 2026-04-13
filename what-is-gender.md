@@ -30,7 +30,7 @@ Se esaminiamo l' etimologia della parola dalla sua radice latina, genere signifi
 
 Molte persone attribuiscono il termine allo psicologo John Money, che propose di usare "genere" nel 1955 per differenziare il sesso mentale da quello fisico. Money non fu però il primo a farlo. L' antropologa culturale [Margaret Mead](https://it.wikipedia.org/wiki/Margaret_Mead) usò il termine nel 1949 nel suo libro *Maschio e Femmina* (tit. orig.: Male and Female: A Study of the Sexes in a Changing World) per distinguere ruoli e comportamenti di genere dal sesso biologico. L' American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) descrisse così il libro:
 
-> Un libro, inoltre, che va oltre la propria premessa; in quanto informa il lettore sul **'genere' così come sul 'sesso'**, sui ruoli maschili e femminili così come sul maschio e la femmina e le relative funzioni riproduttive.
+> Un libro che va ben oltre la propria premessa; in quanto informa il lettore sul **'genere' così come sul 'sesso'**, sui ruoli maschili e femminili così come sul maschio e la femmina e le relative funzioni riproduttive.
 >
 > Margaret Mead passa da una specifica delineazione ad un confronto più generale fra maschi e femmine in numerose società, giungendo finalmente ad un' analisi dello schema dei sessi nel nostro contesto e per i giorni nostri.
 
