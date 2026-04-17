@@ -9,7 +9,7 @@ preBody: '_disclaimer'
 lang: it
 siblings:
   prev: /it/che-cosa-è-il-genere
-  prevCaption: [Che cos'è il Genere?
+  prevCaption: [Che cos'è il Genere?]
   next: /it/euforia
   nextCaption: Euforia di Genere
 ---
