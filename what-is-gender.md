@@ -45,7 +45,7 @@ Molte persone attribuiscono il termine allo psicologo John Money, che propose di
 
 Il sesso umano (l' aggettivo, non il verbo) è suddiviso in tre categorie:
 
-- **[Genotipo](https://it.wikipedia.org/wiki/Genotipo)**: Il careiotipo cromosomico geneticamente definito di un organismo (XX, XY, [e tutte le relative varianti](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[Genotipo](https://it.wikipedia.org/wiki/Genotipo)**: Il cariotipo cromosomico geneticamente definito di un organismo (XX, XY, [e tutte le relative varianti](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
 - **[Fenotipo](https://it.wikipedia.org/wiki/Fenotipo)**: Le caratteristiche sessuali osservabili, primarie e secondarie (genitali, distribuzione adiposa e muscolare, struttura ossea ecc.)
 - **[Genere](https://it.wikipedia.org/wiki/Genere_(scienze_sociali))**: Le caratteristiche sessuali **non** osservabili, il modello mentale interno che una persona ha del proprio sesso e il modo in cui lo esprime.
 
