@@ -4,6 +4,7 @@ title: "La Bibbia della Disforia di Genere"
 linkTitle: Introduction
 description: "Un tuffo fra i mille modi in cui la disforia di genere si manifesta e su cosa significa essere trasngender."
 preBody: '_presentazione'
+lang: it
 classes:
   - gdb
 siblings:
