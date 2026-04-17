@@ -3,6 +3,7 @@ date: "2020-01-26T20:41:55.827Z"
 title: "Che cos'è il Genere?"
 description: "Come definiamo il concetto di Genere, e come lo distinguiamo dal Sesso?"
 preBody: '_disclaimer'
+lang: it
 siblings:
   prev: /it/
   prevCaption: Introduction
