@@ -5,7 +5,7 @@ description: "Come definiamo il concetto di Genere, e come lo distinguiamo dal S
 preBody: '_disclaimer'
 lang: it
 siblings:
-  prev: /it/
+  prev: /it/#presentazione
   prevCaption: Introduction
   next: /it/storia
   nextCaption: Storia della Disforia di Genere
