@@ -9,14 +9,14 @@ preBody: '_disclaimer'
 lang: it
 siblings:
   prev: /it/che-cosa-è-il-genere
-  prevCaption: [Che cos'è il Genere?]
+  prevCaption: Che cos'è il Genere?
   next: /it/euforia
   nextCaption: Euforia di Genere
 ---
 
 # Breve Storia della Disforia di Genere
 
-Nel 1948, il noto sessuologo  Alfred Kinsey [*quel* Kinsey](https://it.wikipedia.org/wiki/Alfred_Kinsey)) fu contattato da una donna il cui figlio maschio affermava con insistenza di essere in realtà una ragazza e che qualcosa fosse andato davvero storto. La madre, anziché cercare di reprimere sua figlia, desirava aiutarla a diventare ciò che ella sapeva di essere. Kinsey contattò dunque un endocrinologo tedesco chiamato [Harry Benjamin](https://it.wikipedia.org/wiki/Harry_Benjamin) per sapere se sapesse come aiutare la giovane. Il dottor Benjamin sviluppò dunque un protocollo terapeutico a base di estrogeni per la ragazza e lavorò insieme alla famiglia per trovare un possibile intervento chirurgico.
+Nel 1948, il noto sessuologo  Alfred Kinsey ([*quel* Kinsey](https://it.wikipedia.org/wiki/Alfred_Kinsey)) fu contattato da una donna il cui figlio maschio affermava con insistenza di essere in realtà una ragazza e che qualcosa fosse andato davvero storto. La madre, anziché cercare di reprimere sua figlia, desirava aiutarla a diventare ciò che ella sapeva di essere. Kinsey contattò dunque un endocrinologo tedesco chiamato [Harry Benjamin](https://it.wikipedia.org/wiki/Harry_Benjamin) per sapere se sapesse come aiutare la giovane. Il dottor Benjamin sviluppò dunque un protocollo terapeutico a base di estrogeni per la ragazza e lavorò insieme alla famiglia per trovare un possibile intervento chirurgico.
 
 Benjami proseguì poi nel raffinare il suo protocollo e guarì migliaia di pazienti con simili situazioni nel corso della propria carriera. Si rifiutò di ricevere un compenso per il suo lavoro, accontentandosi della soddisfazione di aver dato sollievo ai propri pazienti e della possibilità di studiare la loro guarigione per ampliare la sua conoscenza della loro condizione. Nel 1973 coniò un termine per questa sensazione di incongruenza: **disforia di genere**. Sfortunatamente, questo termine non entrò in uso negli Stati Uniti fino al 2013, e fino a quell' anno l' American Psychiatric Association optò invece per il termine "disturbo dell' identità di genere".
 
