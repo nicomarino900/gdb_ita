@@ -23,30 +23,30 @@ tweets:
 {!{
 <div class="gutter"><blockquote>
   <strong>Eu·fo·ri·a</strong> - <em>Noun</em><br>
-  A feeling or state of intense excitement and happiness. Elation, joy, glee.
+  Sensazione o stato di intensa eccitazione e felicità. Esuberanza, gioia, entusiasmo.
 </blockquote></div>
 }!}
 
 
-Before I can talk about discomfort, I have to talk about relief. Gender euphoria is itself a sign of gender dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
+Prima di poter parlare di disagio, devo parlare di sollievo. L'Euforia di Genere è essa stessa un segno di Disforia di Genere. Forse ti starai chiedendo, "come può la felicità essere tristezza?" La risposta è semplice.
 
-Imagine a person who was born in a cave, who spent their entire life living underground, with their only source of illumination being candles and oil lamps. Imagine they've never been above ground; they don't even know the surface exists. Then, one day, a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later, they return to the opening, and, as the person's eyes adjust, they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+Immagina una persona nata in una caverna e che ha passato tutta la sua vita a vivere sottoterra, con nessuna fonte di illuminazione se non candele e lampade ad olio. Immagina che non sia mai stata in superficie e che non sappia nemmeno che quest'ultima esista. Finché, un giorno, in una galleria laterale avviene un piccolo crollo che rivela un'apertura verso la superficie. La luce del sole fa capolino dalla fessura ed inizialmente acceca questa persona delle caverne che fugge via spaventata. Poi col tempo, questa ritorna verso la fessura, i suoi occhi si adattano a quella forte luce e si accorge che là fuori si trova un mondo luminoso e colorato di cui non sapeva nemmeno l'esistenza.
 
-That world is scary, huge, and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually, they peek out more and more frequently, and further and further from the opening. They start to want that light; they find reasons to visit it more often.
+Quel mondo è anche spaventoso, vasto e pieno di incognite e quindi striscia di nuovo dentro la caverna per restare al sicuro, ma la fessura rimane, così come la luce che resta visibile ogni volta che la persona delle caverne attraversa quella sezione. Col passare del tempo, questa inizia a sporgere la testa sempre di più e ad allontanarsi sempre di più all' interno di quell'apertura. Inizia a desiderare quella luce ed trova ragioni di ogni tipo per andare ad osservarla.
 
-Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, and they want to stay here. Going back into the hole feels wrong; it starts to hurt to be in the dark so much.
+A un certo punto realizza anche che non vuole più tornare nella caverna. Ma deve farlo, perché e lì che si trovano i suoi amici e la sua famiglia, anche se quel posto luminoso è molto più bello e vorrebbe restare lì. Tornare in quelle buie gallerie sembra sbagliato e rimanere nell'oscurità troppo a lungo diventa una tortura.
 
-This is what gender euphoria is like: brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
+Questa è l'euforia di genere: brevi sprazzi di luce inizialmente troppo intensi e confusionari da sopportare, ma a cui col tempo ci si abitua fino a capire che è in quella luce in cui si desidera restare; il buio diventa la disforia.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Many trans people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage acting, drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They'll make up excuses for why ("If I'm gonna be looking at this character's ass, it might as well be a girl's ass."), they'll try to convince themselves it's all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they're role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being "you" starts to hurt. Eventually, the old you becomes the costume.
+Molte persone trans non hanno idea di quanto stanno soffrendo fino a quando non trovano anche solo un pochino di sollievo. Fare cosplay, recitazione teatrale, drag, giochi di ruolo e video giochi; piccole iniziative che le fanno vivere in un genere diverso da quello in cui hanno sempre diffuso. Scoprono che si sentono fin troppo a loro agio. Si inventeranno scuse sul perché ("Se devo guardare il culo di questo personaggio, perché non farlo femmina?"), cercheranno di convincersi che sia solo per divertimento o una forma di espressione artistica. Potrebbero anche pensare che la gioia che provano nel sentire un pronome diverso sia puramente il senso di novità. Ma presto si trovano a cercare quella sensazione più spesso. Si trovano sempre più spesso a ruolare personaggi di un sesso diverso, a realizzare più costumi, comprare più vestiti e a recitare di più. Fino al punto in cui vorrebbero farlo sempre, perché si sentono meglio rispetto alla vita reale ed essere "sé stessi" inizia a diventare un peso. Essere "sé stessi" diventa la maschera.
 
-This is the most fundamental reason why we as a community say "you do not need dysphoria to be trans", because black ink on a black canvas isn't visible without close examination and a lot of light.
+Questa è la ragione fondamentale del perché come comunità diciamo "non serve la disforia per essere trans", perché non si può notare dell'inchiostro nero su una tela nera senza osservarlo da vicino con un bel po' di illuminazione.
 
-Anything that can be a source of dysphoria has an equal and opposite euphoria.
+Qualunque cosa che può essere una fonte di disforia può portare a un'euforia uguale ed opposta.
 
 {!{ <div class="print-break-before"></div> }!}
 
@@ -56,22 +56,22 @@ Anything that can be a source of dysphoria has an equal and opposite euphoria.
   '1228165767264256003'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Examples:
+Esempi:
 
-- Being gendered correctly
-- Being addressed by your chosen name
-- Wearing correctly-gendered clothing
-- Seeing and feeling changes in your body
-- Seeing yourself in the mirror (removal of depersonalization)
-- Socializing in a way that conforms with gendered expectations
-- Getting a haircut in a masculine / feminine / androgynous manner
-- Shaving your legs
-- NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal shower or bachelor party)
-- Feeling sexy / having sex in a way that aligns with your gender and sexuality.
+- Essere riconosciuti con il genere corretto
+- Essere chiamati con il proprio nome scelto
+- Indossare abiti del genere corretto
+- Vedere e provare i cambiamenti del proprio corpo
+- Guardarsi allo specchio (rimozione della depersonalizzazione)
+- Socializzare in una maniera conforme alle aspettative di genere
+- Ricevere un taglio di capelli mascolino / femminile / androgino
+- Radersi le gambe
+- NON radersi le gambe
+- Essere inclusi a un evento al quale non saremmo normalmente invitati per il nostro genere assegnato alla nascita (es. addio al nubilato/celibato)
+- Sentirsi sexy / fare sesso in un modo che si allinea al nostro genere e alla nostra sessualità.
 
-Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
+Anche semplicemente essere in pubblico come noi stessi ed essere percepiti come tali può essere fonte di grandissima euforia.
 
-**What euphoria is NOT** is a sexual high, turn-on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn-on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
+**Cosa NON è euforia** è un'estasi sessuale, una fonte di eccitazione o un fetish. A volte l'euforia può causare uno stimolo sessuale e ci sono molti fattori in gioco che lo causano (sentirsi a proprio agio con il proprio corpo è uno stimolo, per esempio), ma non è una fonte di eccitazione sessuale. Le persone trans non "vengono" all'idea di presentarsi e comportarsi in maniera autentica.
 
-That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this; how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely; it does not go away when they go back to their daily lives.
+Detto ciò, molte persone che non hanno ancora capito di essere trans fanno ricorso a varie pratiche feticiste per esprimere il proprio genere e/o alleviare la disforia. A volte continuano a praticare questi fetish anche nel corso della transizione. Nulla di cui vergognarsi; il modo in cui trovano soddisfazione sessuale è affar loro. Queste sono però situazione che esistono *oltre* al loro genere. La percezione che una persona trans ha del genere persiste in maniera indefinita; non sparisce quando essa torna alla sua vita quotidiana.
