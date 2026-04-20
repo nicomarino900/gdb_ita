@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
-linkTitle: "Biochemical Dysphoria"
-description: "The very real and biological factors of gender dysphoria that cause mental disturbance."
+title: "Come si Manifesta la Disforia di Genere: Disforia Biochimica"
+linkTitle: "Disforia Biochimica"
+description: "Le vere cause biologiche della disforia di genere e come queste causano disagio."
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -19,15 +19,15 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /en/physical-dysphoria
-  prevCaption: Physical Dysphoria
-  next: /en/social-dysphoria
-  nextCaption: Social Dysphoria
+  prev: /it/disforia-fisica
+  prevCaption: Disforia Fisica
+  next: /it/disforia-sociale
+  nextCaption: Disforia Sociale
 ---
 
-# Biochemical Dysphoria
+# Disforia Biochimica
 
-The primary sexual features of the body begin development during the eighth week of human gestation. Typically, by week 11, it is possible to determine the genitals of a fetus via ultrasound. The brain, however, forms [between weeks 14 and 24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
+I caratteri sessuali primari del corpo iniziano a svilupparsi durante l'8° settimana della gestazione umana. Solitamente, a partire dall'11° settimana, è possibile determinare i genitali di un feto usando gli ultrasuoni. Il cervello, invece, si forma fra la [14° e 24° settimana](https://it.iliveok.com/health/sviluppo-del-cervello_133048i16012.html). Current prevailing understanding of neurological development suggests that it is during these 10 weeks when the brain will either masculinize or feminize based upon the presence of testosterone in the fetus bloodstream (initiated by the SRY gene on the Y chromosome, or introduced from other sources). This process locks the brain into a pattern of either desiring estrogens or androgens.
 
 If your brain is wired for one kind of gonadal hormones (such as testosterone) and your body produces the other hormone (such as estradiol), this can result in a biochemical malfunction within your brain chemistry. This produces a sort of brain fog: a reduction in mental capacity and a general state of anxiety and unease. This is the source of the first two symptoms that often alleviate with medical hormonal therapy: **depersonalization and derealization (DPDR)**.
 
