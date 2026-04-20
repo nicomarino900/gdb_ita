@@ -107,7 +107,7 @@ Lo scopo di questo sito è di documentare i molti modi attraverso cui può manif
 
 {!{
 <div class="gutter flex flex-end print-inline print-span2 print-center">
-<span>Illustazione del titolo basata sui lavori di <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
+<span>Illustazione del titolo basata sulle opere di <a href="https://www.instagram.com/jp_means_jumpei/">Jumpei JP Ueoka</a></span>
 <div class="grid-row" style="grid-template-columns: 1fr 1fr">
 {{import '~/img' images.jpjumpei_1 className="" link="https://www.instagram.com/p/Bq2uRCtFttU/"}}
 {{import '~/img' images.jpjumpei_2 className="" link="https://www.instagram.com/p/BlA3IUrAnTi/"}}
