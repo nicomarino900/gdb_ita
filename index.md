@@ -58,7 +58,7 @@ siblings:
 
 12. [Gestione della Disforia](/it/gestione-della-disforia)
 
-13. [Sindrome dell' Impostore](/it/sindrome-dell-impostore)
+13. [Sindrome dell'Impostore](/it/sindrome-dell-impostore)
 
 14. [Sono Trans?](/it/sono-trans)
 
