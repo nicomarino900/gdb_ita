@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Social Dysphoria"
-linkTitle: "Social Dysphoria"
-description: "Pronouns and Deadnames and Gendering, oh my."
+title: "Come si Manifesta la Disforia di Genere: Disforia Sociale"
+linkTitle: "Disforia Sociale"
+description: "I pronomi, i nomi morti e il genere, porca vacca."
 preBody: '_disclaimer'
 siblings:
-  prev: /en/biochemical-dysphoria
-  prevCaption: Biochemical Dysphoria
-  next: /en/societal-dysphoria
-  nextCaption: Societal Dysphoria
+  prev: /it/disforia-biochimica
+  prevCaption: Disforia Biochimica
+  next: /it/disforia-di-ruolo
+  nextCaption: Disforia di Ruolo
 classes:
   - gdb
 tweets:
@@ -22,7 +22,7 @@ tweets:
   - '1137185510793678848'
 ---
 
-# Social Dysphoria
+# Disforia Sociale
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
@@ -33,47 +33,47 @@ tweets:
   '1215731319973523456'
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
-All social gender dysphoria orbits around one central concept: "What gender do people believe me to be?" Social dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender versus how social dysphoria is experienced after a trans awakening (cracking one's shell).
+Tutta la disforia di genere sociale gira intorno a un principio centrale :"Quale genere gli altri pensano che io sia?" La disforia sociale riguarda come il mondo esterno ti percepisce, come gli altri si rivolgono a te e come si aspettano che tu ti rivolga a loro. Questo avviene in maniera diversa a seconda che la persona trans sia diventata consapevole o meno della propria disforia (anche detto :" rompere il guscio dell'uovo").
 
-While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
+Quando questa è ancora all'oscuro, l'unica consapevolezza è che c'è qualcosa di strano nel mopdo in cui interagisce con altre persone. Le persone del tuo stesso genere assegnato sembrano interagire in modi che a te sembrano innaturali. I loro comportamenti ed atteggiamenti sembrano strani e sorprendenti, mentre le interazioni con gli individui del tuo vero genere sembrano più facili. Ti riscontri di più con le persone più vicine alla tua verità.
 
-For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
+Ad esempio, una persona assegnata maschio alla nascita potrebbe trovarsi a disagio in un gruppo di uomini. Potrebbe sentirsi fuori posto e faticare a conformarsi ai propri amici. Le interazioni sociali mascoline potrebbero non venire naturali e potrebbe cercare, con grande impaccio, di emulare gli altri uomini. Potrebbe sentirsi più attirata all'idea di fare amicizia con donne, ma sperimentare grande frustrazione di fronte alle dinamiche sociali ed eterosessuali che avvengono fra uomini e donne, fallendo quindi nel costruire relazioni platoniche. Sempre che la donne siano aperte a fare amicizia. Potrebbe ritrovarsi ferita quando le donne evitano di fare amicizia per principio.
 
-This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
+La sensazione di sentirsi sbagliata si intensifica man mano che la persona diventa più consapevole della propria incongruenza, e una volta realizzata la sua vera identità, l'incongruenza prende nuova forma. Per le persone trans binarie questo può diventare l'intenso bisogno di essere percepite come il loro vero genere, maschio o femmmina che sia. Alcune persone non binarie iniziano a provare euforia quando non vengono percepite né come maschi né come femmine e quando qualcuno si rivolge loro con toni neutrali, oppure quando vengono percepiti come generi diversi da persone diverse nello stesso contesto. Altre ancora provano intensa euforia quando gli altri non riescono a capire il loro genere e si confondono.
 
-Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person may be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
+La disforia sociale è dove i pronomi e il *misgendering* (quando qualcuno ci percepisce con il genere sbagliato) entrano in gioco; farsi apostrofare al maschile, al femmininile o con un pronome che non ci appartiene può essere estremamente spiacevole. Chiaro, questo è vero per *tutti* quanti, persone cis incluse, ma dove una persona cis può sentirsi insultata dall'atto di essere chiamata con il pronome sbagliato, la persona trans ci starà male. Come unghie su una lavagna, o una paglietta metallica sulla pelle. Sentire il pronome sbagliato ti ricorda che la persona con cui stai parlando non ti riconosce per il genere a cui appartieni. 
 
-Gender-neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
+I pronomi di genere neutri possono anche mettere a disagio le persone non binarie quando questi vengono usati dalla persona che parla per evitare di usare il pronome che si addice loro. Questo infatti indica spesso che una persona è stata riconosciuta come transgender e la persona che sta parlando non sa che pronomi usare. Chiedere i pronomi preferiti può risolvere il malinteso immediatamente, ma ciò che è paradossale è che anche in questo caso, farsi chiedere i pronomi può indurre disforia in quanto la persona che chiede ci ha riconosciuto come trans.
 
-Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
+Anche il Loro (in inglese *they*) può essere usato con malizia quando una persona transfobica si rifiuta di usare il pronome corretto ma sa che usare quelli sbagliati la metterà nei guai. Il tono e l'intento contano molto.
 
-The same also applies to names. Being called by one's given name (deadname) instead of their chosen name can feel invalidating when done ignorantly, and downright dismissive when done intentionally.
+Stessa cosa per i nomi. Quando qualcuno usa il nome morto (in inglese *deadname*) invece del nome scelto può essere invalidante quando fatto con ignoranza, se non addirittura sprezzante quando fatto con intento.
 
-It may also manifest as joy or embarrassment at being labeled as your true gender while still living as your assigned gender. Examples:
+La disforia sociale compare anche come gioia o imbarazzo quanto quacuno si rivolge a te con il genere giusto, mentre stai ancora vivendo come il genere a te assegnato. Esempi:
 
-- An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
-- An AFAB person being called Sir, and feeling better for it.
+- Una persona assegnata maschio alla nascita che viene chiamata ragazza, inteso come un insulto, ma che la porta arrossire anziché ad arrabbiarsi.
+- Una persona assegnata femmina alla nascita che viene chiamata Signore, e la cosa la fa sentire meglio.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
+Il disagio causato dalla disforia sociale può spingere una persona trans a comportarsi e presentarsi in maniera esagerata per convincere il resto del mondo di essere davvero il genere che afferma di essere. Le persone transfemminili potrebbero concentrarsi molto sull'uso del trucco e di capi d'abbigliamento femminili, diventando più silenziose per apparire più riservata, usando toni di voce più acuti. Le persone transmascoline invece tenderanno a usare abiti maschili, apparire più alte, reprimere le proprie emozioni e parlare più forte, con toni di voce più profondi.
 
-### Physical vs Social Dysphoria
+### Disforia Fisica contro Sociale
 
-Some physical traits which may cause discomfort all the time for some trans people may only manifest as a social dysphoria for others. For example, some people may only be self conscious about their physical appearance when it causes them to be misgendered or clocked (read as being trans), and feel completely comfortable when interacting in environments where they are always seen and treated as their true gender.
+Alcuni tratti fisici che potrebbero causare sempre disagio in alcune persone trans potrebbero essere solo fonte di disforia sociale per altre. Per esempio, alcune persone potrebbero essere molto sensibili riguardo al loro aspetto fisico in quanto potrebbe causar loro di essere riconosciute come genere sbagliato o come persone trans (in inglese *clocked*), ma essere totalmente disinvolte in ambienti in cui sanno che saranno sempre trattate per il loro vero genere.
 
-I, myself, have no direct physical dysphoria around my voice; I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
+Io stessa non ho disforia fisica riguardante la mia voce; mi piace moltissimo cantare nel mio naturale tono da baritono, e quando sono a casa con la mia famiglia lascio che la mia voce si rilassi. Quando sono in pubblico, invece, riuscire a parlare con una voce femminile è per me fondamentale per essere riconosciuta dagli altri come una donna, passo dunque molto tempo ad allenare la voce. La mia voce femminile si attiva immediatamente nel momento in cui rispondo al telefono o esco di casa, mi viene naturale come respirare. 
 
-### "One of us!"
+### "Come noi!"
 
-A very curious and surprisingly common phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
+E' un fenomeno molto curioso e sorprendentemente comune quello che vede una tendenza fra le persone trans che non hanno ancora fatto coming out a trovarsi fra loro e stringere amicizia senza la minima consapevolezza. Spesso, non appena una persona fa coming out come trans ed inizia la transizione, altri membri del gruppo si rendono anch'essi conto di essere trans e fanno coming out a loro volta.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-Trans people subconsciously tend to gravitate towards each other's friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, and occurs with all types of queer people, but the way it has a rippling effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
+Le persone trans tendono inconsciamente a fare amicizia fra di loro, sia per un bisogno di altre persone che la pensano e si comportano come loro (e quindi senza giudicarsi), sia da un senso di unione portato dall'esperienza condivisa dell'ostracizzazione sociale. Questa non è un'esclusiva delle persone trans, ovviamente, e avviene con tutte le persone queer, ma porta a reazioni a catena abbastanza rilevanti, in maniera simile a quando una coppia dentro un gruppo di amicizie si sposa e ha figli e che spingono tutti gli altri a fare lo stesso.
 
-Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that (short of personality conflicts) we instantly bond together.
+Spesso le persone trans continuano a scegliersi in amicizia anche dopo la transizione, poiché si comprendono l'una con l'altra meglio di quanto possano farlo le persone cis. Si raccoglie una forte energia quando un grppo di persone trans si trova insieme nello stesso posto, la stanza diventa carica di commiserazione e solidarietà. Abbiamo così tanto in comune nelle nostre storie di vita e nelle esperienze condivise che tendiamo a formare subito legami (salvo conflitto di personalità). 
