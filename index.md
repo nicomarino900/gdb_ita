@@ -64,7 +64,7 @@ siblings:
 
 15. [Diagnosticare la Disforia](/it/diagnosi)
 
-16. [Trattamento della Disforia di Genere](/it/treatment)
+16. [Trattamento della Disforia di Genere](/it/trattamento)
 
 17. [Cause della Disforia di Genere](/it/cause)
 
