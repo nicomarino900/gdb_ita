@@ -70,7 +70,7 @@ siblings:
 
 18. [Cromosomi](/it/cromosomi)
 
-19. [Come Funzinano gli Ormoni](/it/ormoni)
+19. [Come Funzionano gli Ormoni](/it/ormoni)
 
 20. [Seconda Pubertà Maschile](/it/seconda-pubertà-masc)
 
