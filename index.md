@@ -48,7 +48,7 @@ siblings:
 
 7. [Disforia Sociale](/it/disforia-sociale)
 
-8. [Disforia di Ruolo](/it/disforia-di-ruolo)
+8. [Disforia Culturale](/it/disforia-culturale)
 
 9. [Disforia Sessuale](/it/disforia-sessuale)
 
