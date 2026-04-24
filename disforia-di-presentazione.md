@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
-linkTitle: "Presentational Dysphoria"
-description: "Hoodies and sweatpants never go out of style."
+title: "Come si Manifesta la Disforia di Genere: Disforia di Presentazione"
+linkTitle: "Disforia di Presentazione"
+description: "Tute e felpe non sono mai fuori moda."
 preBody: '_disclaimer'
 siblings:
-  prev: /en/sexual-dysphoria
-  prevCaption: Sexual Dysphoria
-  next: /en/existential-dysphoria
-  nextCaption: Existential Dysphoria
+  prev: /it/disforia-sessuale
+  prevCaption: Disforia Sessuale
+  next: /it/disforia-esistenziale
+  nextCaption: Disforia Esistenziale
 classes:
   - gdb
 tweets:
@@ -19,19 +19,19 @@ tweets:
   - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
-# Presentational Dysphoria
+# Disforia di Presentazione
 
-Clothes. Hair. Makeup. Jewelry. Glasses. Piercings and other body modifications. Even personal hygiene can be a factor of presentation, such as the shaving of body hair or how you take care of your skin. All of these things are gendered in society, clothing and hair especially.
+Vestiti. Capelli. Trucco. Gioielli. Occhiali. Piercing e altre modifiche al corpo. Anche l'igiene personale può fare la differenza nella presentazione, come radersi i peli del corpo o prendersi cura della pelle. Tutte queste cose nella nostra società hanno un genere associato, in particolare vestiti e capelli.
 
-While the sexual revolution of the 1960s and the business fashion craze of the 80s did wonders for blurring the gap between masculine and feminine presentation (largely by normalizing masc fashion as androgynous), there are still enormous pressures to conform to traditional gender norms. Gender non-conforming dress is so instantly marked as queer that any time a woman wears a tailored suit she is marked as a lesbian, and a dad who [puts on an Elsa costume because his son wants to have a Frozen party](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) is labeled as subversive and abusing his child.
+Per quanto la rivoluzione sessuale degli anni '60 e la moda degli abiti da business negli anni '80 abbiano fatto miracoli per assottigliare la divisione fra la presentazione maschile e femminile (principalmente normalizzando gli abiti maschili come androgini), c'è ancora enorme pressione per conformarsi ai ruoli di genere tradizionali. Vestirsi in maniera non conforme al proprio genere è immediatamente visto come queer e una donna in giacca e cravatta viene immediatamente vista come una lesbica, così come un padre che [si veste come Elsa di Frozen perché suo figlio vuole una festa a tema](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) viene accusato di essere sovversivo e di star maltrattando il piccolo.
 
-Long hair on men has been seen as [an act of rocker rebellion](https://www.youtube.com/watch?v=3w7CrxLj36I) for decades, and men with long hair get discriminated against as being layabouts and bums. Short hair on women is often read as queer or butch (unless they're old, then it's expected), and women are often pressured to keep their hair long. Pierced ears on men became somewhat more normalized in the 90s, but are still seen as an act of rebellion, and some employers won't allow men to wear earrings. Makeup on men is so stigmatized by toxic masculinity that even men who *like* makeup feel pressured to avoid it.
+Per gli uomini, fras crescere i capelli lunghi è considerato come [un atto di ribellione giovanile](https://www.youtube.com/watch?v=3w7CrxLj36I) da decenni e gli uomini con i capelli lunghi vengono discriminati e tacciati di essere pelandroni o zotici. Per le donne, i capelli corti sono spesso considerati queer o butch (a meno che non siano anziane, allora è contemplato) e ricevono molta pressione affinché li mantenano lunghi. Gli uomini che indossano orecchini sono diventati un po' più normalizzati negli anni '90, ma rimangono visti come un atto di ribellione ed alcuni datori di lavoro non permettono ai propri dipendenti uomini di indossarli. Il trucco per gli uomini è invece così stigmatizzato dalla mascolinità tossica che anche gli uomini a cui *piace* metterlo evitano di farlo.
 
-Like it or not, presentation is gendered, and it is extremely common for trans people to want to present themselves in the fashion of their true gender, and a desire to be free of the shackles of gendered presentation is common among all trans people, regardless of where they sit on the gender spectrum. For AMAB individuals they may manifest as a wish to incorporate more feminine elements; for AFABs it may manifest as a want for a more masculine appearance. This may come as a full push towards the opposite of their assigned gender, or a desire to seek a middle-ground in pursuit of androgyny. It may even simply be a wish to *not* present as your assigned gender.
+Che ci piaccia o no, la presentazione ha un genere ed è estremamente comune fra le persone trans scegliere di presentarsi seguendo le mode e gli stili del proprio vero genere; indipendentemente da dove si trovano sullo spettro del genere, vi è inoltre un desiderio comune fra le persone trans di liberarsi del tutto dal giogo della presentazione di genere. Per le persone assegnate maschio alla nascita ciò potrebbe manifestarsi come un desiderio di incorporare più elementi femminili nella propria presentazione; le persone assegnate femmina alla nascita potrebbero invece desiderare un aspetto più mascolino. Questo potrebbe risultare in una presentazione del tutto opposta a quella del genere assegnato alla nascita, o in un desiderio di mischiare gli elementi ed ottenere un aspetto androgino. Potrebbe anche essere il desiderio di *non* presentarsi come il genere assegnato.
 
-**Not all transfems present feminine, not all transmascs present masculine, and not all non-binary people seek androgyny. Butch AMAB trans people are valid; femme AFAB trans people are valid. Presentation is not gender; gender is not presentation.**
+**Non tutte le donne trans si presentano in maniera femminile, non tutti gli uomini trans si presentano in maniera maschile e non tutte le persone non binarie mirano all'androginia. Le donne trans butch sono valide; gli uomini trans effemminati sono validi. La presentazione non è genere; il gender non è presentazione.**
 
-Presentational dysphoria typically appears early on in the form of a fascination with the styling of another gender, and a wish to be able to present as people of that gender do. That desire may be fulfilled somewhat by seeking out styling that is unisex, but typically that wish is self-gatekept by statements of "I'm not confident enough to attempt that." AMABs often run into issue here where this desire often gets trapped behind heteronormative expectations, causing an interest in feminine presentation to be misinterpreted as sexual desire.
+La disforia di presentazione tipicamente si manifesta inizialmente come un fascino per la moda di un altro genere e come desiderio di presentarsi come le persone di quel generePresentational dysphoria typically appears early on in the form of a fascination with the styling of another gender, and a wish to be able to present as people of that gender do. That desire may be fulfilled somewhat by seeking out styling that is unisex, but typically that wish is self-gatekept by statements of "I'm not confident enough to attempt that." AMABs often run into issue here where this desire often gets trapped behind heteronormative expectations, causing an interest in feminine presentation to be misinterpreted as sexual desire.
 
 Post-transition presentational dysphoria is usually simply a case of high discomfort when attempting to present as one's assigned gender. It may not even be about how one looks, but just the way the clothing makes you feel. For the first year and a half of my own transition I could not bear to wear unisex t-shirts because they just made me feel more masculine. Even now I have to cut the collars out of them because the close neck makes me feel dysphoric.
 
