@@ -63,25 +63,25 @@ Dati tutti gli abusi che i bambini che non conformano alle norme di genere subis
 
 - Sposarsi e fare figli con la speranza che ciò "sistemerà" ciò che senti sia sbagliato.
 
-- Buying in to ultra-conservative attitudes towards gender and sexuality.
+- Accettare una visione estremamente conservatrice di genere e sessualità.
 
-- Expressing homophobia and transphobia in self-defense to ward off suspicion.
+- Esprimere omofobia o transfobia come meccanismo di autodifesa per allontanare i sospetti.
 
-- Aggressively-passive engagement in anything connected to one's true gender.
+- Ingaggiare in maniera passivo-aggressiva con qualunque cosa sia connessa al proprio vero genere.
 
 
-Finally, another very common coping mechanism is to find means of escape or mental engagement in order to forget your own feelings.
+Infine, un'altra strategia di adattamento molto comune è quello di cercare vari metodi di distrazione ed escapismo per dimenticarsi dei propri sentimenti.
 
-- Intensely investing large amounts of time into hobbies.
+- Passare tantissimo tempo sui propri hobby.
 
-- Long hours spent at work.
+- Lavorare moltissimo.
 
-- Chain-binging movies, TV shows, or books.
+- Consumare uno dopo l'altro serie di libri, film o serie TV.
 
-- Spending all idle time playing video games or on social media.
+- Passare tutto il proprio tempo libero a giocare ai videogiochi o sui social media.
 
-- Obsessively cleaning one's living space.
+- Pulire ossessivamente i propri spazi.
 
-- Sleeping. Lots and lots of sleeping.
+- Dormire. Dormire moltissimo.
 
-- Drug and alcohol use.
+- Abuso di alcol e sostanze.
