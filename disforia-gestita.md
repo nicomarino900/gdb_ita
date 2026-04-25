@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Managed Dysphoria: Gender in Disguise"
-linkTitle: "Managed Dysphoria"
-description: "The ways we've coped."
+title: "Disforia Gestita: il Genere sotto Mentite Spoglie"
+linkTitle: "Disforia Gestita"
+description: "Come abbiamo tirato avanti."
 preBody: '_disclaimer'
 siblings:
-  prev: /en/existential-dysphoria
-  prevCaption: Existential Dysphoria
-  next: /en/impostor-syndrome
-  nextCaption: Impostor Syndrome
+  prev: /it/disforia-esistenziale
+  prevCaption: Disforia Esistenziale
+  next: /it/sindrome-dell-impostore
+  nextCaption: Sindrome dell'Impostore
 classes:
   - gdb
 tweets:
@@ -16,52 +16,52 @@ tweets:
   - '1215749725456125952'
 ---
 
-# Managed Dysphoria
+# Disforia Gestita
 
-Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives:
+Crescere trans, anche quando non sai di esserlo, diventa un'esistenza costituita alla base da strategie di adattamento per alleviare la disforia. Ecco alcuni modi in cui una persona trans potrebbe cercare di alleviare la disforia che sente nel proprio quotidiano:
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare at a guy's butt for hours."
+- Quando un videogioco ti dà la possibilità di scegliere il genere del personaggio, tendi a non scegliere il tuo genere assegnato. Questo potrebbe essere accompagnato da scuse tipo "La scelta base era maschio, chi se ne frega" o "Non voglio guardare il culo di un uomo per ore".
 
-- A preference for literature and film with characters of your true gender, or with characters who break gender norms (_Mulan_, _Little Women_).
+- Una preferenza per film e libri con personaggi del tuo vero genere, oppure con personaggi che rompono le norme di genere (_Mulan_, _Piccole donne_).
 
-- Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
+- Gusti pornografici che soddisfano forti desideri o che ci sembrano più "famigliari", come una preferenza per i porno con uomini gay o donne lesbiche, fetish per gli abiti da sposa o il tema della trasformazione
 
-- Crossdressing or performing drag.
+- Fare crossdressing con l'altro genere o partecipare in perfomance di drag.
 
-- Finding excuses to cut hair short, or to grow it out.
+- Trovare scuse per tagliarsi i capelli, o per farseli crescere.
 
-- Shaving of body hair, or a refusal to shave hair you're expected to.
+- Radersi i peli, o rifiutarsi di radere peli nonostante le aspettative.
 
-- Wearing loose and baggy clothing that hides the shape of your body.
+- Indossare vestiti larghi e morbidi che nascondono la foram del corpo.
 
-- Avoiding social gatherings whenever possible, seeking isolation.
+- Evitare i ritrovi sociali quando possibile, tendendo all'isolamento.
 
-- Becoming intimately educated about some gender-associated topic, such as men's or women's clothing design.
+- Informarsi in maniera approfondita su alcuni argomenti a cui è associato un genere, come il design degli abiti maschili/femminili.
 
-- Obsessively working out (AFABs).
+- Allenarsi ossessivamente (per persone assegnate femmina alla nascita).
 
-- Helping cis partners to shop in order to live vicariously through their presentation.
+- Aiutare i propri partner cis a fare shopping per provare a vivere attraverso la loro presentazione.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Because so much abuse is handed down onto gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+Dati tutti gli abusi che i bambini che non conformano alle norme di genere subiscono, molte persone trans crescono imparando a nascondere la loro vera personalità per motivi di necessità. Molte persone trans parlano di aver avuto una fase della vita dove hanno cercato di "abbracciare" il loro genere assegnato, performando in maniera esagerata la mascolinità o la femminilità al fine di *mettersi a posto*. Questo può portare a tendenze alla repressione che superficialmente potrebbero sembrare tossiche ma che sono semplicemente il risultato giunto dall'impegno a nascondersi ogni pezzettino della propria verità.
 
-- Growing and meticulously grooming facial hair (the so-called "denial beard").
+- Farsi crescere e curare meticolosamente i propri peli facciali (la cosidetta "barba di negazione").
 
-- Taking up makeup artistry in order to perfect a high femme look.
+- Darsi al trucco artistico per perfezionare un look super femminile.
 
-- Presenting extremely masculine or hyper feminine.
+- Presentarsi in maniera estremamente maschile o femminile.
 
-- Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+- Evitare qualunque conversazione che riguardi la moda per qualunque genere. Stare in disparte ogni volta che avviene una conversazione o un'attività legata alla moda.
 
-- Obsessively working out (AMABs).
+- Allenarsi in maniera ossessiva (per persone assegnate maschio alla nascita).
 
-- Assuming a strongly stereotyped gender role in a relationship (e.g. the dutifully modest housewife).
+- Farsi carico di un ruolo di genere fortemente stereotipato all'interno di una relazione (es. l'operosa e modesta casalinga).
 
-- Marrying and having kids in anticipation that it will "fix" what's wrong with you.
+- Sposarsi e fare figli con la speranza che ciò "sistemerà" ciò che senti sia sbagliato.
 
 - Buying in to ultra-conservative attitudes towards gender and sexuality.
 
