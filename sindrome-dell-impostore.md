@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Impostor Syndrome, but make it Trans"
-linkTitle: "Impostor Syndrome"
-description: "Am I really trans?"
+title: "Sindrome dell'Impostore, però Trans"
+linkTitle: "Sindrome dell'Impostore"
+description: "Sono davvero trans?"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/managed-dysphoria
-  prevCaption: Managed Dysphoria
-  next: /en/am-i-trans
-  nextCaption: Am I Trans?
+  prev: /it/disforia-gestita
+  prevCaption: Disforia Gestita
+  next: /it/sono-trans
+  nextCaption: Sono Trans?
 classes:
   - gdb
 tweets:
@@ -22,33 +22,33 @@ tweets:
   - '1153300374133981186'
 ---
 
-# Impostor Syndrome
+# Sindrome dell'Impostore
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome, or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud".
+> La [sindrome dell'impostore](https://en.wikipedia.org/wiki/Impostor_syndrome) è una condizione psicologica usata per descrivere quegli individui che mettono in dubbio il proprio successo e che vivono con una persistente ed internalizzata paura di essere smascherati come "impostori", appunto.
 
-Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn't normal and that anyone who is has to be exceptionally special. Cis media's obsession with the "born in the wrong body" narrative has led to a lot of false information being internalized by trans youth. Many, *many* trans kids grow up thinking they aren't actually trans because they don't *know* that they are a different gender but simply *wish* they were. Many non-binary children grow up knowing something is wrong, but not believing they're trans because they don't feel like a binary trans person.
+La società in generale è molto brava a far dubitare le persone trans di loro stesse. Riceviamo tantissimi messaggi subliminali che ci comunicano che essere trans non sia una cosa normale e che chiunque lo sia debba essere eccezionalmente speciale. L'ossessione dei media cis con il propugnare storie di persone "nate nel corpo sbagliato" ha contribuito a far internalizzare alle persone trans più giovani un sacco di informazioni false. Molte, *moltissime* persone trans crescono pensando di non essere davvero trans perché non *sanno* di essere un genere diverso ma si limitano a *desiderare* di esserlo. Molte persone non binarie crescono sapendo che qualcosa non vada bene, ma non sospettano di essere trans perché non si sentono come una persona trans binaria.
 
-On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn't very strong) go around believing they aren't "trans enough".
+Inoltre, l'idea che le persone trans odino il proprio corpo o i propri genitali ha offuscato tutto il concetto dell'esplorazione di genere, a tal punto che molte persone che non provano disforia fisica (o che semplicemente pensano che la propria non sia così grave) si convince di non essere "abbastanza trans".
 
-***[YES, YOU ARE TRANS ENOUGH](https://us.jkp.com/products/yes-you-are-trans-enough)***
+***[SI', SEI ABBASTANZA TRANS](https://us.jkp.com/products/yes-you-are-trans-enough)***
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one's gender, especially in the face of so many gender stereotypes. Seeing oneself fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note: cis men and women get this too, far too often).
+Inoltre, la comunicazione costante da parte di media transfobici che le persone trans non siano in realtà il loro vero genere e che stiano semplicemente cercando di ingannare la gente viene internalizzata come un virus. Questo porta molte persone a dubitare sull'autenticità del proprio genere, soprattutto dovendo comparare a molti stereotipi di genere. Non riuscire a conformarsi agli stereotipi rende molto facile convincersi di non essere all'altezza del proprio genere (nota: anche gli uomini e le donne cis hanno questo problema, fin troppo spesso).
 
-Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self-doubt. Gender dysphoria also causes depression, which further contributes to and reinforces those doubts. This all leads into a massive cluster of self-invalidation that can lead someone to struggle over and over again to accept their own gender identity.
+Per di più, causa una storia segnata da abusi transfobici, molte persone trans soffrono di problemi di autostima e tendono già a dubitare di sé. La disforia di genere cause anche depressione, che porta a rafforzare questi dubbi, arrivando a formare un'enorme matassa di pensieri di autosabotaggio che può portare qualcuno a lottare ancora e ancora per accettare la propria identità di genere. 
 
-But here's the thing... only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity: they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+Ma in realtà... solo le persone trans si preoccupano di essere davvero trans! Una persona cis non ha questo tipo di ossessione riguardo la propria identità: ci pensano, giungono a una conclusione e vanno avanti con la propria vita. Se i tuoi pensieri continuano a tornare qui ancora e ancora, è perché il tuo cervello di sta dicendo che hai preso la svolta sbagliata.
 
-The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
+Il mondo è *pieno* di influenze messe lì per riempirci di dubbi ed impedirci di evadere dalla gerarchia sociale prestabilita. Ecco alcuni esempi di sistemi ed idelogie che cercano di sminuire le persone trans ed impedir loro di realizzarsi a pieno.
 
-### Autogynephilia
+### Autoginefilia
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
@@ -59,9 +59,9 @@ The world is *full* of influences put in place to fill us with doubt and keep us
   '1153300374133981186'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-This pattern was strongly reinforced during the late 1980s when the autogynephelia (AGP) theory of Ray Blanchard gained a lot of traction as trans awareness was just starting to escalate. AGP is a pseudo-scientific explanation intended to "explain" the source of trans women's identities using [paraphilias](https://en.wikipedia.org/wiki/Paraphilia). Blanchard separated trans women according to if they were attracted to men or to women, while simultaneously invalidating their womanhood. His work completely ignored transgender men, and he dismisses non-binary identities outright.
+Questo schema fu rinforzato molto nei tardi anni '80 quando la teoria dell'autoginefilia di Ray Blanchard ottenne molta visibilità man mano che aumentava la consapevolezza dell'esistenza delle persone trans. L'autoginefilia è una teoria pseudoscientifica che "spiega" la fonte dell'identità delle donne trans utilizzando le [parafilie](https://it.wikipedia.org/wiki/Parafilia). Blanchard separò le donne trans in base al fatto che fossero attratte dagli uomini o dalle donne, sminuendo al contempo il loro essere donne. Il suo lavoro ignorò completamente gli uomini transgender e liquidò del tutto le identità non binarie.
 
-Autogynephelia attests that straight trans women are actually just gay men who seek a feminine appearance to draw desire from straight men, and that trans lesbians are actually straight men who have become so obsessed with their desire for women that they wish to become a woman in order to gain sexual gratification from themselves.
+L'autoginefilia attests that straight trans women are actually just gay men who seek a feminine appearance to draw desire from straight men, and that trans lesbians are actually straight men who have become so obsessed with their desire for women that they wish to become a woman in order to gain sexual gratification from themselves.
 
 Blanchard's theory largely hinged on the way that presenting feminine often resulted in sexual arousal within newly transitioning women. You see, most of his study subjects were patients who were trying to seek hormone therapy for the first time, and as such were still very new to presenting female.
 
