@@ -100,7 +100,7 @@ Se qualcuno che sta esplorando la propria identità di genere incontra una perso
 
 Ci sono altri concetti nocivi che una persona trans può internalizzare, come per esempio vedere la transizione come una lista di cose da fare. Per esempio si pensa che una persona non dovrebbe aspettarsi di essere chiamata con il genere corretto o anche solo osare lamentarsi di ciò finché non riesce a cambiare i propri dati anagrafici. In altre parole, il rispetto dei pronomi solo per chi ha effettuato la transizione legale, o translegalismo. Non solo cambiare i propri dati anagrafici è un processo lungo e complicato, non solo è un processo costoso che alcune persone non possono permettersi di perseguire, ma molte nazioni non permettono nemmeno di scegliere un genere al di fuori di quello binario. Il translegalismo convince una persona di meritarsi di essere chiamata con il pronome sbagliato a causa del suo documento d'identità.
 
-### Femminismo Reazione Transesclusivo / Movimento gender critical / Essenzialismo di genere
+### Femminismo Reazionario Transesclusivo / Movimento gender critical / Essenzialismo di genere
 
 [L'essenzialismo di genere](https://it.amenajari.org/articles/sexual-health/the-gender-essentialism-theory.html) è la credenza che una persona nasca con qualità innate in base agli organi sessuali con cui è nata. Le ideologie TERF (Trans Exclusionary Radical Feminism) e GC (Gender Critical) sono nate da movimenti separatisti del femminismo lesbico di seconda ondata, che nega completamente l'esistenza delle identità non binarie e la biologia transgender. Il movimento è stato ormai occupato principalmente da reazionari di destra, razzisti e omofobi, e sta venendo promosso da organizzazioni Cristiane protestanti evangeliche.
 
