@@ -1,56 +1,56 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Am I Trans?"
-linkTitle: "Am I Trans?"
-description: "A Roadmap To Figuring Out The Toughest Question"
+title: "Sono Trans?"
+linkTitle: "Sono Trans?"
+description: "Un Percorso per Rispondere alla Domanda più Ardua"
 siblings:
-  prev: /en/impostor-syndrome
-  prevCaption: Impostor Syndrome
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  prev: /it/sindrome-dell-impostore
+  prevCaption: Sindrome dell'Impostore
+  next: /it/diagnosi
+  nextCaption: Diagnosticare la Disforia
 classes:
   - gdb
 preBody: '_disclaimer'
 ---
 
-æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ
+æææ<div class="cw"><p><strong>Curator's Note</strong>: La pagina seguente proviene da <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">questo fantastico post scritto da Cassie LaBelle</a> ed è stato ricondiviso con il suo consenso. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener"> Potete leggere altri suoi pensieri su Medium.</a></div>æææ
 
-# Am I Trans?
+# Sono Trans?
 
-Long before I started questioning my gender, I had this idle fantasy where one of my best lady friends would walk up to me and say, “Give it up. You’re not fooling anyone.”
+Ben prima che io cominciassi a a farmi domande sul mio genere, fantaticavo di tanto in tanto che una delle mie migliori amiche donne venisse da me e mi dicesse, “Smettila. Non stai ingannando nessuno.”
 
-If you’d confronted me about this fantasy at the time, I couldn’t have told you what, exactly, I meant by “you’re not fooling anyone.” Deep down I knew that it was probably related to gender, but my lips wouldn’t have been able to form those words. All I knew was that I was pretending to be someone I was not, in some vague, passive, and ephemeral way.
+Se al tempo mi avessi chiesto di questa fantasia, non avrei saputo dire cosa intendessi esattamente con “non stai ingannando nessuno.” Nel profondo sapevo che probabilmente era riferito al genere, ma le mie labbra non sarebbero state in grado di formare quelle parole. L'unica cosa che sapevo era che stavo fingendo di essere una persona che non ero in un modo vago, passivo ed effimero.
 
-Once I self-accepted as a trans woman and started the long process of coming out, all I wanted was for someone to tell me that they already knew. “I’m so happy you figured it out,” I wanted them to gush. “I’ve known the truth for years. It was so obvious. I don’t know how anyone could have ever thought that you were a boy. I’m so happy that you’ll finally get to live as your true self now.”
+Una volta che mi accettai come donna trans e cominciai il lungo processo per fare coming out, speravo tanto che qualcuno mi dicesse che lo sapeva già. “Sono così felice che tu ci sia arrivata,” volevo sentirmi dire. “Conosco la verità da anni. Era così ovvio. Non so come possano aver mai pensato che tu fossi un ragazzo. Sono così felice che finalmente potrai vivere come la vera te.”
 
-Nobody ever said this to me, though. My coming-out process was successful, and most of my friends were supportive, but I never got the external validation that I craved. My friends and family accepted me as trans because I told them I was trans. They hadn’t noticed that I’d spent the past two decades wearing the ill-fitting costume of a man who barely existed.
+Nessuno però me lo ha mai detto. Il mio coming out fu un successo e la maggior parte delle mia amicizie mi supportarono, ma non ho mai ricevuto quella validazione esterna che desideravo. Amici e famiglia mi accettarono come trans perché avevo detto loro di esserlo. Non avevano notato che avevo passato gli ultimi due decenni ad indossare il costume malconfezionato di un uomo che esisteva a malapena.
 
 ---
 
-My good friend Lily coined the phrase **“Egg Prime Directive”** to describe the fact that trans people have an unspoken agreement not to tell people who are questioning their gender whether or not they are trans.
+La mia buona amica Lily ha coniato il termine **“Prima Direttiva sulle Uova”** (in inglese, una persona trans che ancora non sa di esserlo è spesso detta "Egg", ovvero uovo) per describere come le persone trans abbiano un accordo non scritto di non dire alle persone che stanno esplorando il proprio genere se sono trans o no.
 
-When someone is just told they are trans, that opens ground for denial; it activates defense mechanisms built by internalized transphobia, and it has a high probability of pushing them further into the closet, if not making them outright transphobic. Even when it doesn’t, it leaves ground for their own subconscious to reject their dysphoria, claiming that they were just manipulated or deceived.
-The much more effective strategy is to talk about your own experiences with dysphoria so that they see the common grounds and come to their own conclusion about their gender. The code doesn’t forbid helping them to explore their gender; it forbids assigning a gender to them.
-Or, to put it more succinctly, no one can be told what the Matrix is. You have to see it for yourself.
+Quando a una persona viene detto di essere trans, questo lascia spazio alla negazione; attiva meccanismi di difesa costruiti dalla transfobia internalizzata, che con probabilità porterà la persona a chiudersi ancor di pù, se non renderla attivamente transfobica. Anche se questi meccanismi non si attivano, c'è comunque la possibilità che il suo stesso subconscio inizi a rifiutare il concetto di disforia, incolpando inganni e manipolazioni.
+La strategia più efficace è parlare delle proprie esperienze con la disforia e vedere se trovano riscontro e giungono a conclusioni proprie riguardo al genere. La regola non proibisce di aiutare le persone ad esplorare il proprio genere; impedisce di assegnare un genere al posto loro.
+O, per dirla con meno parole, a nessuno può essere detto cosa sia il Matrix. Deve vederlo con i propri occhi.
 
-I’m sure there are some trans people out there who don’t follow the Egg Prime Directive, but I haven’t met them. It’s one of the only things that seems to unify the whole trans community, myself included. Even though I wanted my own external validation more than anything, I now see that true acceptance could have only come from within. The only person who can tell you that you are trans is yourself.
+Sono sicura che si siano alcune persone trans che non seguono la Prima Direttiva, ma non ne ho incontrate. E' una delle poche cose che sembra accomunare tutta la comunità trans, me inclusa. Anche se volevo più di ogni altra cosa un po' di validazione esterna, capisco che la vera accettazione è possibile solo se proviene da dentro. L'unica persona che può dirti se sei trans sei tu.
 
-The paradox is that most closeted trans people are absolutely terrible at trusting their inner voice. When you spend your whole life with a nagging disconnect between how the world sees you and how you see yourself, it becomes easier to rely on other people to tell you “who you really are.” Even if you know deep down that all the people in your life are missing some fundamental fact about your identity, it’s nearly impossible to avoid listening to others over oneself.
+Il paradosso è che la maggior parte delle persone che ancora non sanno di essere trans sono assolutamente pessime a fidarsi del proprio istinto. Quando passi tutta la vita a lottare con la disconnessione fra come ti vedi e come ti vede il resto del mondo, diventa facile affidarsi ad altre persone per farti dire “chi sei veramente.” Anche se nel profondo sai che tutte le persone nella tua vita sono ignare di un elemento fondamentale della tua identità, è quasi impossibile fidarsi di più della propria voce rispetto a quella degli altri.
 
-My goal today, then, is to give you some of the information and mental framing that helped me self-accept. I can’t tell you whether or not you are transgender, but I can point you down a path that you might be able to travel down yourself. I can’t provide the answers, but I can try to give you the right questions.
+Il mio obiettivo di oggi, quindi, è di darti alcune informazioni ed approcci mentali per aiutarti con l'autoaccettazione. Non posso dirti se sei transgender o meno, ma posso indicarti un percorso che potresti riuscire a percorrere per conto tuo. Non posso fornirti risposte, ma posso provare a fornirti le giuste domande.
 
 æææ
 <div class="gutter flex flex-end">
   <div class="card">
-    <div class="card-header"><strong>Why do we need The Egg Prime Directive?</strong></div>
+    <div class="card-header"><strong>Perché ci serve la Prima Direttiva sulle Uova?</strong></div>
     <div class="card-body">
 æææ
 
-It is never safe to simply tell someone that they are transgender when they haven't asked themselves, even when you are 100% certain that they are. You can educate them on gender dysphoria and you can show them parallels between their feelings and your feelings, but you *cannot* simply say to a person, "You are transgender".
+Non è mai sicuro dire semplicemente a una persona che essa è in realtà transgender se questa non si è già posta la domanda da sola, anche se la tua certezza a riguardo è al 100%. Puoi fornire informazioni sulla disforia di genere e puoi mostrarle paralleli fra i tuoi e i suoi sentimenti, ma non *puoi* semplicemente dire a una persona, "Sei transgender".
 
-Why? Because most of the time they won't believe you.
+Perché? Perché non ti crederà quasi mai.
 
-Internalized transphobia has indoctrinated us all to believe that it's impossible that we are trans, or that being trans is something negative and reviled. Pressures from within a person's family or from their upbringing can make it extremely hard to accept themselves.
+La transfobia internalizzata ha indottrinato tutti quanti nel crede che essere trans sia impossibile, o che essere trans sia una cosa negativa e ripugnante. Le pressioni da parte dell'ambiente familiare o dell'educazione ricevuta crescendo può rendere estremamente difficile accettarsi.
 
 Trying to tell someone who isn't already questioning that you think they're transgender triggers a self-defense mechanism; their subconscious actively tries to reject the statement, and there is a high probability that the suggestion will not only push them further into the closet, but can even make them hostile towards you for making it. Many transphobes show clear evidence of fighting their own struggles with gender, and there is no shortage of trans people who [have a history of being transphobic](https://twippedtronic.tumblr.com/post/661595258598113280/interview-with-an-ex-radfem) out of self-preservation.
 
