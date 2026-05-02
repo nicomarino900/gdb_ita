@@ -1,8 +1,8 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "What is the Cause of Gender Incongruence"
-linkTitle: "Causes of Gender Dysphoria"
-description: "It's the hormones, baby."
+title: "Qual è la Causa dell'Incongruenza di Genere"
+linkTitle: "Cause della disforia di genere"
+description: "Sono gli ormoni, tesoro."
 preBody: '_disclaimer'
 classes:
   - gdb
@@ -15,25 +15,25 @@ tweets:
   - https://twitter.com/LisaTMullin/status/1224043995413639168
   - https://twitter.com/LisaTMullin/status/1224044949160611840
 siblings:
-  prev: /en/treatment
-  prevCaption: Treating Gender Dysphoria
-  next: /en/chromosomes
-  nextCaption: But... but... the chromosomes!
+  prev: /it/trattamento
+  prevCaption: Trattamento della Disforia di Genere
+  next: /it/cromosomi
+  nextCaption: Ma... ma... i cromosomi!
 ---
 
-# What is the Cause of Gender Incongruence?
+# Qual è la Causa dell'Incongruenza di Genere?
 
-To put it bluntly, we don't know (at least not firmly). Science and modern psychology has proven that it is **not** caused by nurture; no one *becomes* transgender, gender identity is congenital, solidifying before we even exit the womb. It also appears to sometimes be hereditary; transgender parents have a higher likelihood of having transgender children, and many times they realize this in reverse. The child comes out to the parent, and that helps the parent realize they can come out as well.
+Per dirla in poche parole, non lo sappiamo (almeno non fermamente). La scienza e la psicologia moderne hanno provato che la causa **non** è il modo in cui una persona viene cresciuta; nessuna persona *diventa* transgender, l'identità di genere è congenita e si consolida ancora prima di uscire dall'utero. A volte sembra anche essere qualcosa di ereditario; i genitori transgender hanno maggiore probabilità di avere figli transgender, e spesso accade "all'incontrario". Prima la persona giovane fa coming out al genitore, e poi quest'ultimo capisce e fa a sua volta coming out.
 
-Here is the science that is believed to influence gender identity. This does not mean that it *defines* gender identity, nor does it fully encapsulate one's gender, as so many aspects of gender are cultural and social. None of this is prescriptive of a person's identity, none of it is cast in stone.
+Ecco la scienza che si crede influenzi l'identità di genere. Questo non significa che *definisca* l'identità di genere, né che esplori il genere a tutto tondo, visto che molti aspetti dell'identità di genere sono sociali e culturali. Nulla di tutto ciò è prescrittivo per l'identità di una persona, nulla è inciso nella pietra.
 
-If you've seen Jurassic Park, you may remember this scene:
+Se hai visto Jurassic Park, potresti ricordare questa scena:
 
 {!{
   {{import '~/img' images.jurassicpark
     className="card borderless center span34"
-    alt="All vertebrate embryos are inherently female anyway. They just require an extra hormone given at the right developmental stage to make them male."
-    caption="This isn't science fiction, although it is very simplified."
+    alt="Tutti gli embrioni dei vertebrati sono innatamente femmine, comunque. Hanno bisogno solo di un ormone extra al giusto stadio dello sviluppo per diventare maschi."
+    caption="Questa non è fantascienza, per quanto molto semplificato."
   }}
 }!}
 
@@ -42,24 +42,24 @@ If you've seen Jurassic Park, you may remember this scene:
   {{import '~/img' images.fetalgenitals
     className="card"
     caption="<a href=\"https://schoolbag.info/biology/concepts/188.html\">Source</a>"
-    alt="Fetal development of internal sexual anatomy"
+    alt="Sviluppo dell'anatomia sessuale interna del feto"
   }}
 </div>
 }!}
 
-The gonads in human fetuses initially develop in a bi-potential state, meaning they can become either ovaries or testes. The SRY gene on the Y chromosome releases a protein called [testis-determining factor](https://en.wikipedia.org/wiki/Testis-determining_factor) (TDF). This protein then starts a chain reaction with SOX9 production (another protein), which causes the gonadal cells to form into the Sertoli and Leydig cells that make up the testes. If TDF is never produced or is interfered with, the gonad cells form into the Theca cells and follicles which comprise the ovaries.
+Le gonadi dei feti umani si sviluppano inizialmente in uno stato bipotenziale, ovvero con il potenziale di diventare sia ovaie che testicoli. Il gene SRY sul cromosoma Y rilascia una proteina chiamata [testis-determining factor](https://it.wikipedia.org/wiki/SRY_(gene)) (TDF). Questa proteina dà poi inizio a una reazione a catena con la produzione di S0X-9 (un'altra proteina), che porta le cellule gonadali a formare le cellule di Leydig e di Sertoli, che formano i testicoli. Se il TDF non viene mai prodotto o viene interrotto in qualche modo, le cellule della gonadi si trasformano in cellule di Theca e follicoli che danno forma alle ovaie.
 
-Once formed, the testes then begin producing a testosterone surge which typically starts in the eighth week of gestation and continues until the 24th week. This surge, [combined with another hormone from the placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), is responsible for the development of the penis and scrotum. Genitalia formation starts around week nine and becomes identifiable by the 11th week. If the surge does not occur, or the body does not respond to it (such as in the case of androgen insensitivity syndrome) then the genitalia form into the vulva, vagina, and uterus instead.
+Una volta formati, i testicoli cominciano a produrre un'ondata di testosterone, iniziando circa all'ottava settimana di gestazione fino alla ventiquattresima. Quest'ondata, [combinata con un altro ormone proveniente dalla placenta](https://www.sciencedaily.com/releases/2019/02/190214153053.htm), è responsabile per lo sviluppo del pene e dello scroto. La formazione dei genitali inizia intorno alla nona settimana e diventano identificabili a partire dall'undicesima. Se l'ondata non si verifica, o il corpo non risponde correttamente ad essa (come per esempio per la sindrome da insensibilità agli androgeni), allora i genitali danno invece forma alla vulva, alla vagina e all'utero.
 
-If there is an interference in this process then you can end up with the wrong bits, and this is the result of many intersex conditions. Oftentimes this is a partial development, where the external genitalia only partially form but functional gonads still exist. Sometimes the child comes out with fully functional male or female genitalia, but mismatched gonads. Sometimes the TDF protein fails to release and the fetus grows completely functional female reproductive organs, despite the presence of a Y chromosome.
+Se c'è un interferenza a questo processo, allora può capitare di finire con le parti sbagliate, e questo risulta in molte condizioni intersessuali. Spesso questo è uno sviluppo parziale, ovvero i genitali esterni si formano solo parzialmente, ma esistono ancora gonadi funzionanti. A volte invece si nasce con genitali maschili o femminili completamente formati, ma con le gonadi sbagliate. A volte la proteina TDF non viene rilasciata correttamente e il feto si sviluppa con organi riproduttivi del tutto femminili e funzionali, nonostante la presenza del cromosoma Y.
 
-This is known as Swyer syndrome, and an unknown number of women may have this condition. In 2015 [an XY woman with Swyer syndrome who was born without ovaries](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) successfully carried and gave birth to a child via IVF. Usually, Swyer syndrome results in completely non-functional ovaries, but [in 2008 a woman was found with Swyer syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/) who had gone through puberty, menstruated normally, and had two unassisted pregnancies. Her condition went undiscovered until her daughter was found to also have it.
+Questa è la sindrome di Swyer, e un numbero indefinito di donna ne soffre. Nel 2015 [una donna affetta dalla sindrome di Swyer con cromosomi XY nata senza ovaie](https://www.independent.co.uk/news/science/mostly-male-woman-gives-birth-to-twins-in-medical-miracle-10033528.html) è riuscita con successo a dare alla luce un bambino tramite fecondazione in vitro. Solitamente, la sindrome di Swyer causa ovaie del tutto non funzionanti, ma nel [2008 a una donna fu diagnosticata la sindrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/); aveva attraversato la pubertà e aveva un regolare ciclo mestruale, aveva inoltre partorito due volte senza assistenza. La sua condizione non fu scoperta fino a quando non scoprirono che anche sua figlia ce l'aveva.
 
-The fact is, the vast majority of the population has never been tested for genetic karyotype, so we don’t know how common these cases actually are. Where does this come into effect for gender identity? Well, the exact same process that causes the external genitals to differentiate also occurs for the brain.
+In effetti, la stragrande maggioranza della popolazione non ha mai fatto un test per il cariotipo genetico, quindi non sappiamo quanto comuni questi siano. Cosa ha a che fare con l'identità di genere? Beh, lo stesso processo che causa le differenze nello sviluppo genitale è responsabile anche per le differenze in quello cerebrale.
 
 {!{
 <div class="gutter">
-  <strong style="display: block;text-align: center;">And it gets even weirder!</strong>
+  <strong style="display: block;text-align: center;">E la situazione si fa ancor più strana!</strong>
   {{import '~/tweet' ids=[
     '1224039568971710464'
     '1224040716365524993'
@@ -71,24 +71,24 @@ The fact is, the vast majority of the population has never been tested for genet
 </div>
 }!}
 
-#### Brain Split
+#### Divisione del Cervello
 
-The prenatal brain doesn't really start to develop until between week 12 and 24. The cerebral cortex, the thin outer layer of the brain that contains most of what we think of as consciousness, grows substantially during those periods of time. Prior to that, the structure present is more like a scaffolding — the basic parts of the nervous system necessary for bodily function. The primary sulci (the wrinkles in the cerebral cortex that allow for more surface area) [start to form at week 14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), well after the genitals have developed.
+Il cervello prenatale non inizia davvero a svilupparsi fino al periodo compreso fra la dodicesima e la ventiquattresima settimana. La cortecca cerebrale, il sottile strato esteriore del cervello che contiene ciò che la maggior parte di noi considera la coscienza, cresce sostanzialmente in questo periodo. Prima di questo periodo però, la struttura presente è più simile a un'impalcatura — le componenti più basilari del sistema nervoso necessarie per il funzionamento dell'organismo. I solchi principali (le "rughe" della corteccia cerebrale che permettono di avere una maggiore superficie) [iniziano a formarsi alla quattordicesima settimana](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2989000/#Sec5title), ben dopo lo sviluppo dei genitali.
 
-It [has been confirmed multiple times](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) via MRI studies that there are small but significant differences between cis male and cis female brains — differences which align with the gender identities of trans people in the study. Note that **this does not mean that anyone with those differences will have that gender**; gender identity isn't that simple, but it provides evidence that there is a clear difference in masculine and feminine brains. [There is also evidence](https://www.pnas.org/content/112/50/15468) that brains can have mosaic combinations of these differences, which may be the case in non-binary people.
+E' [stato confermato più volte](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) attraverso studi effettuati con risonanza magnetica che ci sono piccole ma sostanziali differenze fra il cervello cis maschile e il cervello cis femminile — differenze che si allineano con l'identità di genere delle persone trans coinvolte nello studio. Questo  **non vuol dire che chiunque abbia certe caratteristiche abbia anche il genere associato**; l'identità di genere non è così semplice, ma ci dà prova che esiste una chiara differenza fra i cervelli mascolini e femminili. [Ci sono inoltre prove](https://www.pnas.org/content/112/50/15468) che i cervelli possono possedere una combinazione mista fra i caratteri maschili e femminili, com'è spesso il caso nelle persone non binarie.
 
-A change in the testosterone levels in the fetus after the 11th week can directly impact the masculinization of the cerebral cortex, as well as changes in other parts of the brain structure. This has been examined [over and over again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) in studies of female-assigned children with CAH (congenital adrenal hyperplasia) and CAIS (complete androgen insensitivity syndrome).
+Un cambiamento nei livelli di testosterone nel feto dopo l'undicesima settimana ha un impatto diretto sulla mascolinizzazione della corteccia cerebrale, così come impatta i cambiamenti ad altre parti della struttura del cervello. Questo è stato visto [ancora ed ancora](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350266/) nel corso di studi effettuati su bambini assegnati femmine alla nascita affetti da iperplasia surrenalica congenita (CAH) e  da sindrome da insensibilità completa agli androgeni.
 
-<blockquote class="cite"><p>We found a significant relationship between fetal testosterone and sexually differentiated play behavior in both girls and boys.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys</a></blockquote>
+<blockquote class="cite"><p>Abbiamo notato un nesso notevole fra il testosterone fetale e il comportamento durante i giochi fra bambini e bambine.</p>&mdash; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778233/">Il Testosterone In Fase Fetale Prevede Il Comportamento Sessualmente Differenziato Fra Ragazzi e Ragazze Durante L'Infanzia</a></blockquote>
 
-An excess of testosterone in the mother’s body during the second trimester can (and does) cause masculinization of the brain in an externally female fetus, and an interference in testosterone production or uptake can (and does) cause feminization of the brain in an externally male fetus. This interference does not have to be external in origin, either. Any number of genetic traits can cause the brain to respond differently to testosterone.
+Un eccesso di testosterone nel corpo della madre durante il secondo trimestre può provocare (e provoca) la mascolinizzazione del cervello in un feto esternamente femminile, così come un'interferimento con la produzione di testosterone o il suo assorbimento può provocare (e provoca) la femminilizzazione del cervello in un feto esternamente maschio.Questo interferimento non ha origine necessariamente esterna. Un qualunque numero di tratti genetici può far sì che il cervello risponda in maniera diversa al testosterone.
 
-A fairly large study of transgender individuals released in 2018 [found several key genes](https://academic.oup.com/jcem/article/104/2/390/5104458) which were statistically more likely to be longer among trans women (longer as in having more repeated fragments). Individually these genes may not have an impact strong enough to cause a malfunction of masculinization, but collectively they absolutely could reduce the ability for the fetal brain to masculinize. These genes are all passed from parent to child, giving credence to a tendency for trans parents to have trans children.
+Uno studio piuttosto grande effetttuato su delle persone transgender e pubblicato nel 2018 [ha individuato diversi geni chiave](https://academic.oup.com/jcem/article/104/2/390/5104458) che avevano più probabilità statistica di essere più lunghi nelle donne trans (ovvero avevano frammenti ripetuti). Individualmente, questi geni potrebbero non avere un impatto abbastanza forte da causare problemi al processo di mascolinizzazione, ma presi collettivamente possono assolutamente ridurre la capacità di mascolinizzazione del cervello del feto. Questi geni vengono poi ereditati dalla prole, dando origine alla credenza che i genitori trans facciano figli trans.
 
-#### Gender is Biological
+#### Il Genere E' Biologico
 
-Sadly, western society has actively prevented a deeper understanding of gender. Ancient civilizations understood it well, but colonialism wiped them off the map. 100 years ago, [scientists in Germany were actively studying](https://en.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) transgender medicine and made extraordinary advancements, until the Nazis burned it all in 1933. Conservative and fascist pressures in the modern day have hindered advancements in transgender healthcare whenever possible.
+Purtroppo, la società occidentale ha attivamente prevenuto i tentativi di comprendere più a fondo il genere. Le civiltà antiche lo capivano bene, ma il colonialismo le ha spazzate via dalla circolazione. 100 anni fa, [gli scienziati tedeschi stavano attivamente studiando](https://it.wikipedia.org/wiki/Institut_f%C3%BCr_Sexualwissenschaft) la medicina transgender e stavano facendo progressi straordinari, finché i nazisti non distrussero tutto nel 1933.  Le pressioni fasciste e conservatrici dell'epoca contemporanea hanno messo i bastoni fra le ruote a ogni forma di progresso su questi argomenti in ogni maniera possibile.
 
-Yet, progress continues, and every few years we learn a little bit more.
+Eppure, i progressi continuano ed ogni anno apprendiamo qualcosa in più.
 
-What we know for certain is that it is not a psychological condition. It is not something caused by trauma or by any external influence; nothing can make a person transgender. It happens in the womb, and is not something that a person can choose to be, any more than they could choose their race or their eye color. It has nothing to do with sexual orientation, it has nothing to do with kinks or fetishes, and it has nothing to do with social influences from their parents or from their peers. [Transgender children are as firm in their identities as cisgender children are](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
+Ciò che sappiamo per certo è che non si tratta di una condizione psicologica. Non è qualcosa che viene causato da traumi o da qualunque altra influenza esterna; nulla può rendere una persona tras. Succede all'interno dell'utero, non è qualcosa che la persona sceglie di essere come una persona non sceglie il colore della propria pelle o dei propri occhi. Non ha nulla a che fare con l'orientamento sessuale, non ha nulla a che fare con i feticismi e non ha nulla a che fare con le pressioni sociali da parte di famiglia e amicizie.  [I bambini transgender sono sicuri della propria identità quanto quelli cisgender.](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#20bbb14526bf).
