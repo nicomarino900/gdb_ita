@@ -122,9 +122,9 @@ La mastectomia tipicamente cambia la forma dei capezzoli per rendermi più masco
   - Incremento delle dimensioni del mento
   - Incremento tracheale (ingrossamento del pomo d'Adamo)
 
-Altre operazione transfemminili:
+Altre operazioni femminilizzanti:
 
-- Innalzamento del Sedere Brasiliano: il grasso viscerale viene trapiantato nel sedere per migliorare le proporzioni fra vita e fianchi.
+- Innalzamento del Sedere Brasiliano (meglio noto come Brazilian Butt Lift o BBL): il grasso viscerale viene trapiantato nel sedere per migliorare le proporzioni fra vita e fianchi.
 - Operazione di femminilizzazione della voce: un'incisione effettuata sulle corde vocali per rendere la voce più acuta.
 - Operazione di Cenerentola: le ossa del piede vengono accorciate per ridurre le dimensioni del piede. ESTREMAMENTE RISCHIOSA
 - Riduzione delle spalle: La clavicola viene accorciata per poter ridurre la larghezza delle spalle. ESTREMEMANTE RISCHIOSA
