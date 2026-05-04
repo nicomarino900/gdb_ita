@@ -48,35 +48,35 @@ Ci sono moltissimi fattori che possono rendere i cromosomi ben più complessi di
   - Assenza o mancanza di gene SRY
   - Assenza o mancanza di sintesi di [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) (articolo in inglese) 
   - Assenza della proteina [SF-1](https://xagena.it/news/e-endocrinologia_it_news/235e750be0043b6784a3f0d91f4bbd23.html) a causa di problemi surrenali
-  - Assenza o carenza del gene [CBX2] (https://en.wikipedia.org/wiki/CBX2_(gene)) (articolo in inglese) gene, preventing TDF cascade
+  - Assenza o carenza del gene [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) (articolo in inglese), impedendo una cascata di TDF
 
-- [XX gonadal dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer syndrome, except it occurs in XX children and results in nonfunctional ovaries.
+- [La disgenesia gonadica XX](https://it.wikipedia.org/wiki/Disgenesia_gonadica) è molto simile alla sindrome di Swyer, se non che avviene in persone XX e causa ovaie non funzonali.
 
-- [Turner syndrome](https://en.wikipedia.org/wiki/Turner_syndrome) (45,X) produces a phenotypically-female child with numerous abnormalities. It occurs when neither an X or Y chromosome crosses over from the sperm.
+- [La sindrome di Turner](https://it.wikipedia.org/wiki/Sindrome_di_Turner) (45,X) produce un bambino fenotipicamente femmina con numero anomalie. Avviene quando né un cromosoma X né un cromosoma Y arrivano dallo sperma.
 
-- [Klinefelter syndrome](https://en.wikipedia.org/wiki/Klinefelter_syndrome) (47,XXY) results in a phenotypically-male child with more feminine traits. In extremely rare cases [it appears in female-assigned children](https://www.ncbi.nlm.nih.gov/pubmed/15755052) as well, resulting in feminized testicles instead of ovaries.
+- [La sindrome di Klinefelter syndrome](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) (47,XXY) risulta in un bambino fenotipicamente maschio con caratteri più femminili. In casi estremamenti rari [accade anche in persone assegnate femmina alla nascita (articolo in inglese)](https://www.ncbi.nlm.nih.gov/pubmed/15755052) e causa testicoli femminilizzati al posto delle ovaie.
 
-- [48,XXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/XXXY_syndrome) has similar results to 47,XXY Klinefelter syndrome, but with more intense health issues.
+- [La sindrome di Klinefelter syndrome 48,XXXY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) è simile alla sindrome di Klinefelte 47,XXY, ma con problemi di saluta più gravi.
 
-- [49,XXXXY Klinefelter syndrome](https://en.wikipedia.org/wiki/49,XXXXY) is often fatal, but when it isn't, it often results in a sterile child.
+- [La sindrome di Klinefelter 49,XXXXY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) è spesso fatale, ma quando non lo è genera una prole sterile.
 
-- [Trisomy X](https://en.wikipedia.org/wiki/Triple_X_syndrome) (47,XXX), [Tetrasomy X](https://en.wikipedia.org/wiki/Tetrasomy_X) (48,XXXX), and [Pentasomy X](https://en.wikipedia.org/wiki/49,_XXXXX) (49,XXXXX) all result in a female child, but with progressively more intense health issues.
+- [Le sindromi della tripla X](https://it.wikipedia.org/wiki/Sindrome_della_tripla_X) (47,XXX), [della quadrupla X](https://it.wikipedia.org/wiki/Sindrome_della_quadrupla_X) (48,XXXX) e della [Pentasomia X](https://it.wikipedia.org/wiki/Pentasomia_X) (49,XXXXX) generano tutte una bambina femmina, ma con problemi di salute man mano più gravi.
 
 - [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) who often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male.
 
-- [Mosaicism](https://en.wikipedia.org/wiki/Mosaic_(genetics)) results when some cells in the body have one set of chromosomes and other cells have another due to a mutation of the genome during gestation. This may be XX/XY (resulting in a dual set of genitalia), X/XY (a milder form of Swyer or Turner syndromes) or XX/XXY (a milder form of Klinefelter syndrome).
+- [Il mosaicismo genetico](https://it.wikipedia.org/wiki/Mosaico_genetico)) fa sì che alcune cellule del corpo abbiano dei determinati cromosomi, mentre altre cellule hanno cromosomi diversi a causa di una mutazione del genoma durante la gravidanza. Ciò può creare per esempio XX/XY (genitali di entrambi i sessi), X/XY (una forma meno grave della sindrome di Swyer o di Turner) oppure XX/XXY (una forma meno grave della sindrome di Klinefelter syndrome).
 
-- [Chimerism](https://en.wikipedia.org/wiki/Chimera_(genetics)) occurs when two fertilized embryos merge together into one zygote, causing half of the child to contain one set of DNA and the other half to contain another. This can result in an otherwise completely typical human being of either male or female phenotype, even capable of producing offspring, but which comes back on a karyotype test as not matching their phenotype based on where the sample was taken on their body. In extremely rare cases this can result in two full sets of reproductive organs.
+- [La chimera](https://it.wikipedia.org/wiki/Chimera_(biologia)) è un fenomeno nel quale due embrioni fertilizzati si fondono in uno zigote, facendo sì che metà della prole contenga il DNA di un'embrione e l'altra metà il DNA dell'altro. Questo può risultare in un essere umano fenotipicamente maschio o femmina del tutto tipico, persino fertile, ma che a un test del cariotipo potrebbe non avere risultati combacianti in base alla parte del corpo da cui viene raccolto il campione. In casi estremamente rari possono avere due apparati riproduttivi completi.
 
-- [Congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia) (CAH) is masculinization of the female genitals in an XX child due to overactive adrenal glands.
+- [L'iperplasia surrenale congenita](https://it.wikipedia.org/wiki/Iperplasia_surrenale_congenita) è la mascolinizzazione dei genitali femminile in prole XX a cause di ghiandole surrenali iperattive.
 
-- [Androgen insensitivity syndrome](https://en.wikipedia.org/wiki/Androgen_insensitivity_syndrome) (AIS) is a total or partial resistance to all androgens, preventing masculinization of all organs, save for the testicles, in an XY child. AIS subjects typically develop a female gender identity, but some partial cases may be male.
+- [La sindrome di insensibilità agli androgeni](https://it.wikipedia.org/wiki/Sindrome_da_insensibilit%C3%A0_agli_androgeni) è una resistenza parziale o totale a tutti gli androgeni, impedendo la mascolinizzazione di tutti gli organi, eccetto i testicoli, in prole XY. Spesso le persone affette sviluppano un'identità di genere femminile, ma in alcuni casi maschile.
 
-- [5-alpha-reductase deficiency](https://en.wikipedia.org/wiki/5-alpha-reductase_deficiency) (5ARD) is a failure in the body's ability to metabolize testosterone into dihydrotestosterone (DHT), preventing masculinization of the genitalia until the onset of puberty, when the child suddenly grows a penis.
+- [Il deficit di 5 alfa reduttasi](https://www.medicoverhospitals.in/it/diseases/5-alpha-reductase-deficiency/) è un problema dell'organismo nel metabolizzare il testosterone in diidrotestosterone, impedendo la mascolinizzazione dei genitali fino alla pubertà, momento in cui il bambino sviluppa improvvisamente un pene.
 
-- [Aromatase deficiency](https://en.wikipedia.org/wiki/Aromatase_deficiency) causes masculinization of an otherwise female child due to excess levels of testosterone (and can bleed over into the mother during gestation).
+- [La sindrome del deficit di aromatasi](https://www.medicoverhospitals.in/it/diseases/aromatase-deficiency/) causa la mascolinizzazione di un embrione altrimenti femminile a causa di eccessivi livelli di testosterone (e può ripercuotersi anche sulla madre nel corso della gravidanza).
 
-- [Aromatase excess](https://en.wikipedia.org/wiki/Aromatase_excess_syndrome) causes feminisation in an otherwise male child, as all testosterone is converted into estrogen.
+- [La sindrome da eccesso di aromatasi](https://www.medicoverhospitals.in/it/diseases/aromatase-excess-syndrome/) causa la femminilizzazione di un embrione altrimenti maschile, poiché tutto il testosterone viene convertito in estrogeni.
 
 {!{ <div class="span34 center print-span2">
   {{import '~/tweet' ids=[
@@ -97,8 +97,8 @@ Ci sono moltissimi fattori che possono rendere i cromosomi ben più complessi di
   ] tweets=meta.tweets className="" }}
 </div>}!}
 
-## But Most People Are Still XX or XY!!!
+## Ma La Maggior Parte Della Gente Resta XX o XY!!!
 
-Biological sex in endosex (non-intersex) people is still more complicated than the simplistic XX/XY model suggests. Even if someone has typical 46,XX or 46,XY chromosomes, the body can change how it *uses* DNA without changing the DNA sequence itself. This process is called [epigenetics](https://www.cdc.gov/genomics-and-health/epigenetics/).
+Il sesso biologico nelle persone non intersessuali è comunque più complicato di quanto fa pensare il semplicistico modello XX/XY. Anche se qualcuno possiede i tipici cromosomi 46,XX o 46,XY, il corpo puà cambiare il modo in cui *usa* il DNA senza cambiarne la sequenze stessa. Questo processo viene chiamato [epigenetica](https://it.wikipedia.org/wiki/Epigenetica).
 
-Epigenetic changes vary between XX and XY chromosomes, but they also differ as people age in sex-specific ways. Long-term gender-affirming hormone therapy appears to make some of those [sex-and-age-specific changes](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) more masculine on testosterone, or more feminine on estrogen. Therefore, the DNA of a cis man isn't used the same way as the DNA of a trans woman on estrogen, even if they both have XY chromosomes, and the DNA of a cis woman isn't used the same way as the DNA of a trans man on testosterone, even if they both have XX chromosomes.
+I cambiamenti epigenetici variano fra i cromosomi XX ed XY, ma variano anche man mano che le persone invecchiano in base al sesso. Sul lungo termine, la terapia ormonale di affermazione di genere sembra rendere alcuni di questi [cambiamenti specifici al sesso ed all'età](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) (in base al sesso) più mascolini sotto effetto di testosterone e più femminili sotto effetto di estrogeni. Dunque, il DNA di un uomo cis non viene utilizzato allo stesso modo di una donna trans che prende estrogeni, nonostante abbiano entrambi cromosomi XY, e il DNA di una donna cis non viene utilizzato allo stesso modo di un uomo trans che prende testosterone, anche se hanno entrambi cromosomi XX.
