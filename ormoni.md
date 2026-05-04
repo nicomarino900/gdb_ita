@@ -1,66 +1,66 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Hormones: How do they work"
-linkTitle: "How Hormones Work"
-description: "Keys, Locks, and Car Ignitions"
+title: "Ormoni: come funzionao"
+linkTitle: "Come Funzionano Gli Ormoni"
+description: "Chiavi, Serrature e Accensioni d'Automobili"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/chromosomes
-  prevCaption: Chromosomes
-  next: /en/second-puberty-masc
-  nextCaption: Androgenic Second Puberty
+  prev: /it/cromosomi
+  prevCaption: Cromosomi
+  next: /it/seconda-pubertà-masc
+  nextCaption: Seconda Pubertà Maschile
 classes:
   - gdb
 ---
 
-# How Hormones Work
+# Come Funzionano Gli Ormoni
 
-As we described in the [Causes of Gender Dysphoria](/en/causes) section, every human's DNA contains the genetic instructions for both male and female bodies, and which set of instructions gets used is controlled by what hormones your gonads produce. That differentiation occurs entirely based on whether you happen to have an SRY gene which, between the sixth and eighth weeks of gestation, kicks off a chain reaction that produces testes instead of ovaries. From that point on, every sexual attribute of the human body (primary and secondary) is a result of the hormones that those gonads produce.
+Come abbiamo detto nel paragrafo sulle [Cause della Disforia di Genere](/it/cause), il DNA di ogni essere umano contiene le istruzioni genetiche sia per un corpo maschile che femminile, e le istruzioni vengono eseguite in base al tipo di ormoni prodotto dalle gonadi. La distinzione avviene interamente in base alla presenza o meno del gene SRY che, fra la sesta e ottava settimana di gestazione, dà inizio alla reazione a catena che porta alla formazione dei testicoli al posto delle ovaie. A partire da lì, ogni carettere sessuale del corpo umano (primario o secondario) è un risultato degli ormoni prodotti da quelle gonadi.
 
-If they produce estrogens (primarily estradiol), the genitals form into a vulva, vagina, and uterus. If they produce androgens (primarily testosterone), the genitals form into a penis and scrotum, shifting the [Skene's gland](https://en.wikipedia.org/wiki/Skene%27s_gland) downward and enlarging it into a prostate. Differentiation ends here until the onset of puberty, nine to ten years later, and we all know what puberty does.
+Se producono estrogeni (principalemente estradiolo), i genitali prendono la forma di una vulta, una vagina ed un utero. Se producono androgeni (principalmente testosterone), i genitali prendono la forma di un pene e di uno scroto, spingendo la [ghiandola di Skene](https://it.wikipedia.org/wiki/Ghiandola_di_Skene) verso il basso e facendola diventare una prostata. La differenziazione termina qui, fino all'inizio della pubertà nove/dieci anni dopo, durante la quale sappiamo già cosa succede. 
 
-So how does this work? Why do the cells differentiate like this? Well, before we can explain that, first we have to explain the concept of a **receptor**.
+Dunque come funziona? Perché le cellule si distinguono in questa maniera? Beh, prima di poterlo spiegare, dobbiamo prima spiegare il concetto di **recettore**.
 
-## Hormone Receptors
+## Recettori Ormonali
 
-In simplest terms, a receptor is like the keyed lock ignition on a car (do new cars still have keyed ignitions?). Every cell in the body has a set of locks which activate different functions within that cell. They’re like switches which signal to the cell that it should activate a different part of its genetic sequence. Each receptor can only accept certain chemical compounds, much like how a lock can only accept certain keys, and different chemicals have different capabilities at turning the key. Some can completely start the car, while others only turn it to Accessory Mode.
+Detto in parole povere, un recettore è come la serratura d'accensione di una macchina (le auto moderne hanno ancora l'accensione a serratura?). Ogni cellula del corpo ha lucchetti diversi, ciascuno attiva una funzione diversa all'interno della cellula. Sono come leve che segnalano alla cellula se attivare o meno una parte differente della sua sequenza genetica. Ogni recettore può accettare solo alcuni composti chimici, in maniera simile a come una serratura d'accensione accetta solo chiavi specifiche, e composti diversi hanno capacità diverse nel girare la chiave. Alcune riescono ad accendere la macchina del tutto, mentre altre riescono ad accendere il quadrante.
 
-The ability for a chemical to fit into a receptor is called **relational binding affinity**, and is measured as a percentage of how likely a chemical will bind to a receptor compared to another. So, for example, if hormone B binds only 10% of the time in relation to hormone A, then it is said to have a 10% binding affinity. Similarly, the ability for a chemical to turn the key is called *transactivational ability*. Compounds which fit into a receptor but don’t do anything are called *antagonists*; compounds which are able to turn the key are called **agonists**. If it can only turn the key a tiny bit, it’s called a **partial agonist**.
+L'abilità di un composto chimico di fissarsi a un recettore è **affinità di legame recettoriale**, e viene misurata come una percentuale di probabilità con cui un composto si legherà a un recettore invece che ad un altro. Per esempio, se l'ormone B si lega solo il 10% delle volte rispetto all'ormone A, allora ha un'affinità di legame recettoriale del 10%. In maniera simile, l'abilità di un composto di girare la chiave è chiamata *abilità transattivazionale*. I composti che  che si fissano al recettore ma non fanno niente sono detti *antagonisti*; i composti che riescono a girare la chiave sono detti **agonisti**, o **parzialmente agonisti** se riescono a girare la chiave solo un pochino.
 
-You can think of antagonists like bouncers at a club. They stand in the doorway and prevent anything else from getting through, but don’t enter the club themselves. Most antagonists are referred to as **blockers**. This is different from an **inhibitor**, which is a compound that slows down a chemical reaction, or an *activator*, which speeds up a reaction. In receptors, an inhibitor lowers the ability of the receptor, causing it to respond less effectively to things that bind to the receptor, and an activator increases the ability of the receptor, making it respond stronger, like a booster.
+Immagine i composti antagonisti come i buttafuori di un bar. Rimangono davanti alla porta e impediscono ad altre persone di entrare, ma senza che entrare loro stessi. La maggior parte degli antagonisti sono chiamati **bloccanti**. Ciò è diverso da un **inibitore**, che è un composto che rallenta una reazione chimica, o un *attivatore*, che invece l'accelera. Nei recettori, un inibitore abbassa le capacità di un recettore, portandolo a rallentare la sua efficienza con elementi che si fissano ad esso, mentre un attivatore ne accelera al contrario la capacità di risposta, come un potenziamento.
 
-In some cases, a hormone can function as an inhibitor or an activator for a different hormone by slowing down or increasing behavior in a cell. For example, progesterone increases cell activity, making cells respond more effectively to estrogens and androgens, and testosterone increases the transactivational ability of dopamine receptors, so less dopamine is needed in the brain for the same effect.
+In alcuni casi, un ormone può avere funzione di inibitore o attivatore in un ormone diverso rallentando o accelerando i comportamenti all'interno di una cella. Ad esempio, il progesterone aumenta l'attività cellulare, facendo sì che le cellule rispondano più efficacemente ad estrogeni ed androgeni, mentre il testosterone aumenta l'abilità transattivazionale dei recettori di dopamina, facendo sì che il cervello abbia bisogno di meno dopamina per lo stesso effetto.
 
-## What's in a Hormone
+## Cosa C'è Dentro Un Ormone.
 
-There are four main kinds of hormones:
+Ci sono quattro tipologie principali di ormoni:
 
-- [Amino acids](https://en.wikipedia.org/wiki/Amino_acid) such as melatonin (which controls sleep) or thyroxine (which regulates metabolism).
-- [Peptides](https://en.wikipedia.org/wiki/Peptide_hormone) like oxytocin and insulin, which are collections of amino acids.
-- [Eicosanoids](https://en.wikipedia.org/wiki/Eicosanoid) that are formed from lipids and fatty acids and predominantly affect the immune system.
-- [Steroids](https://en.wikipedia.org/wiki/Steroid), which signaling molecules produced by various internal organs in order to pass messages to other organs within the body.
+- [Amminoacidi](https://it.wikipedia.org/wiki/Amminoacido) come la melatonina (che regola il sonno) e la tirosina (che regola il metabolismo).
+- [Peptidi](https://it.wikipedia.org/wiki/Peptide) come l'insulina e l'ossitocina, che sono insiemi di amminoacidi.
+- [Eicosanoidi](https://it.wikipedia.org/wiki/Eicosanoidi) come i lipidi e gli acidi grassi che influenzano principalmente il sistema immunitario.
+- [Steroidi](https://it.wikipedia.org/wiki/Steroide) sono molecole di segnalazione prodotte da vari organi al fine di trasmettere messaggi agli altri organi del corpo.
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
   link="https://en.wikipedia.org/wiki/File:Steroidogenesis.svg"
   external=1
-  alt="Chart of steroid metabolism flow"
-  caption="All steroids are formed from cholesterols (top left) and are derived from other steroids. Progestogens form into androgens which form into estrogens. This is a one-way exchange, and does not reverse, so don't believe it when someone tells you that too much estrogen will turn it into testosterone."
+  alt="Tabella del flusso metabolico"
+  caption="Tutti gli steroidi vengono formati da vari tipi di colesterolo (in alto a sinistra) e derivano da altri steroidi. I progestinici prendono forma di androgeni che prendono forma in estrogeni. Questo è una scambio unilaterale, e non può essere invertito, quindi se qualcuno ti dice che troppi estrogeni diventeranno testosterone, non crederci."
 }}</div> }!}
 
-For the purposes of transition, this last category is what we care about the most, as all of the sex hormones are steroids. They fall into seven main categories:
+A scopo di transizione, quest'ultima categoria è quella di cui più ci importa, dato che tutti gli ormoni sessuali sono steroidi. Si raggruppano in sette categorie principali:
 
-- [Androgens](https://en.wikipedia.org/wiki/Androgen)
-- [Estrogens](https://en.wikipedia.org/wiki/Estrogen)
-- [Progestogens](https://en.wikipedia.org/wiki/Progestogen)
-- [Glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)
-- [Mineralocorticoids](https://en.wikipedia.org/wiki/Mineralocorticoid)
-- [Neurosteroids](https://en.wikipedia.org/wiki/Neurosteroid)
-- [Aminosteroids](https://en.wikipedia.org/wiki/Aminosteroid)
+- [Androgeni](https://it.wikipedia.org/wiki/Androgeno)
+- [Estrogeni](https://it.wikipedia.org/wiki/Estrogeno)
+- [Progestinici](https://health-it.it/progestinico-cose/)
+- [Glucocorticoidi](https://it.wikipedia.org/wiki/Glucocorticoide)
+- [Mineralocorticoidi](https://it.wikipedia.org/wiki/Mineralcorticoide)
+- [Steroidi neurattivi](https://it.wikipedia.org/wiki/Steroide_neuroattivo)
+- [Amminosteroidi]
 
-The first three of these are what we care about most when it comes to hormone therapy. Note: All human beings, regardless of phenotype, have some of every one of these hormones in their bodies. The ratios are what affect body shape.
+I primi tre sono quelli di cui ci interessa di più ai fini della terapia ormonale. Tieni a mente: tutti gli esseri umani, indipendentemenete dal fenotipo, hanno un po' di questi ormoni nel proprio corpo. Le proporzioni di ciascuno influenzano la forma del corpo.
 
-### Androgens
+### Androgeni
 
 There are nearly a dozen different androgens, but the ones we care about the most are [testosterone](https://en.wikipedia.org/wiki/Testosterone) and [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
 
