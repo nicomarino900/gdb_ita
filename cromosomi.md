@@ -1,16 +1,16 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Disorders of Sex Development: Gender is not Chromosomal"
-linkTitle: "Chromosomes"
-description: "DNA is more what you'd call guidelines than actual rules."
+title: "Disturbi della Differenziazione Sessuale:: il Genere non è Cromosomico"
+linkTitle: "Cromosomi"
+description: "Il DNA è più simile a delle linee guida che a delle vere e proprie regole."
 preBody: '_disclaimer'
 classes:
   - gdb
 siblings:
-  prev: /en/causes
-  prevCaption: Causes of Gender Dysphoria
-  next: /en/hormones
-  nextCaption: How Hormones Work
+  prev: /it/cause
+  prevCaption: Cause della Disforia di Genere
+  next: /it/ormoni
+  nextCaption: Come Funzionano gli Ormoni
 tweets:
   - https://twitter.com/RebeccaRHelm/status/1207834357639139328
   - https://twitter.com/RebeccaRHelm/status/1207835110617309191
@@ -28,9 +28,9 @@ tweets:
 
 ---
 
-# But the Chromosomes!!!
+# Ma I Cromosomi!!!
 
-## More than Two Options
+## Più Di Due Opzioni
 
 {!{ <div class="gutter">
   {{import '~/tweet' ids=[
@@ -39,16 +39,16 @@ tweets:
 </div>}!}
 
 
-There are dozens of ways that chromosomes can be much more complex than XX and XY. Referred to as DSDs ([differences in sex development](https://en.wikipedia.org/wiki/Disorders_of_sex_development)), not all of them result in an intersex condition, and many only manifest at the onset of puberty.
+Ci sono moltissimi fattori che possono rendere i cromosomi ben più complessi di XX ed XY. Chiamati ([disturbi della differenziazione sessuale](https://it.wikipedia.org/wiki/Intersessualit%C3%A0)), non tutti portano ad una condizione di intersessualità, e potrebbero manifestarsi solo con l'inizio della pubertà.
 
-- [De la Chapelle syndrome](https://en.wikipedia.org/wiki/XX_male_syndrome) (46,XX Male) occurs when the SRY gene from the sperm parent crosses over into a non-Y-bearing sperm during spermatogenesis. When the egg and sperm merge, it results in an XX embryo with an SRY gene, creating a phenotypically-male child with two X chromosomes.
+- La [sindrome di De La Chapelle](https://dizionariomedico.it/malattie/genetiche/sindrome-di-de-la-chapelle/) (46,XX Maschio) è causata dal gene SRY quando quest'ultimo si muove verso uno spermatozoo non portante Y nel corso della spermatogenesi. Quando l'uovo e lo sperma si fondono, il risultato è un'embrione XX con il gene SRY, creando un bambino con fenotipo maschile ma con due cromosomi X.
 
-- [Swyer syndrome](https://en.wikipedia.org/wiki/Swyer_syndrome) (46,XY Female) produces a phenotypically-female child with an XY chromosome. This results from a dozen different genetic conditions, including:
+- La [sindrome di Swyer](https://it.wikipedia.org/wiki/Disgenesia_gonadica_pura) (46,XY Femmine) produce un bambino con fenotipo femminile ma con cromosomi XY. Questo può avvenire per mezzo di una dozzina di diverse condizioni genetiche, fra le quali:
 
-  - Absence or defect of an SRY gene
-  - Absence or defect of [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) synthesis
-  - Absence of the [SF-1](https://en.wikipedia.org/wiki/Steroidogenic_factor_1) protein due to adrenal failure
-  - Absence of or defect the [CBX2](https://en.wikipedia.org/wiki/CBX2_(gene)) gene, preventing TDF cascade
+  - Assenza o mancanza di gene SRY
+  - Assenza o mancanza di sintesi di [DHH](https://en.wikipedia.org/wiki/Desert_hedgehog_(protein)) (articolo in inglese) 
+  - Assenza della proteina [SF-1](https://xagena.it/news/e-endocrinologia_it_news/235e750be0043b6784a3f0d91f4bbd23.html) a causa di problemi surrenali
+  - Assenza o carenza del gene [CBX2] (https://en.wikipedia.org/wiki/CBX2_(gene)) (articolo in inglese) gene, preventing TDF cascade
 
 - [XX gonadal dysgenesis](https://en.wikipedia.org/wiki/XX_gonadal_dysgenesis) is very similar to Swyer syndrome, except it occurs in XX children and results in nonfunctional ovaries.
 
