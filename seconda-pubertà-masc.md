@@ -30,7 +30,7 @@ tweets:
 
 ## Cosa Aspettarsi Dalla Terapia Ormonale Mascolinizzante
 
-Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre prendevano assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti, ma storicamente la maggior parte degli studi medici effettuati sulle persone trans sono stati soprattutto basati su aneddoti in quanto non vengono mai finanziate ricerche formali in materia.
+Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti, ma storicamente la maggior parte degli studi medici effettuati sulle persone trans sono stati soprattutto basati su aneddoti in quanto non vengono mai finanziate ricerche formali in materia.
 
 **Nota che questa è una lista di cambiamenti _possibili_. Non ci sono garanzie che ogni persona che si sottoponga alla terapia ormonale mascolinizzante finisca per riscontrare tutti questi cambiamenti. La tua età, la tua genetica, il tuo passato medico, il tuo livello di femminilizzazione a partire dalla pubertà e il regime ormonale sono tutti fattori che influenzeranno i risultati. E' anche una questione di casualità - ogni corpo è diverso - e alcune cose richiedono anni prima che comparire.**
 
