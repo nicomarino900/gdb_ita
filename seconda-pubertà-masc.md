@@ -1,14 +1,14 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Androgenic Second Puberty 101"
-linkTitle: Androgenic Puberty
-description: "What to expect from masculinizing HRT"
+title: "Seconda Pubertà Androgenica"
+linkTitle: Pubertà Androgenica
+description: "Cosa aspettarsi dalla terapia ormonale mascolinizzante"
 preBody: '_disclaimer'
 siblings:
-  prev: /en/hormones
-  prevCaption: How Hormones Work
-  next: /en/second-puberty-fem
-  nextCaption: Estrogenic Second Puberty
+  prev: /it/ormoni
+  prevCaption: Come Funzionano gli Ormoni
+  next: /it/seconda-pubertà-fem
+  nextCaption: Seconda Pubertà Estrogenica
 classes:
   - gdb
 
@@ -26,11 +26,11 @@ tweets:
   - '1431244926214356993'
 ---
 
-# Androgenic Second Puberty 101
+# Seconda Pubertà Androgenica
 
-## What To Expect from Masculinizing HRT
+## Cosa Aspettarsi Dalla Terapia Ormonale Mascolinizzante
 
-This is a compilation of reported medical transition changes collected from testimonials of AFAB trans people taking testosterone hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre prendevano assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
 
 **Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness — every body is different — and some things can take years to appear.**
 
