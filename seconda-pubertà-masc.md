@@ -110,9 +110,9 @@ Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere 
 
 ##### Disturbo da Deficit di Attenzione e Iperattività
 
-Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque un aumento di testosterone può ignorare il potenziale di attivazione di dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria breve termine del cervello. Avere più memoria primaria vuol dire distrarsi meno facilmente e riuscire meglio a sostere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
+Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque un aumento di testosterone può ignorare il potenziale di attivazione di dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria a breve termine del cervello. Avere più memoria primaria vuol dire distrarsi meno facilmente e riuscire meglio a sostere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
 
-*Però*, l'estradiolo incoraggia la produzione di dopamina, dunque con il calo di estrogeni che cala il corpo avrà meno dopamina con cui lavorare. I tuoi peggioreranno, anziché migliorare.
+*Però*, l'estradiolo incoraggia la produzione di dopamina, dunque con il calo di estrogeni che cala il corpo avrà meno dopamina con cui lavorare. I tuoi sintomi peggioreranno, anziché migliorare.
 
 ##### Espansività Emotiva
 
