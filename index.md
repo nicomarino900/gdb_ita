@@ -72,9 +72,9 @@ siblings:
 
 19. [Come Funzionano gli Ormoni](/it/ormoni)
 
-20. [Seconda Pubertà Maschile](/it/seconda-pubertà-masc)
+20. [Seconda Pubertà Androgenica](/it/seconda-pubertà-masc)
 
-21. [Seconda Pubertà Femminile](/it/seconda-pubertà-fem)
+21. [Seconda Pubertà Estrogenica](/it/seconda-pubertà-fem)
 
 22. [Conclusione](/it/conclusione)
 
