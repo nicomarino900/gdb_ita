@@ -30,87 +30,87 @@ tweets:
 
 ## Cosa Aspettarsi Dalla Terapia Ormonale Mascolinizzante
 
-Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre prendevano assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre prendevano assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti, ma storicamente la maggior parte degli studi medici effettuati sulle persone trans sono stati soprattutto basati su aneddoti in quanto non vengono mai finanziate ricerche formali in materia.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on masculinizing HRT will experience all of these. Your age, genetics, medical history, degree of feminization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness — every body is different — and some things can take years to appear.**
+**Nota che questa è una lista di cambiamenti _possibili_. Non ci sono garanzie che ogni persona che si sottoponga alla terapia ormonale mascolinizzante finisca per riscontrare tutti questi cambiamenti. La tua età, la tua genetica, il tuo passato medico, il tuo livello di femminilizzazione a partire dalla pubertà e il regime ormonale sono tutti fattori che influenzeranno i risultati. E' anche una questione di casualità - ogni corpo è diverso - e alcune cose richiedono anni prima che comparire.**
 
-### Voice Drop
+### Abbassamento Della Voce
 
-Androgens cause the tissue that comprises the vocal cords to thicken and harden, permanently lowering the pitch of the voice. This is not a very fast change, but rather incremental over the first few years. Some people do not experience any voice change at all, it varies person to person. The change will not be drastic; if you are a soprano, you are not going to become a bass, but it could bring you down to a contralto or tenor.
+Gli androgeni causano un inspessimento ed indurimento del tessuto che forma le corde vocali, abbassando il tono della voce in maniera permanente. Quest non è un cambiamento molto rapido, ma progredisce nel corso dei primi anni. Ad alcune persone la voce non cambia per nulla, è una questione individuale. Il cambiamento non sarà drastico; se prima la tua voce era da soprano, non diventerà un basso, ma potrebbe diventare un tenore o un contralto.
 
-This does *not* mean that your voice will automatically become read as male. Pitch is only a piece of how people gender voice, and the way you speak plays a much larger role. Vocal training will be needed to amplify resonance and change speaking style.
+Questo *non* vuol dire che la tua voce verrà automaticamente riconosciuta come maschile. Il tono di voce è solo uno dei modi con cui la gente dà genere alla voce, il modo in cui parli è ben più importante. Dovrai allenare la voce al fine di amplificare la risonanza e cambiare lo stile con cui parli.
 
-### Changes in Body Temperature Placement
+### Cambiamenti Alla Distribuzione Della Temperatura Corporea 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374039857773875201'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Androgens encourage extra blood flow to the extremities, making them warmer. Because of this, men have cooler cores but warmer oral and surface level temperatures. You may see your basal body temperature increase. The net result is that you will *feel* warmer, and likely will not be able to layer clothing as much as previously possible. If you live in cold climates, exposing your calves can help to dissipate heat without chilling you too severely.
+Gli androgeni spingono il flusso sanguigno a scorrere di più verso le estremità, rendendole più calde. Per questa ragione, gli uomini sono più freddi nelle zone interne ma più caldi nelle zone superficiali ed orali. Potresti notare un aumento della tua temperatura corporea. Il risultato finale sarà che *sentirai* più calore e probabilmente non riuscirai a stratificare il vestiario come prima. Se vivi in un posto con un clima freddo, esporre i polpacci aiuta a dissipare il calore senza raffreddarti troppo.
 
-This change often comes fairly early on; expect night sweats while your system gets used to it.
+Questo cambiamento avviene abbastanza presto; preparati a delle sudate notturne mentre il tuo organismo ci si abitua.
 
-### Changes in Perspiration
+### Cambiamenti Nella Perspirazione
 
-With the above shift in temperature distribution, this also results in a significant change in how one sweats. Sweat will pool on the head, back and armpits. You'll also likely sweat more often, so keep water handy.
+Con il sopracitato cambiamento alla distribuzione della temperatura corporea, questo porta anche ad un cambiamento nel mondo in cui si suda. Il sudore sarà soprattutto su testa, schiena ed ascelle. Probabilmente suderai anche più spesso, quindi tieni sempre dell'acqua a portata di mano.
 
-### Body Odor
+### Odore Del Corpo
 
-Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. The smell will take on a sour, muskier smell. Tends to even out over time.
+Un altro dei primi cambiamenti: il sudore e in generale l'odore del corpo diventeranno molto più forti, soprattutto durante l'esercizio fisico. Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. La puzza avrà un aroma molto più pungente, ma col tempo tende a migliorare un po'.
 
-### Body Hair, Everywhere
+### Peli Ovunque
 
-Androgens significantly increase the presence of body hair on the legs, groin, buttocks, chest, back, and arms. Hair will grow in thicker, longer, and darker. This will likely happen well before facial hair growth, which can take over a year to start. Rogaine/minoxidil can help with that, but be careful, as it is poisonous if ingested (especially to cats).
+Gli androgeni aumentano in maniera significativa la presenza di peli su gambe, inguine, natiche, petto, schiena e braccia. I peli diventeranno più spessi, lunghi e scuri. Questo probabilmente succederà ben prima che si sviluppino i peli facciali, che possono impiegare anche un anno prima che inizino a crescere. Prodotto come Rogaine/Minoxidil possono aiutare un po', ma attenzione perché sono farmaci velenosi se ingestiti (soprattuto per i gatti).
 
-### Male Pattern Baldness
+### Calvizie Maschile 
 
-MPB is caused by [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone) (DHT), an androgen which metabolizes from Testosterone. Having more T in your body means more DHT can form, and the gene that contributes to MPB causes the hair follicles on the scalp to receive less blood, choking them out until the follicles die. There will likely be *some* loss of hair line eventually, no matter what, but if there is a history of baldness among the men in your family, then you can expect to see that as well. Again, minoxidil can help with this.
+La calvizie maschile è causata dal [diidrotestosterone](https://it.wikipedia.org/wiki/Diidrotestosterone) (DHT), un androgeno metabolizzato a partire dal testosterone. Avere più testosterone in corpo porta anche ad avere più DHT e il gene che contribuisce alla calvizie riduce man mano il sangue che arriva ai follicoli sulla testa, soffocandoli finché non muoiono. Questo eventualmente porterà alla perdita di un *po'* di capelli, ma se in famiglia la calvizie è comune fra gli uomini della tua famiglia, allora aspettati che possa succedere anche a te. Anche qui il Minoxidil può aiutare.
 
-The synthetic androgen [nandrolone](https://en.wikipedia.org/wiki/Nandrolone) does not metabolize into DHT and may be a viable alternative in place of direct testosterone if hair loss is a concern. However, DHT is important for genital growth, so this is a double-edged sword.
+L'androgeno sintetico [nandrolone](https://it.wikipedia.org/wiki/Nandrolone) non viene trasformato in DHT e può essere una valida alternativa se perdere i capelli è una grossa preoccupazione. Però, il DHT è importante per lo sviluppo dei genitali, quindi è un'arma a doppio taglio.
 
-### Thicker and Oilier Skin
+### Pelle Più Oleosa e Spessa
 
-Testosterone promotes the thickening and toughening of the epidermis, causing skin to become coarser. As estrogen levels fall, the body will produce less collagen. This causes the skin to become tougher and drier (especially in the knees and elbows). Veins on the hands, arms, and legs may become more pronounced, but not varicose.
+Il testosterone promuove l'inspessimento e l'indurimento dell'epidermide, rendendo la pelle più ruvida. Con il calo dei livelli di estrogeni, il corpo produrrà man mano meno collagene. La pelle diventerà più dura e secca (soprattutto gomiti e ginocchia). Le vene su mani, braccia e gambe si faranno più pronunciate, ma non varicose.
 
-Expect your face and scalp to become oilier. Acne is likely to be a problem, and not just on the face. This tends to be worst immediately after dosing. This will generally improve after the first few years.
+Il tuo viso e la sommità della testa diventeranno più oleose. L'acne sarà probabilmente un problema e non solo sul viso. Il peggio arriva immediatamente dopo il primo dosaggio. Nel corso dei primi tende a migliorare.
 
-### Larger Hands / Feet
+### Mani / Piedi Più Grandi 
 
-Over long periods of time (3-5 years) the hands may become tougher and more calloused. You may need to increase your ring size eventually.
+Nel corso di periodo più lunghi (3-5 anni) le mani potrebbero diventare più dure e callose. Potresti dover cambiare inoltre la taglia dei tuoi anelli. 
 
-Testosterone also causes ligaments and tendons to retain more water, altering their flexibility. Over time this can result in an increase in foot size as the arch of the foot lowers.
+Il testosterone fa anche sì che tendini e legamenti trattengano più acqua, alterando la loro flessibilità. Questo col tempo può portare in aumento delle dimensioni del piede man mano che l'arco plantare si abbassa.
 
-### Thicker and Stronger Nails
+### Unghie Più Forti E Spesse
 
-Both fingernails and toenails will grow thicker over time as keratin levels rise due to the presence of androgens.
+Le unghie di mani e piedi diventeranno più spesse, dato che la presenza di androgeni farà aumentare il livello di cheratina.
 
-### Increased Muscle Mass
+### Aumento Della Massa Muscolare
 
-Androgens stimulate muscle growth, which is why anabolic steroids (which are literally testosterone) are so common amongst bodybuilders. The body will naturally gain more muscle without even having to exercise, but *with* exercise there can be substantial gains, particularly in the arms and shoulders. Beware; you won't know your own strength at first.
+Gli androgeni stimolano lo sviluppo della massa muscolare ed è il motivo per cui gli steroidi anabolizzanti (che sono letteralmente testosterone) sono così usati fra i culturisti. Il corpo svilupperà naturalmente più muscoli senza nemmeno dover fare esercizio, ma *con* l'esercizio fisico si possono ottenere muscoli ancor più sviluppati, soprattutto nelle braccia e nella spalle. Attenzione; all'inizio nemmeno tu capirai la tua nuova forza.
 
-Added lean muscle in the upper body redefines the shoulder and neck line, creating a more masculine silhouette. It also improves the body's ability to process lipids, making weight loss easier.
+La nuova muscolatura nella parte superiore del corpo ridefinirà la forma di spalle e collo, creando una silhouette più maschile. Migliora anche la capacità del corpo di processare i lipidi, rendendo più facile la perdita di peso.
 
-### Fat Redistribution
+### Ridistribuzione Del Grasso
 
-Where estrogen encourages the body to deposit fats into the thighs, buttocks, and hips, androgens encourage the body to deposit fats largely into the abdomen. Starting testosterone will encourage your body to follow the androgen pattern, so you can expect new weight to deposit into your belly, while weight loss will take away from all over. Fat in the breasts, thighs and buttocks will slowly shift away as muscle builds, but this may take a long time.
+Se gli estrogeni incoraggiano il corpo a depositare il grasso su cosce, natiche ed anche, gli androgeni incoraggiano invece il corpo a depositare il grasso sull'addome. Iniziare a prendere testosterone incoraggerà il tuo corpo a seguire lo schema androgeno, quindi aspettati di vedere nuovo peso depositato sulla pancia, mentre il resto del corpo tenderà a perdere peso. Il grasso sui seni, sulle cosce e sulle natiche inizierà pian piano a spostarsi per fare posto ai muscoli, ma potrebbe volerci molto tempo.
 
-### Facial Feature Changes
+### Cambiamenti Ai Connotati Del Viso
 
-Along with body fat migration, fat in the face also moves. The neck, chin and jawline will fill out while the lips and upper cheeks shrink. The color of the eyes may also change and become fainter in the long term, as testosterone causes the pigmentation in the iris to fade.
+Così come il grasso corporeo si sposta, così farà il grasso della faccia. Il collo, il mento e la mandibola si riempiranno, mentre le labbra e le guance si svuoteranno. Il colore degli occhi potrebbe col tempo schiarirsi, dato che il testosterone tende a far scomparire i pigmenti dell'iride.
 
-This is an extremely subtle and slow moving process that takes years, and it is easy to think nothing is changing at all. The greatest shifts seem to happen in years 3 and 4. Take selfies to compare.
+Questo è un processo estremamente lento e malapena percettibile, che può impiegare molti anni, dunque sarà facile credere che nulla stia cambiando. I cambiamenti più importanti avvengono nel terzo e nel quarto anno. Fatti dei selfie per fare paragoni.
 
-### Increased Tolerance of Caffeine, Alcohol, and/or Psychotropics
+### Tollerenza Aumentata per Caffeine, Alcol e Sostanze Psicoattive
 
-More mass means more blood to dilute chemicals into. Increasing testosterone also means a higher metabolic rate, increasing the speed at which toxins are removed from the bloodstream.
+Più massa significa più sangue in cui diluire le sostanze. L'aumento del testosterone vuol dire anche un metabolismo più veloce, accelerando il processo di eliminazione delle tossine dal flusso sanguigno.
 
-### Mental Changes
+### Cambiamenti Mentali
 
-As covered in the Biochemical Dysphoria section, brains can be wired for a certain hormone profile, and running on the wrong profile is like using a laptop with low batteries or an overheated processor. Starting HRT almost universally results in a cessation of depersonalization and derealization (DPDR) symptoms within the first two weeks. A mental fog lifts, and it becomes easier to concentrate on complex concepts (assuming you don't also have other mental processing difficulties such as ADHD).
+Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere fatti per un certo profilo ormonale, ed utilizzare il profilo sbagliato è un po' come usare un portatile quasi scarico o il processore surriscaldato. Iniziare la terapia ormonale porta in maniera quasi universale alla scomparsa dei sintomi di depersonalizzazione e derealizzazione entro due settimana. Man man che la nebbia mentale si dirada, diventa più facile concentrarsi su concetti complessi (sempre che tu non abbia altre condizioni che rendano difficile farlo, come ad esempio il Disturbo da Deficit di Attenzione e Iperattività (ADHD)).
 
-##### ADHD
+##### Disturbo da Deficit di Attenzione e Iperattività
 
-If you have ADHD, there may be some changes in your symptoms. Androgens amplify [dopamine](https://en.wikipedia.org/wiki/Dopamine) receptor function, so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
 
 *However*, estradiol encourages the production of dopamine, so as estrogen levels fall there will be less dopamine for the brain to work with. Your symptoms worsen, not improve.
 
