@@ -207,62 +207,62 @@ La maggior parte del liquido che costituisce l'eiaculazione ha origine nella pro
 
 Alcune persone perdono anche quello e smettono di avere qualunque tipo di emissione durante l'orgasmo.
 
-Needless to say, this comes with sterility. Contrary to what some sources report, this is NOT permanent, and many people have been able to restore testicle functionality by halting hormone therapy, either for detransition or for reproductive purposes.
+Senza bisogno di dirlo, questo porta alla sterilità. Al contrario di quanto dicano alcune fonti, NON è permanente e molte persone recuperano la funzionalità dei testicoli interrompendo la terapia ormonale, che sia a scopo riproduttivo o di detransizione.
 
-##### Testicle Atrophy
+##### Atrofia Dei Testicoli
 
-Once the testes have stopped functioning, the cells start to atrophy, shrinking over time. This atrophy may be accompanied with pain, sometimes in the form of a soreness or a dull throbbing sensation, or sometimes as registering as little sparks of pain that travel along the perineal nerve from the testicles down to the rectum.
+Una volta che i testicoli hanno smesso di funzionare, le cellule iniziano ad atrofizzarsi, rimpicciolendosi con il tempo. Quest'atrofia potrebbe essere accompagnata da dolori, a volte in forma di dolori o deboli pulsazioni, a volte come scintille di dolore che viaggiano attraverso il nervo perinale dai testicoli al retto.
 
-### Sexual Changes
+### Cambiamenti Sessuali
 
-Initial start of HRT may result in a total loss of sex drive as testosterone levels plummet. This can last 3-12 months, and, in some cases, doesn't return at all. Starting progesterone often serves as a catalyst for its return. If/when sex drive comes back, the new libido [may be a completely different experience](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) that one may not recognize at first.
+Inizialmente la terapia ormonale potrebbe portare a una totale perdita del desiderio sessuale mentre i livelli di testosterone calano a picco. Questo può durare fra i tre e i dodici mesi e, a volte, non ritorna più. Iniziare a prendere progesterone può fare da catalizzatore per il suo ritorno. Se/quando il desiderio sessuale ritorna, la nuova libido [potrebbe essere un'esperienza del tutto diversa](https://curvyandtrans.com/p/5BF1EA/libatious-libidos) (articolo in inglese) da quella conosciuta in precedenza.
 
-##### Heightened Erogenous Zones
+##### Zone Erogene Aumentate
 
 {!{
 <div class="gutter flex">
-  <div class="card"><div class="card-body"><h4 class="card-title">Human Erogenous Zones:</h4>
+  <div class="card"><div class="card-body"><h4 class="card-title">Zone erogene umane:</h4>
 {{import '~/img'
   images.erogenous
   link='https://www.researchgate.net/publication/301509880_Topography_of_Human_Erogenous_Zones#pf19'
-  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topography of Human Erogenous Zones</a>'
+  caption='Source: <a href=\"https://link.springer.com/article/10.1007/s10508-016-0745-z\">Topografia delle zone erogene umane</a>'
 }}
   </div></div>
 </div>
 }!}
 
-The entire body becomes more responsive to touch, and with that unlocks stronger erogenous zones. Breasts, abdomen, inner thighs, and neck, in particular, become more arousal-inducing.
+Tutto il corpo potrebbe diventare più reattivo al tatto, il che causa zone erogene più potenti. In particolare i seni, l'addome, la parte interna delle cosce e il collo inducono maggiore eccitazione.
 
-##### Orgasm
+##### Orgasmo
 
-Orgasm changes significantly, both in the way it builds and how it is experienced (see link above), but additionally, if one is lucky, they will gain the ability to become multi-orgasmic with no refractory period. The cost of this is that orgasm may become harder to achieve, and one has to re-learn how to reach it. It also becomes easier to reach with a partner, which may have been the opposite before.
+L'orgasmo cambia significativamente, sia nel modo in cui ci si avvicina ad esso sia come viene vissuto (vedi il link qui sopra), ma inoltre, se si ha fortuna, si potrebbe diventare in grado di avere più orgasmi senza periodo refrattario. Il prezzo da pagare è una maggiore difficoltà nel raggiungere l'orgasmo e il dover reimparare a raggiungerlo. Diventa anche più facile raggiungerlo durante il sesso con altre persone, mentre il contrario potrebbe essere stato vero prima.
 
-##### Attraction
+##### Attrazione
 
-It is [not at all unheard of](https://www.them.us/story/sexual-attraction-after-transition) for a transgender person to experience a change in their sexual orientation with transition. This is almost always the result of the removal of self-imposed mental barriers, but hormone therapy often plays a role *in* that removal. In most cases this simply involves an expansion of ones attraction, from monosexual to bi/pansexual, but some people also discover that their attraction was largely rooted in self-interest and that their true attraction is reversed.
+Non è [inaudito](https://www.them.us/story/sexual-attraction-after-transition) (articolo in inglese) che una persona trans cambi il proprio orientamento sessuale durante la transizione. Questo è dovuto quasi sempre a una rimozione delle inibizioni, ma la terapia ormonale *ha* un ruolo nell'abbattere quelle barriere. Nella maggior parte dei casi si parla di un'espansione della propria attrazione, da monosessuale a bi/pansessuale, ma alcune persone scoprono anche che la loro attrazione era largamente basata sull'autointeresse e che la loro vera attrazione è in realtà invertita.
 
-### Cyclical Period-like Symptoms
+### Sintomi Simili A Quelli Del Ciclo
 
-Obviously, we do not mean blood flow; that would be ludicrous. Symptoms vary greatly (just as they do in cisgender women) and typically last for 2-4 days, repeating every 26-32 days (though some report experiencing it every two weeks). This happens independent of medication dosing schedules. The use of a period tracker app like Clue can reveal the pattern.
+Ovviamente, non parliamo di sangue; sarebbe ridicolo. I sintomi variano (come nelle donne cis) e durano tipicamente fra i 2 ed i 4 giorni, ripetendosi ogni ventisei - trentadue giorni (anche se alcune persone riportano di provarli ogni due settimane). Questo avviene indipendentemente dal dosaggio medico. L'uso di un'app di tracciamento tipo Clu può rivelare la cadenza.
 
-- Cramping in the intestine and abdominal muscles, ranging from a slight flutter in the gut to strong painful spasms.
-- Bloating and water retention
-- Gas, diarrhea and other intestinal issues.
-- Emotional instability, mood swings and irrational thoughts
-  - Heightened depression and dysmorphia
-  - Depersonalization or dissociation.
-  - Increased dysphoria
-  - Irritability (PMS)
-- Muscle and joint aches and pains
-- Breast engorgement and nipple tenderness
+- Crampi all'intestino e ai muscoli addominali, da un leggero dolore a forti spasmi.
+- Gonfiore e ritenzione idrica.
+- Flatulenza, diarrea e altri problemi intestinali.
+- Instabilità emotiva, pensieri irrazionali e sbalzi di umore
+  - Aumento della depressione e della dismorfia
+  - Depersonalizzazione o dissociazione.
+  - Aumento della disforia.
+  - Irritabilità (premestruale)
+- Dolori ai muscoli e alle giunture.
+- Ingrossamento dei seni e ammorbidimento dei capezzoli
 - Acne
-- Fatigue
-- Appetite changes and spontaneous cravings (see: chocolate cravings)
-- Spontaneous shifts in libido
-- Changes in genital odor
+- Affaticamento
+- Cambiamenti d'appetito e voglie spontanee (vedi: voglie di cioccolato)
+- Cambiamenti di libido spontanei
+- Cambiamenti all'odore dei genitali
 
-No, there have not yet been studies on this yet, but it is reported by far, **far** too many individuals to be an anomaly (including by yours truly), and has been confirmed by multiple people's own doctors. There is also precedent of this happening with cisgender women who have had hysterectomies (I personally know two cisgender women who have cycles but do not menstruate, without any medical intervention).
+No, non ci sono ancora studi a riguardo, ma sono riportati da troppe, **troppe** persone per essere un'anomalia (inclusa dalla sottoscritta) e sono stati confermati dai medici di molte persone. Esistono anche precedenti di questo avvenimento nelle donne cis che hanno avuto isterectomie (Conosco personalmente due donne cisgender che hanno il ciclo ma senza mestruazione, senza alcun intervento medico).
 
-Running on estrogen and progesterone activates a gene sequence which instructs the hypothalamus to attempt to cycle ovary and uterine behavior just as it does in female-assigned individuals, regardless of the absence of ovaries or a uterus. This cycle affects numerous organs and subsystems in the body, causing the release of a variety of different hormones and enzymes that can affect function and even behavior.
+Essere sotto regime di estrogeni e progesterone attiva una sequenza di geni che ordina all'ippotalamo di riprodurre il ciclo delle ovaie e il comportamento uterino come nelle persone assegnate femmina alla nascita, nonostante l'assenza di ovaie o di utero. Questo ciclo influenza molti organi e sottosistemi del corpo, portando al rilascio di una varietà di ormoni ed enzimi che influenzano funzione e comportamento.
 
-A more thorough explanation of this will be coming in a later update to the site.
+Una spiegazione più dettagliata arriverà tramita un futuro aggiornamento del sito.
