@@ -98,7 +98,7 @@ Se gli estrogeni incoraggiano il corpo a depositare il grasso su cosce, natiche 
 
 Così come il grasso corporeo si sposta, così farà il grasso della faccia. Il collo, il mento e la mandibola si riempiranno, mentre le labbra e le guance si svuoteranno. Il colore degli occhi potrebbe col tempo schiarirsi, dato che il testosterone tende a far scomparire i pigmenti dell'iride.
 
-Questo è un processo estremamente lento e malapena percettibile, che può impiegare molti anni, dunque sarà facile credere che nulla stia cambiando. I cambiamenti più importanti avvengono nel terzo e nel quarto anno. Fatti dei selfie per fare paragoni.
+Questo è un processo estremamente lento e a malapena percettibile, che può impiegare molti anni, dunque sarà facile credere che nulla stia cambiando. I cambiamenti più importanti avvengono nel terzo e nel quarto anno. Fatti dei selfie per fare paragoni.
 
 ### Tollerenza Aumentata per Caffeina, Alcol e Sostanze Psicoattive
 
