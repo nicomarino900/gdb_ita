@@ -54,7 +54,7 @@ Questo cambiamento avviene abbastanza presto; preparati a delle sudate notturne 
 
 Con il sopracitato cambiamento alla distribuzione della temperatura corporea, questo porta anche ad un cambiamento nel mondo in cui si suda. Il sudore sarà soprattutto su testa, schiena ed ascelle. Probabilmente suderai anche più spesso, quindi tieni sempre dell'acqua a portata di mano.
 
-### Odore Del Corpo
+### Odore Corporeo
 
 Un altro dei primi cambiamenti: il sudore e in generale l'odore del corpo diventeranno molto più forti, soprattutto durante l'esercizio fisico. Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. La puzza avrà un aroma molto più pungente, ma col tempo tende a migliorare un po'.
 
