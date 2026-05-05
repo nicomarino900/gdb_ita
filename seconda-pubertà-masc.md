@@ -100,7 +100,7 @@ Così come il grasso corporeo si sposta, così farà il grasso della faccia. Il 
 
 Questo è un processo estremamente lento e malapena percettibile, che può impiegare molti anni, dunque sarà facile credere che nulla stia cambiando. I cambiamenti più importanti avvengono nel terzo e nel quarto anno. Fatti dei selfie per fare paragoni.
 
-### Tollerenza Aumentata per Caffeine, Alcol e Sostanze Psicoattive
+### Tollerenza Aumentata per Caffeina, Alcol e Sostanze Psicoattive
 
 Più massa significa più sangue in cui diluire le sostanze. L'aumento del testosterone vuol dire anche un metabolismo più veloce, accelerando il processo di eliminazione delle tossine dal flusso sanguigno.
 
@@ -110,44 +110,45 @@ Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere 
 
 ##### Disturbo da Deficit di Attenzione e Iperattività
 
-Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), so increasing testosterone can improve the activation potential for dopamine in the brain. Dopamine is a key neurotransmitter in the behavior of [working memory](https://en.wikipedia.org/wiki/Working_memory), the short-term memory of the brain. More working memory means you may become less prone to distractions and have an easier time maintaining [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque un aumento di testosterone può ignorare il potenziale di attivazione di dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria breve termine del cervello. Avere più memoria primaria vuol dire distrarsi meno facilmente e riuscire meglio a sostere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
 
-*However*, estradiol encourages the production of dopamine, so as estrogen levels fall there will be less dopamine for the brain to work with. Your symptoms worsen, not improve.
+*Però*, l'estradiolo incoraggia la produzione di dopamina, dunque con il calo di estrogeni che cala il corpo avrà meno dopamina con cui lavorare. I tuoi peggioreranno, anziché migliorare.
 
-##### Emotional Expansion
+##### Espansività Emotiva
 
-The alleviation of DPDR almost universally is accompanied with a much broader capacity for emotion and emotional regulation. Emotions become somewhat more controllable and suppressible, less likely to overwhelm on the spot. *Please note: suppressing emotions is a very quick way to develop trauma.*
+L'alleviamento di Depersonalizzazione e Derealizzazione (DPDR) è accompagnato in maniera quasi universale da una migliore capacità di provare e controllare le emozioni. Le emozioni diventano un po' più facili da controllare e reprimere, rendendo meno probabile che le queste ultime ti travolgano sul momento. 
+*Per favore fai attenzione: reprimere le emozioni è un modo rapido per sviluppare traumi.*
 
-However, the ability to express them may become reduced. Some people lose the ability to cry after starting on testosterone, but this is *not* a universal experience and may be tied into how strong your T dose is. The reasons behind this aren't well known, although some studies have found that androgens alter function in parts of the brain connected to emotional processing. If you do lose the ability to cry, it may return in time as your brain becomes more acclimated and you come out of second puberty. Therapy may also help provide you with techniques to cry in a healthy manner.
+Però, l'abilità di esprimere le emozioni si riduce. Alcune persone perdendo la capacità di piangere dopo aver iniziato a prendere testosterone, ma *non* è un'esperienza universale e potrebbe essere legata al dosaggio preso. Il motivo per cui accade non sono ben conosciute, anche se alcuni studi hanno scoperto che gli androgeni alterano la funzione di alcune parti del cervello connesse alle emozioni. Se perdi l'abilità di piangere, potrebbe tornare col passare del tempo, una volta che il cervello si abitua e termini la seconda pubertà. La terapia può anche aiutare a trovare tecniche per piangere in maniera sana.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
   '1374070062236246022'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Emotional deregulation occurs the most commonly before and immediately after dosing (injections or gel) and results in reduced patience and increased aggression.
+La deregolazione emotiva avviene soprattuto prima e immediatamente dopo al dosaggio (gel o iniezioni) e porta a una riduzione della pazienza e una maggiore aggressività.
 
-##### Increased Appetite / Eating Capacity
+##### Miglior Appetito / Capacità di Mangiare
 
-You are going to be hungry. Testosterone cranks the body's metabolism up significantly, and increased muscle mass means there is more to feed, so you will burn calories faster.
+Avrai molta fame. Il testosterone accelera il metabolismo in maniera significativa, e più massa muscolare vuol dire più massa da nutrire, dunque brucerai le calorie più velocemente. 
 
-##### Sleep
+##### Sonno
 
-Some people report problems with insomnia and having fewer memorable dreams. This is far from universal, however; others feel sleepier and sleep more.
+Alcune persone riportano problemi di insonnia e maggior difficoltà a ricordare i sogni. Questo è lontano dall'essere universale; altre persone riescono invece a dormire di più. 
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374076480985128970'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-##### Confidence
+##### Confidenza
 
-Testosterone is known to induce a strong sense of self-confidence in people. Problems seem less significant, self-esteem is stronger, fewer anxieties. Many people report a tendency to be more prone to spark arguments, and more willing to speak out in the face of conflict and self advocate. This does *not* mean more hostile or argumentative, but simply that one's tolerance for bullshit is lower.
+Il testosterone è noto per indurre una forte sensazione di sicurezza nelle persone. I problemi sembrano meno significativi, l'autostime è più forte e ci sono meno fonti di ansia. Molte persone riportano una tendenza a iniziare più discussioni, a parlare più spesso di fronte ai conflitti e a difendersi. Questo *non* implica una maggiore ostilità o propensione al litigio, ma semplicemente la tolleranza per le cazzate si abbassa.
 
-##### Extroversion
+##### Estroversione
 
-It's extremely common for trans people of all types to find themselves much more sociable post-transition. This may simply be a result of no longer having to suppress large portions of their personality, but the aforementioned confidence also plays a role.
+E' molto comune per le persone trans di ogni tipo di sentirsi molto più socievoli post transizione. Questo potrebbe semplicemente portarle, ma è anche un fatto di aumento della sopracitata confidenza.
 
-### Genital Changes
+### Cambiamenti Dei Genitali
 
 {!{
 <div class="gutter flex flex-center">
@@ -155,11 +156,11 @@ It's extremely common for trans people of all types to find themselves much more
 </div>
 }!}
 
-All genitalia are constructed from the same tissues; they are merely organized differently during gestation. Much of the behavior of these tissues is regulated by the hormones one's body runs on. Skin secretions, textures, sensitivity and erectile behavior are all hormonal expressions. Which means that when you add androgens, these tissues start acting like they are in the shape of a penis and scrotum, even when they aren't.
+Tutti i genitali sono composti dagli stessi tessuti e vengono semplicemente organizzati in maniera diversa nel corso della gestazione. Buona parte dei comportamenti di questi tessuti è regolata dagli ormoni che il corpo utilizza. Secrezioni della pelle, consistenza, sensibilità e comportamento erettile sono tutte espressioni ormonali. Questo vuol dire che quando aggiungi degli androgeni, questi tessuti inizieranno a comportarsi come se avessero la forma di un pene e di uno scroto, anche se è così.
 
-##### Bottom Growth
+##### Crescita Delle Parti Basse
 
-DHT (mentioned above) plays a critical role in the development of the erectile tissue within the genitals. As DHT levels rise with the increase in testosterone, this will cause the Skene's gland (sometimes referred to as the female prostate) to swell. This will induce random erections within the clitoris, causing the erectile tissue to grow. The amount of growth varies from person to person, but 1-3 inches is common.
+Il DHT (menzionato più in alto) ha un ruolo chiave nello sviluppo del tessuto erettile dei genitali. Dato che il DHT aumenta assieme al livello di testosterone, questa farà sì che la ghiandola di Skene (a volte chiamata prostata femminile) inizierà a gonfiarsi. Ciò indurra erezioni casuali per il clitoride, portando all'accrescimento del tessuto erettile. La crescita precisa varia da persona a persona, ma tipicamente si parla di una crescita fra i 2,5 e i 7,5 cm. 
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374094470753423360'
@@ -170,58 +171,58 @@ DHT (mentioned above) plays a critical role in the development of the erectile t
   '1431244926214356993'
 ] tweets=meta.tweets className="grid-row" }} }!}
 
-##### Decreased Lubrication
+##### Diminuzione Della Lubrificazione
 
-The clitoral hood and labia will become drier and thicker over time, and the inner labia may also start to grow hair. Self lubrication may reduce substantially, and over time penetration may become painful. Use more lube to avoid tearing and bleeding.
+Il cappuccio clitorideo e le grandi labbra diventeranno col tempo più secchi e spessi, e le labbra interiori inizieranno a sviluppare dei peli. L'autolubrificazione diminuirà sostanzialemnte e la penetrazione potrebbe diventare più dolorosa. Usa del lubrificante per evitare sanguinamento e lacerazioni.
 
-You can also ask your gynecological provider or primary care doctor about vaginal estrogen. The levels of estrogen used in these products are so low, [there's no risk of interference with the effects of testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/).
+Potresti anche chiedere al medico di base o al ginecologo riguardo gli estrogeni vaginali. I livello di estrogeni usati in questi prodotti sono bassi, dunque [non c'è rischio che interferiscano con gli effetti del testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/) (articolo in inglese).
 
-##### Increased Emissions During Climax
+##### Aumento Di Emissioni Durante L'Orgasmo
 
-With the swelling of the prostate comes more prostate fluid. If you weren't a squirter before, you may become one now.
+Con il gonfiarsi della prostata seguono più fluidi della stessa. Se prima non squirtavi, potresti iniziare a farlo.
 
-##### Changes in Sensitivity and Response
+##### Cambiamenti A Sensibilità E Reazione
 
-Erogenous stimulation may become more focused on the head of the clitoris and in stroking of the shaft. Friction in general may become more pleasurable as opposed to vibration. Some people report greater sensitivity during vaginal penetration due to the thinner skin.
+La stimolazione erogena potrebbe diventare più incentrata sulla punta del clitoride e sullo sfregamento del canale vaginale, La frizione in generale diventerà più piacevole al contrario della vibrazione. Alcune persone riportano anche maggiore sensibilità durante la penetrazione della vagina a causa della pelle più sottile.
 
-##### Atrophy
+##### Atrofia
 
-Vaginal and uterine atrophy often happens within the first five years, and a hysterectomy may become necessary. Signs of atrophy include a deep throbbing in the lower abdomen and painful cramping without other period symptoms, particularly following intercourse. Vaginal atrophy can be avoided through vaginal estrogen, as well as the use of the same vaginal dilators that AMAB trans people use following vaginoplasty.
+L'atrofizzazione della vagina e dell'utero avviene entro i primi cinque anni, motivo per cui un'isterectomia potrebbe diventare una necessità. Fra i segni di atrofia sono inclusi una profonda palpitazione nella zona inferiore dell'addome e crampi dolori senza nessun altro segno tipico del ciclo, in particolare subito dopo un rapporto sessuale. L'atrofia vaginale può essere evitata tramite estrogeni vaginali, così come tramite l'utilizzo degli stessi dilatatori vaginali che le persone assegnate maschio alla nascita utilizzano in seguito a una vaginoplastica.
 
-##### Changes to Pap Test
+##### Cambiamenti Al Pap Test
 
-Your internal genitals may develop small amounts of benign prostate tissue, which can range from a couple cells to a "well-developed" gland. The clinical term is [androgen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/). These prostate cells may be misinterpreted as the lesions created by HPV if found on a Pap test, but unlike HPV, the cells in prostatic metaplasia look medically normal and don't appear to be a cancer risk. If necessary, a biopsy can clearly tell them apart.
+I tuoi genitali interni potrebbero sviluppare piccole quantità di tessuto benigno, che può spaziare da qualche cellula a un glande "ben sviluppato". Il termine clinico è [metaplasia della prostata associata agli androgeniandrogen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/) (articolo in inglese). Queste celluce della prostata potrebbero essere scambiate per lesioni create dal papillomavirus se individuate su un Pap test, ma al contrario del papillomavirus, le cellule della metaplasia della prostata appiano medicamente normali e non sembrano portare rischio di cancro. Se necessario, una biopsia può distinguerle.
 
-Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed.
+La lubrificazione ridotta e l'atrofia, come discusse qui sopra, potrebbero anche rendere fisicamente più difficile svolgere il Pap test. Potrebbe volerci più forza per raccogliere un campione idoneo. Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Uno speculo più piccolo potrebbe ridurre il dolore della procedura. Inoltre, a volte ti potrebbe venir concesso di tamponare la tua stessa cervice, ma nulla di garantito. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed.
 
-##### Increased Sex Drive
+##### Desiderio Sessuale Aumentato
 
 {!{ <div class="gutter flex flex-end">{{import '~/tweet' ids=[
   '1374040823382347778'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-Libido will almost certainly go through the roof for the first year or two, with the strongest effects immediately following dosing. You may find yourself more assertive during sex and more prone to being dominant and/or a top.
+La libido schizzerà quasi sicuramente alle stelle per i primi due anni, con gli effetti maggiori immediatamente dopo il dosaggio. Potresti voler avere un ruolo più assertivo nel sesso e dominare/stare sopra.
 
-##### Orgasm
+##### Orgasmo
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374053191445270534'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-The "shape" of one's orgasm can change. Rather than a cascade, it strikes like an explosion from the groin.
+La "forma" del proprio orgasmo può cambiare. Anziché una cascata, sembrerà un'esplosione proveniente dall'inguine.
 
-##### Attraction
+##### Attrazione
 
-Testosterone has been shown to increase arousal from visual stimuli. As such, you may *notice* people of your sexual preference much quicker, especially if you are gynephilic (attracted to the feminine shape).
+E' stato dimostrato che il testosterone aumenta l'eccitazione causata dagli stimoli visivi. Dunque, potresti *notare* le persone che preferisci sessualmente molto più in fretta, soprattutto se provi attrazione verso le forme femminili (ginefilia).
 
-### Cessation of Menstruation
+### Cessazione Della Mestruazione
 
-The increase of androgens within the body causes the hypothalamus to down-regulate production of the hormones which control the ovaries. This will reduce total estrogen available, and may halt ovulation. Without ovulation and with lower FSH levels, the uterus will be less inclined to build up and release a lining, causing the cessation of blood flow.
+L'aumento di androgeni all'interno del corpo spinge l'ippotalamo ad abbassare la produzione degli ormoni che controllano le ovaie. Questo riduce gli estrogeni totali e può porre fine all'ovulazione. Senza ovulazione e con bassi livelli di FSH, l'utero diventa meno incline a costruire l'endometrio, causando la cessazione del flusso sanguigno.
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1374054574579798016'
 ] tweets=meta.tweets className="hide-mentions" }}</div> }!}
 
-You may still experience other period symptoms, however, as the hypothalamus can continue to express other aspects of the monthly cycle. This can even continue following a total hysterectomy, although it is not common.
+Potresti comunque provare altri sintomi del ciclo, però, dato che l'ippotalamo continua nel corso del ciclo mensile ad esprimere altri suoi aspetti. Questo può continuare ad avvenire anche dopo l'isterectomia totale, anche se non è comune. 
 
-**This does *not* mean that you are infertile, however.** Ovulation can still occur even if you are not menstruating. Additionally, halting testosterone will make the old orbs wake up; they do not die.
+**Questo però *non* vuol dire infertilità.** L'ovulazione può continuare ad avvenire anche senza mestruazione. Inoltre, smettere di prendere testosterone risveglierà le ovaie; esse non muoiono.
