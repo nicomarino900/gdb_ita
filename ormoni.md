@@ -102,16 +102,17 @@ Uno dei ruoli più importanti dei recettori di progestinici è nel mantenere una
 
 L'ormone luteinizzante è ciò che dice alle ovaie ed ai testicoli di produrre estrogeni ed androgeni. LH ed [FSH](https://it.wikipedia.org/wiki/Ormone_follicolo-stimolante) hanno un ruolo centrale nel processo di ovulazione, che è un'altra fonte di estrogeni per chi possiede le ovaie. Dunque, i progestinici sintetici (composti che possono interagire con i recettori progestinici) sono spesso inclusi nei farmaci contraccettivi al fine di impedire l'ovulazione. Nelle persone assegnate maschio alla nascita, i progestinici sono utili per bloccare la produzione di testosterone.
 
-Another type of cell that is full of progestogen receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
+Un altro tipo di cellula in cui i recettori progestinici abbondano è quella del tessuto della mammella. Il progesterone ha un ruole importante per la crescita e la maturazione dei dotti lattiferi. Per quanto esista ancora poca ricerca formale sull'influenza del progesterone sullo sviluppo dei seni, in materia di annedoti la comunità transfemminile riporta un significativo miglioramento dello sviluppo dei seni. E' stato inoltre dimostrato che il progesterone aumenta il flusso sanguigno che passa per i seni ed incoraggia l'accumulo di grasso nell'aria, entrambi questi fattori contribuiscono alle dimensioni.
 
-Additionally, progesterone promotes better sleep, improves cardiovascular health, increases ketogenesis (reducing triglycerides), increases metabolic function, and has been found to reduce breast cancer risk.
+Inoltre, il progesterone migliora la qualità del sonno, la salute cardiovascolare e la funzione metabolica, migliora anche la chetogenesi (riducendo i trigliceridi) e riducendo il rischio di svilupppare tumori al seno.
 
-### Mineralocorticoids
+### Mineralocorticoidi
 
-Mineralocorticoids play no role in transition, but they are worth mentioning because of one major hormone: [aldosterone](https://en.wikipedia.org/wiki/Aldosterone).
+I mineralocorticoidi non hanno nessun ruolo all'interno di un percorso di transizione, ma vale la pena menzionarli per parlare di un ormone importante: l'[aldosterone](https://it.wikipedia.org/wiki/Aldosterone).
 
-Aldosterone is what instructs the kidneys to *stop* extracting water from the bloodstream. It is produced by the adrenal glands in order to regulate body hydration. Why is this significant?
+L'aldosterone è ciò che ordina ai reni di *smettere* di estrarre acqua dal flusso sanguigno. Viene prodotto dalle ghiandole surrenali con lo scopo di regolare l'idratazione del corpo. Perchè è importante?
 
-Because one drug that is very commonly used in trans hormone therapy is an extremely powerful aldosterone antagonist: spironolactone. Spiro binds to mineralocorticoid receptors more strongly than aldosterone does, but does not activate the receptor. It just clogs it, preventing the kidneys from receiving the signal to stop extracting water.
+Perché un farmaco usato molto spesso nella terapia ormonale di transizione è un antagonista molto potente dell'aldosterone: lo spironolattone. Lo spiro si lega ai recettori di mineralcorticoidi meglio di quanto faccia l'aldosterone, ma senza attivare suddetti recetti. Li intasa e basta, impedendo ai reni di ricevere il segnale di smettere di estrarre acqua. 
 
-This is why spiro makes people pee so much.
+Ecco perché lo spiro fa fare così tanta pipì alla gente.
+
