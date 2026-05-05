@@ -35,10 +35,10 @@ In alcuni casi, un ormone può avere funzione di inibitore o attivatore in un or
 
 Ci sono quattro tipologie principali di ormoni:
 
-- [Amminoacidi](https://it.wikipedia.org/wiki/Amminoacido) come la melatonina (che regola il sonno) e la tirosina (che regola il metabolismo).
-- [Peptidi](https://it.wikipedia.org/wiki/Peptide) come l'insulina e l'ossitocina, che sono insiemi di amminoacidi.
-- [Eicosanoidi](https://it.wikipedia.org/wiki/Eicosanoidi) come i lipidi e gli acidi grassi che influenzano principalmente il sistema immunitario.
-- [Steroidi](https://it.wikipedia.org/wiki/Steroide) sono molecole di segnalazione prodotte da vari organi al fine di trasmettere messaggi agli altri organi del corpo.
+- Gli [amminoacidi](https://it.wikipedia.org/wiki/Amminoacido) come la melatonina (che regola il sonno) e la tirosina (che regola il metabolismo).
+- I [peptidi](https://it.wikipedia.org/wiki/Peptide) come l'insulina e l'ossitocina, che sono insiemi di amminoacidi.
+- Gli [eicosanoidi](https://it.wikipedia.org/wiki/Eicosanoidi) come i lipidi e gli acidi grassi influenzano principalmente il sistema immunitario.
+- Gli [steroidi](https://it.wikipedia.org/wiki/Steroide) sono molecole di segnalazione prodotte da vari organi al fine di trasmettere messaggi agli altri organi del corpo.
 
 {!{ <div class="gutter print-span3">{{import '~/img' images.steroidogenesis
   className="card"
@@ -48,7 +48,7 @@ Ci sono quattro tipologie principali di ormoni:
   caption="Tutti gli steroidi vengono formati da vari tipi di colesterolo (in alto a sinistra) e derivano da altri steroidi. I progestinici prendono forma di androgeni che prendono forma in estrogeni. Questo è una scambio unilaterale, e non può essere invertito, quindi se qualcuno ti dice che troppi estrogeni diventeranno testosterone, non crederci."
 }}</div> }!}
 
-A scopo di transizione, quest'ultima categoria è quella di cui più ci importa, dato che tutti gli ormoni sessuali sono steroidi. Si raggruppano in sette categorie principali:
+Per gli scopi di una transizione, quest'ultima categoria è quella di cui più ci importa, dato che tutti gli ormoni sessuali sono steroidi. Si raggruppano in sette categorie principali:
 
 - [Androgeni](https://it.wikipedia.org/wiki/Androgeno)
 - [Estrogeni](https://it.wikipedia.org/wiki/Estrogeno)
@@ -62,45 +62,45 @@ I primi tre sono quelli di cui ci interessa di più ai fini della terapia ormona
 
 ### Androgeni
 
-There are nearly a dozen different androgens, but the ones we care about the most are [testosterone](https://en.wikipedia.org/wiki/Testosterone) and [dihydrotestosterone](https://en.wikipedia.org/wiki/Dihydrotestosterone).
+Esistono quasi una dozzina di diversi androgeni, ma quelli di cui ci interessa maggiormente sono il [testosterone](https://it.wikipedia.org/wiki/Testosterone) e il [diidrotestosterone](https://it.wikipedia.org/wiki/Diidrotestosterone).
 
-Testosterone is the primary masculinizing hormone for the human body and is produced in the adrenal glands, the testes, and in the ovaries (where it is immediately converted into estrone and estradiol). It tells both muscle and bone cells to grow and, in higher concentrations, encourages larger muscle mass and thicker skeletal structure. This also means that testosterone is critical for bone health, as it affects calcium distribution within the skeletal structure. Thus, severe depletion of testosterone can result in osteoporosis and fragile bones. Testosterone also plays a major role in sex drive and libido, encouraging mating behavior within the cerebral cortex.
+Il testosterone è il principale ormone mascolinizzante del corpo umano e viene prodotto nelle ghiandole surrenali, nei testicoli e nelle ovaie (queste ultime lo convertono immediatamente in estrone ed estradiolo). Dà istruzioni alle cellule delle ossa e dei muscoli di crescere e, se in grandi quantità, incoraggia l'ingrossamento della massa muscolare l'inspessimento dello scheletro. Questo vuol dire anche che il testosterone è fondamentale per la salute delle ossa, poiché influenza la distribuzione del calcio all'interno dello scheletro. Dunque, un grave deficit di testosterone può portare a osteoporosi ed ossa fragili. Il testosterone ha anche un ruolo chiave nel desiderio sessuale e nella libido, incoraggiando i comportamenti legati all'accoppiamento all'interno della corteccia cerebrale.
 
-Dihydrotestosterone (DHT), which is converted from testosterone in the prostate, skin, and liver, plays a major role in the development of the male genitalia during puberty by inducing random erections, and the growth of facial and body hair. Paradoxically, DHT is also what causes male pattern baldness, as it chokes off blood circulation to the follicles on the top of the scalp (sorry, trans guys, it's a double-edged sword). DHT binds to androgen receptors ten times more strongly than testosterone, which is why it is critical to eliminate it for feminizing transition.
+Il diidrotestosterone (DHT), prodotto dalla prostata, dalla pelle e dal fegato utilizzando il testosterone, è molto importante ai fini dello sviluppo dei genitali maschili durante la pubertà ed induce la crescità dei peli sul corpo e sul viso, così come causa erezioni casuali. Paradossalmente, il DHT è anche ciò che causa la calvizie, poiché rallenta la circolazione del sangue verso i follicoli presenti sopra la testa (mi dispiace uomini trans, è un'arma a doppio taglio). Il DHT si lega ai recettori androgeni 10 volte meglio del testosterone ed è questo il motivo per cui è importantissimo eliminarlo ai fini di una transizione femminilizzante.
 
-### Estrogens
+### Estrogeni
 
-There are four estrogens: [estradiol](https://en.wikipedia.org/wiki/Estradiol), [estrone](https://en.wikipedia.org/wiki/Estrone), estriol and estetrol. The latter two are only produced during pregnancy and are important for fetal health, but have no bearing on transition.
+Ci sono quattro tipi di estrogeni: l'[estradiolo](https://it.wikipedia.org/wiki/Estradiolo), l'[estrone](https://it.wikipedia.org/wiki/Estrone), l'[estriolo](https://it.wikipedia.org/wiki/Estriolo) e l'estetrolo. Gli ultimi due vengono prodotti solo durante la gravidanza e sono importanti per la salute del feto, ma non hanno nessun impatto sulla transizione.
 
-Estradiol is the feminizing hormone, as it is the primary signaling hormone for growth in the mammary glands (breast tissue), and because it encourages fat deposits in the thighs, hips, butt, chest, and arms, while discouraging fat deposits in the abdomen, thus producing a curvier figure. Estradiol also promotes increased collagen production, resulting in softer skin and more flexible tendons & ligaments.
+L'estradiolo è un ormone femminilizzante, è il principale segnalatore per la crescita delle ghiandole mammarie (ovvero il seno) e incoraggia l'accumulo di grasso sulle cosce, sulle anche, sulle natiche, sul petto e sulle braccia, scoraggiando il grasso a depositarsi sull'addome e dunque producendo una figura con più curve. L'estradiolo promuove inoltre la produzione di collagene, rendendo la pelle più morbida e rendendo legamenti e tendini più flessibili.
 
-Estrone's role in the body has been something of a puzzle in medical research, as it has significantly lower binding affinity compared to estradiol (0.6%) and very low transactivational ability (4%). The hormone doesn't appear to *do* anything; it just sits in the bloodstream. However, it has a unique ability to convert to and from estradiol via an enzyme group called [17β-HSD](https://en.wikipedia.org/wiki/17%CE%B2-Hydroxysteroid_dehydrogenase), making it ideally suited to function like an estrogen battery within the body.
+Il ruolo dell'estrone all'interno dell'organismo è stato un po' un rompicapo nel campo dellla ricerca medica, poiché ha un'affinità di legame con i recettori molto più bassa rispetto all'estradiolo (0,6%) e un'abilità transattivazionale molto bassa (4%). Ques'ormone non sembra *fare* nulla; scorre semplicemente all'interno del circolo sanguigno. Però, ha la peculiare proprietà di potersi convertire in estradiolo (e viceversa) mediante un gruppo di enzimi chiamato [17β-HSD](https://it.wikipedia.org/wiki/Estradiolo_17beta-deidrogenasi), rendendolo la batteria estrogenica dell'organismo.
 
-New research is starting to suggest that the body may regulate total estradiol levels by releasing HSD17B1 to turn estradiol into estrone, and releasing HSD17B2 to convert it back, but this is a very early study. Both enzymes are produced in breast tissue, and may play a role in the presence of cyclical period-like symptoms in estrogenic individuals who do not have ovaries, such as trans women.
+Le nuove ricerche sembrano suggerire che il corpo regoli i livelli totali di estradiolo rilasciando l'enzima HSD17B1 per convertire l'estradiolo in estrone e rilasciando l'enzima HSD17B2 per la conversione inversa, ma questo è uno studio ancora agli albori. Entrambi gli enzini sono prodotti dal tessuto della mammella e potrebbero avere un ruolo chiave nello spiegare i sintomi simili al ciclo mestruale che le persone prive di ovaie possono avere, come per esempio le donne trans.
 
-{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">For Your Information</h4> }!}
+{!{ <div class="gutter"><div class="card"><div class="card-body"><h4 class="card-title">Per Tua Informazione</h4> }!}
 
-**Why aren't AFAB trans people prescribed estrogen blockers alongside testosterone?**
+**Allora perché alle persone assegnate femmina alla nascita non vengono prescitti i bloccanti estrogenici assieme al testosterone?**
 
-There are two separate sources for estrogens within the female reproductive system. Ovaries contain thousands of follicles: cell structures which produce eggs. The pituitary gland produces luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which encourages the follicles to grow into luteal cells. Theca cells within the follicle produce testosterone, and granulosa cells produce the enzyme [aromatase](https://en.wikipedia.org/wiki/Aromatase), which converts that testosterone into estradiol. This is the first source of estrogen, but it is not the largest source.
+Ci sono due fonti separate di estrogeni all'interno dell'apparato riproduttivo femminile. Le ovaie contengono migliaia di follicoli: strutture cellulari che producono ovociti. There are two separate sources for estrogens within the female reproductive system. Ovaries contain thousands of follicles: cell structures which produce eggs. La ghiandola pituitaria produce l'ormone luteinizzante (LH) e l'ormone che stimola i follicoli (FSH), incoraggiando i follicoli a svilupparsi in cellule luteali. Le cellule della teca all'interno del follicolo producono testosterone e le cellule granulosa producono l'enzima [aromatasi](https://it.wikipedia.org/wiki/Aromatasie), che converte il testosterone in estradiolo. Questa è la prima fonte degli estrogeni, anche se non la più grande.
 
-Note: This is why PCOS causes ovaries to produce testosterone; the ovarian cysts disrupt the aromatase production, so the testosterone does not get converted.
+Nota: questo è il motivo per cui la Sindrome dell'ovaio policistico causa la produzione di testosterone all'interno delle ovaie; le cisti delle ovaie disturbano la produzione di aromatasi e dunque il testosterone non viene converitito.
 
-Two weeks into the period cycle the hypothalamus tells the pituitary gland to produce an LH and FSH spike three to four times stronger than earlier in the cycle. That surge causes the follicles to swell until one pops, releasing an egg, at which point the remains of the follicle become a structure known as the corpus luteum. That corpus luteum then begins to produce progesterone and significantly more estrogens in order to prepare the womb for a fertilized egg. This is the second source.
+Alla seconda settimana del ciclo mestruale l'ippotalamo dà istruzioni alla ghiandolia pituitaria di produrre una quantità di ormoni LH ed FSH fra le 3 e le 4 volte maggiore della quantità prodotta nella prima fase del ciclo. Quest'aumento porta i follicoli a gonfiarsi fino a che uno di questo non scoppia, rilasciando un ovocita, mentre i rimasugli del follicolo diventano una struttura conosciuta come corpo luteo. Il corpo luteo inizia quindi a produrre progesterone e ancora più estrogeni al fine di preparare l'utero a un potenziale ovocita fertilizzato. Questa è la seconda fonte.
 
-Taking testosterone causes the hypothalamus to deactivate the genes that initiate this LH and FSH spike, so the follicles never reach maturity, ovulation never occurs, and the corpus luteum is never formed, removing a significant source of estrogen within the ovaries.
+Assumere testosterone fa sì che l'ippotalamo disattivi i geni che danno il via all'aumento di produzione di LH ed FSH, facendo sì che i follicoli non maturino, che l'ovulazione non avvenga e che il corpo luteo non arrivi a formarsi, "disattivando" le ovaie come produttrici di estrogeni.
 
-*So no, Reddit, it isn't just "because testosterone is stronger", it's because ovaries are a hell of a lot more complex than testes and are easier to disrupt. Please stop spreading this falsehood.*
+*Quindi no, Reddit, non è perché "il testosterone è più forte", è perché le ovaie sono molto più complesse dei testicoli ed è dunque più facile interferire con le loro funzioni. Quindi smettetela di diffondere questa bugia.*
 
 {!{ </div></div></div> }!}
 
-### Progestogens
+### Progestinici
 
-The primary progestogen is [progesterone](https://en.wikipedia.org/wiki/Progesterone), which plays numerous roles in the body and has been found to be [an important component for feminizing hormone therapy](https://academic.oup.com/jcem/article/104/4/1181/5270376).
+Il progestinico principale è il [progesterone](https://it.wikipedia.org/wiki/Progesterone), che ha un diversi ruoli all'interno dell'organismo ed è stato scoperto essere [un'importante componente per la terapia ormonale femminilizzante](https://academic.oup.com/jcem/article/104/4/1181/5270376) (articolo in inglese).
 
-One of the largest roles that the progestogen receptor plays is in the regulation of gonadal function (ovaries and testes). The hypothalamus is positively *littered* with progestogen receptors and responds strongly to their activation, downregulating the production of [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone), which then reduces the production of [luteinizing hormone](https://en.wikipedia.org/wiki/Luteinizing_hormone) by the pituitary gland.
+Uno dei ruoli più importanti dei recettori di progestinici è nel mantenere una regolare funzione gonadale (testicoli ed ovaie). L'ippotalamo è positivamente *zeppo* di recettori progestinici che rispondono con grande energia alla loro attivazione, diminuendo la produzione di downregulating the production of [GnRH](https://it.wikipedia.org/wiki/Ormone_di_rilascio_delle_gonadotropine), che riduce poi la produzione di [ormone luteinizzante](https://it.wikipedia.org/wiki/Ormone_luteinizzante) da parte della ghiandola pituitaria.
 
-LH is what tells the ovaries and testes to produce estrogen and androgens. LH and its sibling hormone [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) both play central roles in ovulation, which is another large source of estrogen in ovary-havers. Thus, synthetic progestogens (chemicals that fit into progestogen receptors) are often included in birth control in order to prevent ovulation. In AMABs, progestogens are a useful tool for blocking testosterone production.
+L'ormone luteinizzante è ciò che dice alle ovaie ed ai testicoli di produrre estrogeni ed androgeni. LH ed [FSH](https://it.wikipedia.org/wiki/Ormone_follicolo-stimolante) hanno un ruolo centrale nel processo di ovulazione, che è un'altra fonte di estrogeni per chi possiede le ovaie. Dunque, i progestinici sintetici (composti che possono interagire con i recettori progestinici) sono spesso inclusi nei farmaci contraccettivi al fine di impedire l'ovulazione. Nelle persone assegnate maschio alla nascita, i progestinici sono utili per bloccare la produzione di testosterone.
 
 Another type of cell that is full of progestogen receptors is mammary tissue. Progesterone plays a major role in the growth and maturation of milk ducts within breast tissue. While little formal research has been conducted into progesterone's effect on breast development, anecdotally it has been seen widely across the transfem community to provide significant improvements in breast fullness. Progesterone has also been demonstrated to increase blood flow to breast tissue, and encourages fat deposits in the breasts, both of which increase breast size.
 
