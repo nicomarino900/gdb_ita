@@ -6,7 +6,7 @@ preBody: '_disclaimer'
 lang: it
 siblings:
   prev: /it/#presentazione
-  prevCaption: Introduction
+  prevCaption: Presentazione
   next: /it/storia
   nextCaption: Storia della Disforia di Genere
 classes:
