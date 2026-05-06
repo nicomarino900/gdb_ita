@@ -28,11 +28,11 @@ tweets:
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> La [sindrome dell'impostore](https://en.wikipedia.org/wiki/Impostor_syndrome) è una condizione psicologica usata per descrivere quegli individui che mettono in dubbio il proprio successo e che vivono con una persistente ed internalizzata paura di essere smascherati come "impostori", appunto.
+> La [sindrome dell'impostore](https://it.wikipedia.org/wiki/Sindrome_dell%27impostore) è una condizione psicologica usata per descrivere quegli individui che mettono in dubbio il proprio successo e che vivono con una persistente ed internalizzata paura di essere smascherati come "impostori", appunto.
 
-La società in generale è molto brava a far dubitare le persone trans di loro stesse. Riceviamo tantissimi messaggi subliminali che ci comunicano che essere trans non sia una cosa normale e che chiunque lo sia debba essere eccezionalmente speciale. L'ossessione dei media cis con il propugnare storie di persone "nate nel corpo sbagliato" ha contribuito a far internalizzare alle persone trans più giovani un sacco di informazioni false. Molte, *moltissime* persone trans crescono pensando di non essere davvero trans perché non *sanno* di essere un genere diverso ma si limitano a *desiderare* di esserlo. Molte persone non binarie crescono sapendo che qualcosa non vada bene, ma non sospettano di essere trans perché non si sentono come una persona trans binaria.
+La società in generale è molto brava a far dubitare le persone trans di loro stesse. Riceviamo tantissimi messaggi subliminali che ci comunicano che essere trans non sia una cosa normale e che chiunque lo sia debba essere eccezionalmente speciale. L'ossessione dei media cis di propinare storie di persone "nate nel corpo sbagliato" ha contribuito a far internalizzare alle persone trans più giovani un sacco di informazioni false. Molte, *moltissime* persone trans crescono pensando di non essere davvero trans perché non *sanno* di essere un genere diverso ma si limitano a *desiderare* di esserlo. Molte persone non binarie crescono sapendo che qualcosa non vada bene, ma non sospettano di essere trans perché non si sentono come una persona trans binaria.
 
-Inoltre, l'idea che le persone trans odino il proprio corpo o i propri genitali ha offuscato tutto il concetto dell'esplorazione di genere, a tal punto che molte persone che non provano disforia fisica (o che semplicemente pensano che la propria non sia così grave) si convince di non essere "abbastanza trans".
+Inoltre, l'idea che le persone trans odino il proprio corpo o i propri genitali ha offuscato l'intero concetto di esplorazione di genere, a tal punto che molte persone che non provano disforia fisica (o che semplicemente pensano che la propria non sia così grave) si convince di non essere "abbastanza trans".
 
 ***[SI', SEI ABBASTANZA TRANS](https://us.jkp.com/products/yes-you-are-trans-enough)***
 
