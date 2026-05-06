@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 title: "La Bibbia della Disforia di Genere"
-linkTitle: Introduction
+linkTitle: Presentazione
 description: "Un tuffo fra i mille modi in cui la disforia di genere si manifesta e su cosa significa essere trasngender."
 preBody: '_presentazione'
 lang: it
