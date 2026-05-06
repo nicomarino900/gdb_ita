@@ -18,21 +18,21 @@ tweets:
 
 # Disforia Gestita
 
-Crescere trans, anche quando non sai di esserlo, diventa un'esistenza costituita alla base da strategie di adattamento per alleviare la disforia. Ecco alcuni modi in cui una persona trans potrebbe cercare di alleviare la disforia che sente nel proprio quotidiano:
+Crescere trans, anche quando non sai di esserlo, diventa un'esistenza fondata su una base di strategie di adattamento per alleviare la disforia. Ecco alcuni modi in cui una persona trans potrebbe cercare di alleviare la disforia che sente nel proprio quotidiano:
 
 - Quando un videogioco ti dà la possibilità di scegliere il genere del personaggio, tendi a non scegliere il tuo genere assegnato. Questo potrebbe essere accompagnato da scuse tipo "La scelta base era maschio, chi se ne frega" o "Non voglio guardare il culo di un uomo per ore".
 
 - Una preferenza per film e libri con personaggi del tuo vero genere, oppure con personaggi che rompono le norme di genere (_Mulan_, _Piccole donne_).
 
-- Gusti pornografici che soddisfano forti desideri o che ci sembrano più "famigliari", come una preferenza per i porno con uomini gay o donne lesbiche, fetish per gli abiti da sposa o il tema della trasformazione
-
-- Fare crossdressing con l'altro genere o partecipare in perfomance di drag.
+- Gusti pornografici che soddisfano forti desideri o che ci sembrano più "famigliari", come una preferenza per i porno con uomini gay o donne lesbiche, feticismo per gli abiti da sposa o per le trasformazioni
+  
+- Vestirsi come l'altro genere o partecipare a perfomance di drag.
 
 - Trovare scuse per tagliarsi i capelli, o per farseli crescere.
 
-- Radersi i peli, o rifiutarsi di radere peli nonostante le aspettative.
+- Radersi i peli, o rifiutarsi di raderli nonostante le aspettative.
 
-- Indossare vestiti larghi e morbidi che nascondono la foram del corpo.
+- Indossare vestiti larghi e morbidi che nascondono la forma del corpo.
 
 - Evitare i ritrovi sociali quando possibile, tendendo all'isolamento.
 
@@ -47,9 +47,9 @@ Crescere trans, anche quando non sai di esserlo, diventa un'esistenza costituita
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Dati tutti gli abusi che i bambini che non conformano alle norme di genere subiscono, molte persone trans crescono imparando a nascondere la loro vera personalità per motivi di necessità. Molte persone trans parlano di aver avuto una fase della vita dove hanno cercato di "abbracciare" il loro genere assegnato, performando in maniera esagerata la mascolinità o la femminilità al fine di *mettersi a posto*. Questo può portare a tendenze alla repressione che superficialmente potrebbero sembrare tossiche ma che sono semplicemente il risultato giunto dall'impegno a nascondersi ogni pezzettino della propria verità.
+Dati tutti gli abusi che i bambini che non conformano alle norme di genere subiscono, molte persone trans crescono imparando a nascondere la loro vera personalità per motivi di necessità. Molte persone trans parlano di aver avuto una fase della vita dove hanno cercato di "accettare" il loro genere assegnato, performando in maniera esagerata la mascolinità o la femminilità al fine di *mettersi a posto*. Questo può portare a tendenze alla repressione che superficialmente potrebbero sembrare tossiche ma che sono semplicemente il risultato dell'impegno a voler nascondere ogni pezzettino della propria verità.
 
-- Farsi crescere e curare meticolosamente i propri peli facciali (la cosidetta "barba di negazione").
+- Farsi crescere e curare meticolosamente i propri peli facciali (la cosidetta "barba da diniego").
 
 - Darsi al trucco artistico per perfezionare un look super femminile.
 
