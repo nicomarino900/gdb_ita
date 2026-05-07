@@ -17,7 +17,7 @@ siblings:
 
 Questo capitolo si concentrerà sui criteri diagnostici in accordo all'American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, versione cinque (meglio noto come DSM-5). Il motivo per cui utilizzerò questi criteri è perché, beh, non ne esistono altri. Il National Health Service britannico è sostanzialmente identico al DSM-5 dell'APA. Altre nazioni hanno i propri criteri locali, ma sono tutti o molto simili o molto più datati.
 
-Gli Standard di Cursa della WPATH descrive i diversi modi in cui si manifesta la disforia di genere, ma non definisce chiari criteri diagnostici, permettendo ai singoli professionisti della salute mentale di formulare le proprie diagnosi. In generale, afferma che, se una persona ha il corpo e la mente in salute e dice di avere la disforiae, allora va creduta. Il passaggio chiave è "il corpo e la mente in salute"; viene lasciato ai professionisti di valutare con diligenza che non ci siano altre condizioni che potrebbero star facendo credere alla persona di avere la disforia.
+Gli Standard di Cursa della WPATH descrive i diversi modi in cui si manifesta la disforia di genere, ma non definisce chiari criteri diagnostici, permettendo ai singoli professionisti della salute mentale di formulare le proprie diagnosi. In generale, afferma che, se una persona ha il corpo e la mente in salute e dice di avere la disforia, allora va creduta. Il passaggio chiave è "il corpo e la mente in salute"; viene lasciato ai professionisti il valutare con diligenza che non ci siano altre condizioni che potrebbero star facendo credere alla persona di avere la disforia.
 
 O, per dirla in maniera diretta, la WPATH dice che se pensi di essere trans, allora lo sei. Questo è il pensiero che è stato adottato dalla maggioranza della comunità. Se credi che il tuo genere non combaci con quello assegnato alla tua nascita, allora sei transgender. Però, le compagnie assicurative non sono molto contente di ricevere delle autodiagnosi, quindi ecco i criteri definiti dal DSM-5 per diagnosticare la disforia di genere.
 
@@ -58,7 +58,7 @@ Affinché una persona adulta possa ricevere una diagnosi di disforia di genere d
 
   Questa si spiega da sola.
 
-Come ho detto, servono solo due di questi criteri per ottenere una diagnosi formale. Potresti notare che solo due di questi menzionano il fisico. E' assolutamente valido che una persona trans provi disforia senza davvero odiare qualunque parte del proprio corpo o volerla cambiare in qualche modo. La disforia fisica è solo una frazione delle tante parti che portano ad essere trans.
+Come ho detto, servono solo due di questi criteri per ottenere una diagnosi formale. Potresti notare che solo due di questi menzionano il fisico. E' assolutamente valido che una persona trans provi disforia senza davvero odiare alcuna parte del proprio corpo o volerla cambiare in qualche modo. La disforia fisica è solo una frazione delle tante parti che portano ad essere trans.
 
 Nota questo: se ti identifichi come transgender, e dunque non pensi che il tuo genere si allinei col sesso a te assegnato alla nascita, presenti già due dei criteri della lista! Hai un desiderio forte di voler essere un altro genere, il che vuol dire stai notando che *sei* un altro genere, e hai una convinzione abbastanza forte su come sia il tuo genere, che non è quello che ti è stato assegnato alla nascita.
 
