@@ -52,23 +52,23 @@ Ci sono moltissimi fattori che possono rendere i cromosomi ben più complessi di
 
 - [La disgenesia gonadica XX](https://it.wikipedia.org/wiki/Disgenesia_gonadica) è molto simile alla sindrome di Swyer, se non che avviene in persone XX e causa ovaie non funzonali.
 
-- [La sindrome di Turner](https://it.wikipedia.org/wiki/Sindrome_di_Turner) (45,X) produce un bambino fenotipicamente femmina con numero anomalie. Avviene quando né un cromosoma X né un cromosoma Y arrivano dallo sperma.
+- [La sindrome di Turner](https://it.wikipedia.org/wiki/Sindrome_di_Turner) (45,X) produce un bambino fenotipicamente femmina con numerose anomalie. Avviene quando né un cromosoma X né un cromosoma Y arrivano dallo sperma.
 
 - [La sindrome di Klinefelter syndrome](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) (47,XXY) risulta in un bambino fenotipicamente maschio con caratteri più femminili. In casi estremamenti rari [accade anche in persone assegnate femmina alla nascita (articolo in inglese)](https://www.ncbi.nlm.nih.gov/pubmed/15755052) e causa testicoli femminilizzati al posto delle ovaie.
 
-- [La sindrome di Klinefelter syndrome 48,XXXY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) è simile alla sindrome di Klinefelte 47,XXY, ma con problemi di saluta più gravi.
+- [La sindrome di Klinefelter syndrome 48,XXXY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) è simile alla sindrome di Klinefelte 47,XXY, ma con problemi di salute più gravi.
 
 - [La sindrome di Klinefelter 49,XXXXY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) è spesso fatale, ma quando non lo è genera una prole sterile.
 
 - [Le sindromi della tripla X](https://it.wikipedia.org/wiki/Sindrome_della_tripla_X) (47,XXX), [della quadrupla X](https://it.wikipedia.org/wiki/Sindrome_della_quadrupla_X) (48,XXXX) e della [Pentasomia X](https://it.wikipedia.org/wiki/Pentasomia_X) (49,XXXXX) generano tutte una bambina femmina, ma con problemi di salute man mano più gravi.
 
-- [XXYY Syndrome](https://en.wikipedia.org/wiki/XXYY_syndrome) results in male children (due to two SRY genes) who often experience hypogonadism, needing testosterone supplements, but otherwise seeming like a typical male.
+- [La sindrome XXYY](https://it.wikipedia.org/wiki/Sindrome_di_Klinefelter) crea bambini maschi (a causa di due geni SRY) che soffrono spesso di ipogonadismo, richiedendo testosterone supplementare, ma assomigliano tipicamente a un maschio tipico.
 
-- [Il mosaicismo genetico](https://it.wikipedia.org/wiki/Mosaico_genetico)) fa sì che alcune cellule del corpo abbiano dei determinati cromosomi, mentre altre cellule hanno cromosomi diversi a causa di una mutazione del genoma durante la gravidanza. Ciò può creare per esempio XX/XY (genitali di entrambi i sessi), X/XY (una forma meno grave della sindrome di Swyer o di Turner) oppure XX/XXY (una forma meno grave della sindrome di Klinefelter syndrome).
+- [Il mosaicismo genetico](https://it.wikipedia.org/wiki/Mosaico_genetico)) fa sì che alcune cellule del corpo abbiano dei determinati cromosomi, mentre altre cellule hanno cromosomi diversi a causa di una mutazione del genoma durante la gravidanza. Ciò può creare per esempio XX/XY (genitali di entrambi i sessi), X/XY (una forma meno grave della sindrome di Swyer o di Turner) oppure XX/XXY (una forma meno grave della sindrome di Klinefelter).
 
-- [La chimera](https://it.wikipedia.org/wiki/Chimera_(biologia)) è un fenomeno nel quale due embrioni fertilizzati si fondono in uno zigote, facendo sì che metà della prole contenga il DNA di un'embrione e l'altra metà il DNA dell'altro. Questo può risultare in un essere umano fenotipicamente maschio o femmina del tutto tipico, persino fertile, ma che a un test del cariotipo potrebbe non avere risultati combacianti in base alla parte del corpo da cui viene raccolto il campione. In casi estremamente rari possono avere due apparati riproduttivi completi.
+- [Una chimera](https://it.wikipedia.org/wiki/Chimera_(biologia)) è un fenomeno nel quale due embrioni fertilizzati si fondono in uno zigote, facendo sì che metà della prole contenga il DNA di un'embrione e l'altra metà il DNA dell'altro. Questo può risultare in un essere umano fenotipicamente maschio o femmina del tutto tipico, persino fertile, ma che a un test del cariotipo potrebbe non avere risultati combacianti in base alla parte del corpo da cui viene raccolto il campione. In casi estremamente rari possono avere due apparati riproduttivi completi.
 
-- [L'iperplasia surrenale congenita](https://it.wikipedia.org/wiki/Iperplasia_surrenale_congenita) è la mascolinizzazione dei genitali femminile in prole XX a cause di ghiandole surrenali iperattive.
+- [L'iperplasia surrenale congenita](https://it.wikipedia.org/wiki/Iperplasia_surrenale_congenita) è la mascolinizzazione dei genitali femminili in prole XX a cause di ghiandole surrenali iperattive.
 
 - [La sindrome di insensibilità agli androgeni](https://it.wikipedia.org/wiki/Sindrome_da_insensibilit%C3%A0_agli_androgeni) è una resistenza parziale o totale a tutti gli androgeni, impedendo la mascolinizzazione di tutti gli organi, eccetto i testicoli, in prole XY. Spesso le persone affette sviluppano un'identità di genere femminile, ma in alcuni casi maschile.
 
@@ -99,6 +99,6 @@ Ci sono moltissimi fattori che possono rendere i cromosomi ben più complessi di
 
 ## Ma La Maggior Parte Della Gente Resta XX o XY!!!
 
-Il sesso biologico nelle persone non intersessuali è comunque più complicato di quanto fa pensare il semplicistico modello XX/XY. Anche se qualcuno possiede i tipici cromosomi 46,XX o 46,XY, il corpo puà cambiare il modo in cui *usa* il DNA senza cambiarne la sequenze stessa. Questo processo viene chiamato [epigenetica](https://it.wikipedia.org/wiki/Epigenetica).
+Il sesso biologico nelle persone non intersessuali è comunque più complicato di quanto faccia pensare il semplicistico modello XX/XY. Anche se qualcuno possiede i tipici cromosomi 46,XX o 46,XY, il corpo può cambiare il modo in cui *usa* il DNA senza cambiarne la sequenze stessa. Questo processo viene chiamato [epigenetica](https://it.wikipedia.org/wiki/Epigenetica).
 
 I cambiamenti epigenetici variano fra i cromosomi XX ed XY, ma variano anche man mano che le persone invecchiano in base al sesso. Sul lungo termine, la terapia ormonale di affermazione di genere sembra rendere alcuni di questi [cambiamenti specifici al sesso ed all'età](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01236-4) (in base al sesso) più mascolini sotto effetto di testosterone e più femminili sotto effetto di estrogeni. Dunque, il DNA di un uomo cis non viene utilizzato allo stesso modo di una donna trans che prende estrogeni, nonostante abbiano entrambi cromosomi XY, e il DNA di una donna cis non viene utilizzato allo stesso modo di un uomo trans che prende testosterone, anche se hanno entrambi cromosomi XX.
