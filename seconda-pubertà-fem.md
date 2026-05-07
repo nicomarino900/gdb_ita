@@ -31,7 +31,7 @@ Questo potrebbe essere accompagnato da un po' di lattasi. Questa secrezione è n
 
 ### Ammorbidimento Della Pelle
 
-Il testosterone promuove l'inspessimento e l'irrobustimento dell'epidermide, dunque rimuovere assottiglia la pelle. Inoltre, gli estrogeni promuovono la produzione di collagene, che rende la pelle più morbida e iridescente. Aspettati di vedere più vene varicose sulle gambe. Tatuaggi che col tempo potrebbero essersi schiariti potrebbero diventare più nitidi.
+Il testosterone promuove l'inspessimento e l'irrobustimento dell'epidermide, dunque rimuoverlo assottiglia la pelle. Inoltre, gli estrogeni promuovono la produzione di collagene, che rende la pelle più morbida e iridescente. Aspettati di vedere più vene varicose sulle gambe. Tatuaggi che col tempo potrebbero essersi schiariti potrebbero diventare più nitidi.
 
 La rimozione del testosterone causa anche un grande calo degli oli della pelle, in particolare sul visto e sulla testa. Questo porta a una significativa diminuzione di acne e/o forfora.
 
@@ -51,7 +51,7 @@ Man mano che la pelle si ammorbidisce e si assottiglia. le mani iniziano gradual
 
 ### Piedi Più Piccoli
 
-In maniera simile alle mani, anche i piedi cambiano forma. Gli androgeni incoraggiano il sangue a scorrere verso i piedi e l'acqua ad accumularsi nelle cartilagini. Gli estrogeni permettono ai legamenti del piede di piegarsi di più. Collettivamente, fanno sì l'arco plantare aumenti, accorciando la lunghezza totale fino a due centimetri. Molte persone riportano di aver ridotto la taglia delle scarpe di una o due taglie.
+In maniera simile alle mani, anche i piedi cambiano forma. Gli androgeni incoraggiano il sangue a scorrere verso i piedi e l'acqua ad accumularsi nelle cartilagini. Gli estrogeni permettono ai legamenti del piede di piegarsi di più. Collettivamente, fanno sì che l'arco plantare aumenti, accorciando la lunghezza totale fino a due centimetri. Molte persone riportano di aver ridotto la taglia delle scarpe di una o due taglie.
 
 ### Unghie Più Morbide E Sottili
 
@@ -59,7 +59,7 @@ Le dita delle unghie sono fatte di cheratina, e poiché molti geni della cherati
 
 ### Diminuzione Dei Peli Corporei
 
-Non aspettarti che i peli del corpo smettano del tutto di crescere; una volta che i follicoli vengono resi terminali dal DHT, rimangono così. Però, come le unghie, lo spessore dei peli è un'espressione dei geni della cheratinca che vengono attivati dagli androgeni. Il calo di testosterone rende i peli del corpo più sottili e leggeri. Conta molto la genetica qui, però.
+Non aspettarti che i peli del corpo smettano del tutto di crescere; una volta che i follicoli vengono resi terminali dal DHT, rimangono così. Però, come le unghie, lo spessore dei peli è un'espressione dei geni della cheratina che vengono attivati dagli androgeni. Il calo di testosterone rende i peli del corpo più sottili e leggeri. Conta molto la genetica qui, però.
 
 ### Cambiamenti Alla Distribuzione Della Temperatura Corporea
 
@@ -73,7 +73,7 @@ Con il sopracitato cambiamento della distribuzione di temperatura, avvengono anc
 
 ### Riduzione E/O Cambiamento Dell'Odore Corporeo
 
-Una componente principale dell'odore corporeo maschile è il [feromone steroideo androstadienone](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) (articolo in inglese) presente nel sudore. L'androstadienone è metabolizzato direttamente dal testosterone, dunque tagliare il testosterone ne rimuove la fonte. Senza di esso, il sudore ottiene un odore molto più dolce e associabili all'odore corporeo femminile.
+Una componente principale dell'odore corporeo maschile è il [feromone steroideo androstadienone](https://www.sciencedaily.com/releases/2007/09/070916143523.htm) (articolo in inglese) presente nel sudore. L'androstadienone è metabolizzato direttamente dal testosterone, dunque diminuire il testosterone ne rimuove la fonte. Senza di esso, il sudore ottiene un odore molto più dolce e associabile all'odore corporeo femminile.
 
 Le persone che prendono spironolattone potrebbe sperimentare una totale scomparsa di qualunque odore corporeo, dato che il farmaco altera il cortisolo all'interno del corpo.
 
@@ -91,21 +91,21 @@ Dato che gli estrogeni depositano il grasso molto più in basso sul corpo e la m
 
 ### Cambiamenti Ai Connotati Del Viso
 
-Oltre alla migrazione del grasso corporeo, anche il grasso della faccia migra. Collo, mento e mandibola si snelliscono mentre si gonfiano labbra e guance. Le sopracciglia e la palpebra superiore si innalzano, esponendo maggiormente gli occhi. I cambiamenti della pelle e della muscolatura intorno all'occhio può alterare la forma di quest'ultimo, cambiando la profondità focale e alterando la chiarezza della vista. Il colore degli occhi cambia e diventa più acceso, dato che il testosterone tende a schiarire la pigmentazione dell'iride.
+Oltre alla migrazione del grasso corporeo, anche il grasso della faccia migra. Collo, mento e mandibola si snelliscono mentre si gonfiano labbra e guance. Le sopracciglia e la palpebra superiore si innalzano, esponendo maggiormente gli occhi. I cambiamenti della pelle e della muscolatura intorno all'occhio possono alterare la forma di quest'ultimo, cambiando la profondità focale e alterando la chiarezza della vista. Il colore degli occhi cambia e diventa più acceso, dato che il testosterone tende a schiarire la pigmentazione dell'iride.
 
 Questo è un processo estremamente lento e a malapena percettibile, che può impiegare molti anni, dunque sarà facile credere che nulla stia cambiando. I cambiamenti più importanti avvengono nel terzo e nel quarto anno. Fatti dei selfie per fare paragoni.
 
 ### Cambiamenti Ai Capelli
 
-Con la rimozione degli androgeni, aumenta il flusso sanguigno verso la sommità della testa. I follicoli che sono stati persi a causa della calvizie maschile potrebber riattivarsi, riespandendo l'attaccatura dei capelli e riempendo le chiazze calve. I capelli della testa diventano più spessi e i follicoli diventa più forti, permettendo ai capelli di crescere a lunghezze maggiori.
+Con la rimozione degli androgeni, aumenta il flusso sanguigno verso la sommità della testa. I follicoli che sono stati persi a causa della calvizie maschile potrebber riattivarsi, riespandendo l'attaccatura dei capelli e riempendo le chiazze calve. I capelli della testa diventano più spessi e i follicoli diventano più forti, permettendo ai capelli di crescere a lunghezze maggiori.
 
 Con questo inspessimento, i ricci diventano più pronunciati e potrebbe avvenire un cambiamento al colore dei capelli. I tuoi capelli potrebbero anche assumere una consistenza più simile a quella di tua madre che di tuo padre.
 
 ### Inclinazione Anteriore Del Bacino
 
-Con l'atrofizzazione della muscolare, l'aumento dell'elasticità dei legamenti e lo spostamento del baricentro verso il basso, l'orientamento delle ossa del bacino ruota in avanti rispetto a spina dorsale e femore - non di molto (solo 10-20 gradi), ma abbastanza da alterare l'allineamento di spina dorsale ed anche, aumentando l'arcata della schiena e facendo sì che le natiche siano protruse verso l'esterno. L'arcata extra può diminuire l'altezza, tra i due e i cinque cem in base alla forma del bacino.
+Con l'atrofizzazione della massa muscolare, l'aumento dell'elasticità dei legamenti e lo spostamento del baricentro verso il basso, l'orientamento delle ossa del bacino ruota in avanti rispetto a spina dorsale e femore - non di molto (solo 10-20 gradi), ma abbastanza da alterare l'allineamento di spina dorsale ed anche, aumentando l'arcata della schiena e facendo sì che le natiche siano protruse verso l'esterno. L'arcata extra può diminuire l'altezza, tra i due e i cinque cm in base alla forma del bacino.
 
-Nota: questo NON ha a che fare con la rotazione delle anche che avviene durante la pubertà e la gravidanza delle persone assegnate femmina alla nascita. Questo è il risultato della migrazione delle cellule delle ossa, che alterano la forma delle stesse ossa del bacino. **Però**, la rotazione delle anche *può* avvenire se la persona è abbastanza giovane da essere ancora all'inizio della pubertà, quando il corpo sta producendo un elevato numero di ormoni della crescita. Esistono anche esempi di rotazione delle anche che sono avvenuti nel corso di molto tempo in persone trans anziane. Nel 2017 una donna trans di 80 ha riportato su Reddit che nel corso di 30 anni di terapia ormonale, il suo medico ha notato cambiamenti al suo bacino simili a quelli della rotazione della anche femminile.
+Nota: questo NON ha a che fare con la rotazione delle anche che avviene durante la pubertà e la gravidanza delle persone assegnate femmina alla nascita. Questo è il risultato della migrazione delle cellule delle ossa, che alterano la forma delle stesse ossa del bacino. **Però**, la rotazione delle anche *può* avvenire se la persona è abbastanza giovane da essere ancora all'inizio della pubertà, quando il corpo sta producendo un elevato numero di ormoni della crescita. Esistono anche esempi di rotazione delle anche che sono avvenuti nel corso di molto tempo in persone trans anziane. Nel 2017 una donna trans di 80 anni ha riportato su Reddit che nel corso di 30 anni di terapia ormonale, il suo medico ha notato cambiamenti al suo bacino simili a quelli della rotazione delle anche femminile.
 
 ### Tolleranza Ridotta Per Caffeina, Alcol E Sostanza Psicoattive
 
@@ -117,7 +117,7 @@ Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere 
 
 ##### Disturbo da Deficit di Attenzione e Iperattività
 
-Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli andorgeni amplifican la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque ridurre il testosterone può ridurre il potenziale di attivazione della dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria a breve termine del cervello. Meno memoria primaria aumenta la propensione a distrarsi e aumenta la difficoltà nel sostenere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
+Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque ridurre il testosterone può ridurre il potenziale di attivazione della dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria a breve termine del cervello. Meno memoria primaria aumenta la propensione a distrarsi e aumenta la difficoltà nel sostenere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
 
 La buona notizia è che l'estradiolo induce il cervello a produrre più dopamina.
 
@@ -135,7 +135,7 @@ Purtroppo, questo vuol dire anche che, se hai subito traumi in precedenza (e chi
 
 ##### Sbalzi D'Umore
 
-Dato che i livelli di estrogeni oscillano fra una dose e l'altra, potresti provare notevoli e drammatici cambiamenti d'umore. Pianti inspiegabili e rabbia (SPM): preparati.
+Dato che i livelli di estrogeni oscillano fra una dose e l'altra, potresti provare notevoli e drammatici cambiamenti d'umore. Pianti inspiegabili e rabbia PMS: preparati.
 
 ##### Appetito
 
@@ -147,19 +147,19 @@ Detto questo, potresti non riuscire più a mangiare *quanto* riuscivi prima. Mol
 
 ##### Sonno
 
-Molte persone riportano di avere un sonno migliore dopo l'inizio della terapia ormonale. Questo è probabilmente causato dall'alleviamento del Disturbo di Depersonalizzazione e Derealizzazione, dato che sembra avvenire sia a persone trans assegnate maschio alla nascita sia assegnate femmina alla nascita. Dett ciò, iniziare a prendere progesterone può migliorare la qualità del sonno *significativamente*, permettendo un sonno più profondo e sogni più memorabili.
+Molte persone riportano di avere un sonno migliore dopo l'inizio della terapia ormonale. Questo è probabilmente causato dall'alleviamento del Disturbo di Depersonalizzazione e Derealizzazione, dato che sembra avvenire sia a persone trans assegnate maschio alla nascita sia assegnate femmina alla nascita. Detto ciò, iniziare a prendere progesterone può migliorare la qualità del sonno *significativamente*, permettendo un sonno più profondo e sogni più memorabili.
 
 ##### Estroversione
 
-E' estremamente comune per le persone trans di tutti i tipi di sentirsi molto più socievoli post transizione. Questo non è un fattore legato alla terapia ormonale, ma un semplice risultato di non dover più reprimere gran parte della loro personalità
+E' estremamente comune per le persone trans di tutti i tipi sentirsi molto più socievoli post transizione. Questo non è un fattore legato alla terapia ormonale, ma un semplice risultato di non dover più reprimere gran parte della loro personalità.
 
 ### Miglioramenti Sensoriali
 
-E' stato dimostrato [molte volte](https://academic.oup.com/cercor/article/28/5/1582/3064956)(articolo in inglese) che terapia ormonale a scopo di transizione causa cambiamenti alla distribuzione della materia grigia e bianca per le persone trans sotto entrambi i tipi di terapia ormonale. Nuove strutture e nuovi percorsi neurali si formano a causa di un cambiamento del profilo ormonale, e questo cambia anche la percezione sensoriale. Ecco alcuni cambiamenti che sono stati osservati e riportati, ma non è chiaro se sia una funzione degli ormoni stess, o un fattore del cervello che ha iniziato a ricevere gli ormoni giusti.
+E' stato dimostrato [molte volte](https://academic.oup.com/cercor/article/28/5/1582/3064956)(articolo in inglese) che terapia ormonale a scopo di transizione causa cambiamenti alla distribuzione della materia grigia e bianca per le persone trans sotto entrambi i tipi di terapia ormonale. Nuove strutture e nuovi percorsi neurali si formano a causa di un cambiamento del profilo ormonale, e questo cambia anche la percezione sensoriale. Ecco alcuni cambiamenti che sono stati osservati e riportati, ma non è chiaro se sia una funzione degli ormoni stessi, o un fattore del cervello che ha iniziato a ricevere gli ormoni giusti.
 
 - **Olfatto migliorato**, soprattutto degli altri corpi. Il sudore umano diventa molto distinguibile - a volte travolgente.
 - **Percezione del colore migliorata**. I colori diventano più nitidi e vivaci.
-- **Consapevolezza deli spazi migliorata**. Molte persone trans hanno scarsa cinestesia e una tendenza alla goffagina che scompare dopo aver iniziato la terapia ormonale.
+- **Consapevolezza degli spazi migliorata**. Molte persone trans hanno scarsa cinestesia e una tendenza alla goffagine che scompare dopo aver iniziato la terapia ormonale.
 - **Cambiamenti nella percezione del gusto**. Alcuni cibi diventano più o meno appetitosi; il coriandolo, per esempio, potrebbe sapere più o meno di sapone. Aumenta la tolleranza per la capsaicina (peperoncini piccanti). Vino e cioccolato ottengono un gusto più intenso.
 
 Le persone che usano spironolattone sviluppano spesso forti voglie di cibi ad alto contenuto di sale, come cetriolini, olive o prodotti a base di patate. Succede perché lo spiro è un diuretico (che non causa perdita di potassio) che ti fa espellere tutto il sodio tramite urine. Il cervello dunque crea voglie per spingerti a rimpiazzare quel sodio.
@@ -168,7 +168,7 @@ Le persone che usano spironolattone sviluppano spesso forti voglie di cibi ad al
 
 Un'esperienza riportata molto di frequente è la sensazione di maggiore piccolezza rispetto al resto del mondo, anche mentre si indossa tacchi. Le persone più alte sembrano torreggiare sopra di te e gli spazi sembrano più grandi.
 
-Le persone riportano anche una minore propensione a litigare, così come un desiderio di evitare il conflitto anziché crearlo.Il testosterone è aumenta dimostrabilmente la confidenza di una persona, rimuoverlo ha l'effetto contrario.
+Le persone riportano anche una minore propensione a litigare, così come un desiderio di evitare il conflitto anziché crearlo.Il testosterone aumenta dimostrabilmente la confidenza di una persona, rimuoverlo ha l'effetto contrario.
 
 
 ### Cambiamenti Dei Genitali
@@ -179,11 +179,11 @@ Le persone riportano anche una minore propensione a litigare, così come un desi
 </div>
 }!}
 
-Tutti i genitali sono composti dagli stessi tessuti e vengono semplicemente organizzati in maniera diversa nel corso della gestazione. Buona parte dei comportamenti di questi tessuti è regolata dagli ormoni che il corpo utilizza. Secrezioni della pelle, consistenza, sensibilità e comportamento erettile sono tutte espressioni ormonali, il che vuol dire che rimuovendo gli androgeni e aggiungendo gli estrogeni, questi tessuti iniziano a comportarsi come se avesse la forma di una vulva, anche se non è così.
+Tutti i genitali sono composti dagli stessi tessuti e vengono semplicemente organizzati in maniera diversa nel corso della gestazione. Buona parte dei comportamenti di questi tessuti è regolata dagli ormoni che il corpo utilizza. Secrezioni della pelle, consistenza, sensibilità e comportamento erettile sono tutte espressioni ormonali, il che vuol dire che rimuovendo gli androgeni e aggiungendo gli estrogeni, questi tessuti iniziano a comportarsi come se avessero la forma di una vulva, anche se non è così.
 
 ##### Aumento Della Sensibilità
 
-La pelle del glande ed il canale diventano più sottili e fragili, più propensi a lacerazione ed irritazioni, diventano anche *significativamente* più sensibili al tatto. L'intero organo diventa anche molto più sensibili alla pressione, e la vibrazione diventa una miglior forma di stimolazione dello sfregamento, che potrebbe diventare doloroso. 
+La pelle del glande ed il canale diventano più sottili e fragili, più propensi a lacerazione ed irritazioni, diventano anche *significativamente* più sensibili al tatto. L'intero organo diventa anche molto più sensibile alla pressione, e la vibrazione diventa una miglior forma di stimolazione dello sfregamento, che potrebbe diventare doloroso. 
 
 #### Umidità E Odori Femminili
 
@@ -197,13 +197,13 @@ Lo scroto è analogo alle grandi e alle piccole labbra, e ottiene una consistenz
 
 Senza così tanto testosterone, i livell di [DHT](https://it.wikipedia.org/wiki/Diidrotestosterone) nel sangue diminuiscono in maniera significativa. Il DHT ha un ruolo importante per la stimolazione di erezioni casuali durante il sonno tramite ingrossamento della prostata, queste erezioni sono ciò che rendono possibile mantenere il tessuto erettile. Senza DHT, la prostata si rimpicciolisce nuovamente e le erezioni casuali smettono di avvenire (basta alzabandiera).
 
-Però, questo vuol dire che il tessuto erettile inizierà ad atrofizzarsi. L'atrofia prolugata porta al rimpicciolimento dell'organo, nel bene e nel male. La forma del pene cambia, diventando più conica. Il glande è la prima parte a rimpicciolirsi e potrebbe perdere la capacità di irrigidirsi. Il senso penetrative potrebbe diventare più difficile e le erezioni più dolorose.
+Però, questo vuol dire che il tessuto erettile inizierà ad atrofizzarsi. L'atrofia prolugata porta al rimpicciolimento dell'organo, nel bene e nel male. La forma del pene cambia, diventando più conica. Il glande è la prima parte a rimpicciolirsi e potrebbe perdere la capacità di irrigidirsi. Il sesso penetrativo potrebbe diventare più difficile e le erezioni più dolorose.
 
 Questo può essere contrastato facendosi indurre erezioni regolarmente, ma con il tempo diverrà sempre più difficile.
 
 ##### Eiaculazione Pulita
 
-La maggior parte del liquido che costituisce l'eiaculazione ha origine nella prostata. E' un fluido chiaro e un po' viscido. E' bianco e appicicoso a causa del seme e del liquido seminale prodotti dai testicoli. La produzione del seme e del fluido seminale è dovuta alla funzione dei testicoli, dunque se i testicoli si disattivano (a causa di antiandrogeni o di dominanza degli estrogeni), questi fluidi smettono di essere prodotti, lasciando solo il fluido della prostata.
+La maggior parte del liquido che costituisce l'eiaculazione ha origine nella prostata. E' un fluido chiaro e un po' viscido. E' bianco e appiccicoso a causa del seme e del liquido seminale prodotti dai testicoli. La produzione del seme e del fluido seminale è dovuta alla funzione dei testicoli, dunque se i testicoli si disattivano (a causa di antiandrogeni o di dominanza degli estrogeni), questi fluidi smettono di essere prodotti, lasciando solo il fluido della prostata.
 
 Alcune persone perdono anche quello e smettono di avere qualunque tipo di emissione durante l'orgasmo.
 
@@ -235,7 +235,7 @@ Tutto il corpo potrebbe diventare più reattivo al tatto, il che causa zone erog
 
 ##### Orgasmo
 
-L'orgasmo cambia significativamente, sia nel modo in cui ci si avvicina ad esso sia come viene vissuto (vedi il link qui sopra), ma inoltre, se si ha fortuna, si potrebbe diventare in grado di avere più orgasmi senza periodo refrattario. Il prezzo da pagare è una maggiore difficoltà nel raggiungere l'orgasmo e il dover reimparare a raggiungerlo. Diventa anche più facile raggiungerlo durante il sesso con altre persone, mentre il contrario potrebbe essere stato vero prima.
+L'orgasmo cambia significativamente, sia nel modo in cui ci si avvicina ad esso sia come viene vissuto (vedi il link qui sopra), ma inoltre, se si ha fortuna, si potrebbe diventare in grado di avere più orgasmi senza periodo refrattario. Il prezzo da pagare è una maggiore difficoltà nel raggiungere l'orgasmo e il dover reimparare a raggiungerlo. Diventa anche più facile raggiungerlo durante il sesso con altre persone, mentre prima potrebbe essere stato vero il contrario.
 
 ##### Attrazione
 
@@ -265,4 +265,4 @@ No, non ci sono ancora studi a riguardo, ma sono riportati da troppe, **troppe**
 
 Essere sotto regime di estrogeni e progesterone attiva una sequenza di geni che ordina all'ippotalamo di riprodurre il ciclo delle ovaie e il comportamento uterino come nelle persone assegnate femmina alla nascita, nonostante l'assenza di ovaie o di utero. Questo ciclo influenza molti organi e sottosistemi del corpo, portando al rilascio di una varietà di ormoni ed enzimi che influenzano funzione e comportamento.
 
-Una spiegazione più dettagliata arriverà tramita un futuro aggiornamento del sito.
+Una spiegazione più dettagliata arriverà tramite un futuro aggiornamento del sito.
