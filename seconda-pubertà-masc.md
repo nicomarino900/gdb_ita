@@ -32,11 +32,11 @@ tweets:
 
 Questa è una raccolta di cambiamenti dovuti alla transizione medica riportati da persone trans assegnate femmina alla nascita mentre assumevano testosterone come previsto dalla terapia ormonale. Queste informazioni sono state raccolte tramite social media e chat room. Quindi sì, si tratta di aneddoti, ma storicamente la maggior parte degli studi medici effettuati sulle persone trans sono stati soprattutto basati su aneddoti in quanto non vengono mai finanziate ricerche formali in materia.
 
-**Nota che questa è una lista di cambiamenti _possibili_. Non ci sono garanzie che ogni persona che si sottoponga alla terapia ormonale mascolinizzante fsubirà tutti questi cambiamenti. La tua età, la tua genetica, il tuo passato medico, il tuo livello di femminilizzazione a partire dalla pubertà e il regime ormonale sono tutti fattori che influenzeranno i risultati. E' anche una questione di casualità - ogni corpo è diverso - e alcune cose richiedono anni prima di comparire.**
+**Nota che questa è una lista di cambiamenti _possibili_. Non ci sono garanzie che ogni persona che si sottoponga alla terapia ormonale mascolinizzante subirà tutti questi cambiamenti. La tua età, la tua genetica, il tuo passato medico, il tuo livello di femminilizzazione a partire dalla pubertà e il regime ormonale sono tutti fattori che influenzeranno i risultati. E' anche una questione di casualità - ogni corpo è diverso - e alcune cose richiedono anni prima di comparire.**
 
 ### Abbassamento Della Voce
 
-Gli androgeni causano un inspessimento ed indurimento del tessuto che forma le corde vocali, abbassando il tono della voce in maniera permanente. Quest non è un cambiamento molto rapido, ma progredisce nel corso dei primi anni. Ad alcune persone la voce non cambia per nulla, è una questione individuale. Il cambiamento non sarà drastico; se prima la tua voce era da soprano, non diventerà un basso, ma potrebbe diventare un tenore o un contralto.
+Gli androgeni causano un inspessimento ed indurimento del tessuto che forma le corde vocali, abbassando il tono della voce in maniera permanente. Questo non è un cambiamento molto rapido, ma avviene progressivamente nel corso dei primi anni. Ad alcune persone la voce non cambia per nulla, è una questione individuale. Il cambiamento non sarà drastico; se prima la tua voce era da soprano, non diventerà un basso, ma potrebbe diventare un tenore o un contralto.
 
 Questo *non* vuol dire che la tua voce verrà automaticamente riconosciuta come maschile. Il tono di voce è solo uno dei modi con cui la gente dà genere alla voce, il modo in cui parli è ben più importante. Dovrai allenare la voce al fine di amplificare la risonanza e cambiare lo stile con cui parli.
 
@@ -56,11 +56,11 @@ Con il sopracitato cambiamento alla distribuzione della temperatura corporea, qu
 
 ### Odore Corporeo
 
-Un altro dei primi cambiamenti: il sudore e in generale l'odore del corpo diventeranno molto più forti, soprattutto durante l'esercizio fisico. Often one of the first things to change: sweat and general body odor will become much stronger, especially during exercise. La puzza avrà un aroma molto più pungente, ma col tempo tende a migliorare un po'.
+Un altro dei primi cambiamenti: il sudore e in generale l'odore del corpo diventeranno molto più forti, soprattutto durante l'esercizio fisico. La puzza avrà un aroma molto più pungente, ma col tempo tenderà a migliorare un po'.
 
 ### Peli Ovunque
 
-Gli androgeni aumentano in maniera significativa la presenza di peli su gambe, inguine, natiche, petto, schiena e braccia. I peli diventeranno più spessi, lunghi e scuri. Questo probabilmente succederà ben prima che si sviluppino i peli facciali, che possono impiegare anche un anno prima che inizino a crescere. Prodotto come Rogaine/Minoxidil possono aiutare un po', ma attenzione perché sono farmaci velenosi se ingestiti (soprattuto per i gatti).
+Gli androgeni aumentano in maniera significativa la presenza di peli su gambe, inguine, natiche, petto, schiena e braccia. I peli diventeranno più spessi, lunghi e scuri. Questo probabilmente succederà ben prima che si sviluppino i peli facciali, che possono impiegare anche un anno prima che inizino a crescere. Prodotti come Rogaine/Minoxidil possono aiutare un po', ma attenzione perché sono farmaci velenosi se ingestiti (soprattuto per i gatti).
 
 ### Calvizie Maschile 
 
@@ -72,13 +72,13 @@ L'androgeno sintetico [nandrolone](https://it.wikipedia.org/wiki/Nandrolone) non
 
 Il testosterone promuove l'inspessimento e l'indurimento dell'epidermide, rendendo la pelle più ruvida. Con il calo dei livelli di estrogeni, il corpo produrrà man mano meno collagene. La pelle diventerà più dura e secca (soprattutto gomiti e ginocchia). Le vene su mani, braccia e gambe si faranno più pronunciate, ma non varicose.
 
-Il tuo viso e la sommità della testa diventeranno più oleose. L'acne sarà probabilmente un problema e non solo sul viso. Il peggio arriva immediatamente dopo il primo dosaggio. Nel corso dei primi tende a migliorare.
+Il tuo viso e la sommità della testa diventeranno più oleose. L'acne sarà probabilmente un problema e non solo sul viso. Il peggio arriva immediatamente dopo il primo dosaggio. Nel corso dei primi anni tende a migliorare.
 
 ### Mani / Piedi Più Grandi 
 
-Nel corso di periodo più lunghi (3-5 anni) le mani potrebbero diventare più dure e callose. Potresti dover cambiare inoltre la taglia dei tuoi anelli. 
+Nel corso di periodi più lunghi (3-5 anni) le mani potrebbero diventare più dure e callose. Potresti dover cambiare inoltre la taglia dei tuoi anelli. 
 
-Il testosterone fa anche sì che tendini e legamenti trattengano più acqua, alterando la loro flessibilità. Questo col tempo può portare in aumento delle dimensioni del piede man mano che l'arco plantare si abbassa.
+Il testosterone fa anche sì che tendini e legamenti trattengano più acqua, alterando la loro flessibilità. Questo col tempo può portare ad un aumento delle dimensioni dei piedi man mano che l'arco plantare si abbassa.
 
 ### Unghie Più Forti E Spesse
 
@@ -106,11 +106,11 @@ Più massa significa più sangue in cui diluire le sostanze. L'aumento del testo
 
 ### Cambiamenti Mentali
 
-Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere fatti per un certo profilo ormonale, ed utilizzare il profilo sbagliato è un po' come usare un portatile quasi scarico o il processore surriscaldato. Iniziare la terapia ormonale porta in maniera quasi universale alla scomparsa dei sintomi di depersonalizzazione e derealizzazione entro due settimana. Man man che la nebbia mentale si dirada, diventa più facile concentrarsi su concetti complessi (sempre che tu non abbia altre condizioni che rendano difficile farlo, come ad esempio il Disturbo da Deficit di Attenzione e Iperattività (ADHD)).
+Come trattato nel capitolo sulle Disforia Biochimica, i cervelli possono essere fatti per un certo profilo ormonale, ed utilizzare il profilo sbagliato è un po' come usare un portatile quando è quasi scarico o il processore è surriscaldato. Iniziare la terapia ormonale porta in maniera quasi universale alla scomparsa dei sintomi di depersonalizzazione e derealizzazione entro due settimane. Man man che la nebbia mentale si dirada, diventa più facile concentrarsi su concetti complessi (sempre che tu non abbia altre condizioni che rendano difficile farlo, come ad esempio il Disturbo da Deficit di Attenzione e Iperattività (ADHD)).
 
 ##### Disturbo da Deficit di Attenzione e Iperattività
 
-Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque un aumento di testosterone può ignorare il potenziale di attivazione di dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria a breve termine del cervello. Avere più memoria primaria vuol dire distrarsi meno facilmente e riuscire meglio a sostere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
+Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sintomi potrebbero cambiare. Gli androgeni amplificano la funzione dei recettori di [dopamina](https://it.wikipedia.org/wiki/Dopamina), dunque un aumento di testosterone può ignorare il potenziale di attivazione di dopamina nel cervello. La dopamina è un neurotrasmettitore chiave nel funzionamento della [memoria primaria](https://it.wikipedia.org/wiki/Memoria_a_breve_termine), la memoria a breve termine del cervello. Avere più memoria primaria vuol dire distrarsi meno facilmente e riuscire meglio a sostenere il [carico di lavoro mentale](https://it.wikipedia.org/wiki/Carico_di_lavoro_mentale).
 
 *Però*, l'estradiolo incoraggia la produzione di dopamina, dunque con il calo di estrogeni che cala il corpo avrà meno dopamina con cui lavorare. I tuoi sintomi peggioreranno, anziché migliorare.
 
@@ -119,7 +119,7 @@ Se hai il Disturbo da Deficit di Attenzione e Iperattività o ADHD, i tuoi sinto
 L'alleviamento di Depersonalizzazione e Derealizzazione (DPDR) è accompagnato in maniera quasi universale da una migliore capacità di provare e controllare le emozioni. Le emozioni diventano un po' più facili da controllare e reprimere, rendendo meno probabile che le queste ultime ti travolgano sul momento. 
 *Per favore fai attenzione: reprimere le emozioni è un modo rapido per sviluppare traumi.*
 
-Però, l'abilità di esprimere le emozioni si riduce. Alcune persone perdendo la capacità di piangere dopo aver iniziato a prendere testosterone, ma *non* è un'esperienza universale e potrebbe essere legata al dosaggio preso. Il motivo per cui accade non sono ben conosciute, anche se alcuni studi hanno scoperto che gli androgeni alterano la funzione di alcune parti del cervello connesse alle emozioni. Se perdi l'abilità di piangere, potrebbe tornare col passare del tempo, una volta che il cervello si abitua e termini la seconda pubertà. La terapia può anche aiutare a trovare tecniche per piangere in maniera sana.
+Però, l'abilità di esprimere le emozioni si riduce. Alcune persone perdono la capacità di piangere dopo aver iniziato a prendere testosterone, ma *non* è un'esperienza universale e potrebbe essere legata al dosaggio preso. Il motivo per cui accade non sono ben conosciute, anche se alcuni studi hanno scoperto che gli androgeni alterano la funzione di alcune parti del cervello connesse alle emozioni. Se perdi l'abilità di piangere, potrebbe tornare col passare del tempo, una volta che il cervello si abitua e termini la seconda pubertà. La terapia può anche aiutare a trovare tecniche per piangere in maniera sana.
 
 {!{ <div class="gutter flex" style="justify-content: flex-end">{{import '~/tweet' ids=[
   '1374060995778318347'
@@ -142,11 +142,11 @@ Alcune persone riportano problemi di insonnia e maggior difficoltà a ricordare 
 
 ##### Confidenza
 
-Il testosterone è noto per indurre una forte sensazione di sicurezza nelle persone. I problemi sembrano meno significativi, l'autostime è più forte e ci sono meno fonti di ansia. Molte persone riportano una tendenza a iniziare più discussioni, a parlare più spesso di fronte ai conflitti e a difendersi. Questo *non* implica una maggiore ostilità o propensione al litigio, ma semplicemente la tolleranza per le cazzate si abbassa.
+Il testosterone è noto per indurre una forte sensazione di sicurezza nelle persone. I problemi sembrano meno significativi, l'autostima è più forte e ci sono meno fonti di ansia. Molte persone riportano una tendenza a iniziare più discussioni, a parlare più spesso di fronte ai conflitti e a difendersi. Questo *non* implica una maggiore ostilità o propensione al litigio, ma semplicemente la tolleranza per le cazzate si abbassa.
 
 ##### Estroversione
 
-E' molto comune per le persone trans di ogni tipo di sentirsi molto più socievoli post transizione. Questo potrebbe semplicemente portarle, ma è anche un fatto di aumento della sopracitata confidenza.
+E' molto comune per le persone trans di ogni tipo sentirsi molto più socievoli post transizione. Questo potrebbe semplicemente avvenire poiché non stano più reprimendo gran parte della loro personalità, ma è anche dato dall'aumento della sopracitata confidenza.
 
 ### Cambiamenti Dei Genitali
 
@@ -156,7 +156,7 @@ E' molto comune per le persone trans di ogni tipo di sentirsi molto più socievo
 </div>
 }!}
 
-Tutti i genitali sono composti dagli stessi tessuti e vengono semplicemente organizzati in maniera diversa nel corso della gestazione. Buona parte dei comportamenti di questi tessuti è regolata dagli ormoni che il corpo utilizza. Secrezioni della pelle, consistenza, sensibilità e comportamento erettile sono tutte espressioni ormonali. Questo vuol dire che quando aggiungi degli androgeni, questi tessuti inizieranno a comportarsi come se avessero la forma di un pene e di uno scroto, anche se è così.
+Tutti i genitali sono composti dagli stessi tessuti e vengono semplicemente organizzati in maniera diversa nel corso della gestazione. Buona parte dei comportamenti di questi tessuti è regolata dagli ormoni che il corpo utilizza. Secrezioni della pelle, consistenza, sensibilità e comportamento erettile sono tutte espressioni ormonali. Questo vuol dire che quando aggiungi degli androgeni, questi tessuti inizieranno a comportarsi come se avessero la forma di un pene e di uno scroto, anche se non è così.
 
 ##### Crescita Delle Parti Basse
 
@@ -173,7 +173,7 @@ Il DHT (menzionato più in alto) ha un ruolo chiave nello sviluppo del tessuto e
 
 ##### Diminuzione Della Lubrificazione
 
-Il cappuccio clitorideo e le grandi labbra diventeranno col tempo più secchi e spessi, e le labbra interiori inizieranno a sviluppare dei peli. L'autolubrificazione diminuirà sostanzialemnte e la penetrazione potrebbe diventare più dolorosa. Usa del lubrificante per evitare sanguinamento e lacerazioni.
+Il cappuccio clitorideo e le grandi labbra diventeranno col tempo più secchi e spessi, e le labbra interiori inizieranno a sviluppare dei peli. L'autolubrificazione diminuirà sostanzialmente e la penetrazione potrebbe diventare più dolorosa. Usa del lubrificante per evitare sanguinamento e lacerazioni.
 
 Potresti anche chiedere al medico di base o al ginecologo riguardo gli estrogeni vaginali. I livello di estrogeni usati in questi prodotti sono bassi, dunque [non c'è rischio che interferiscano con gli effetti del testosterone](https://www.sfaf.org/collections/beta/qa-gynecologic-and-vaginal-care-for-trans-men/) (articolo in inglese).
 
@@ -183,17 +183,17 @@ Con il gonfiarsi della prostata seguono più fluidi della stessa. Se prima non s
 
 ##### Cambiamenti A Sensibilità E Reazione
 
-La stimolazione erogena potrebbe diventare più incentrata sulla punta del clitoride e sullo sfregamento del canale vaginale, La frizione in generale diventerà più piacevole al contrario della vibrazione. Alcune persone riportano anche maggiore sensibilità durante la penetrazione della vagina a causa della pelle più sottile.
+La stimolazione erogena potrebbe diventare più incentrata sulla punta del clitoride e sullo sfregamento del canale vaginale, La frizione in generale diventerà più piacevole rispetto alla vibrazione. Alcune persone riportano anche maggiore sensibilità durante la penetrazione della vagina a causa della pelle più sottile.
 
 ##### Atrofia
 
-L'atrofizzazione della vagina e dell'utero avviene entro i primi cinque anni, motivo per cui un'isterectomia potrebbe diventare una necessità. Fra i segni di atrofia sono inclusi una profonda palpitazione nella zona inferiore dell'addome e crampi dolori senza nessun altro segno tipico del ciclo, in particolare subito dopo un rapporto sessuale. L'atrofia vaginale può essere evitata tramite estrogeni vaginali, così come tramite l'utilizzo degli stessi dilatatori vaginali che le persone assegnate maschio alla nascita utilizzano in seguito a una vaginoplastica.
+L'atrofizzazione della vagina e dell'utero avviene entro i primi cinque anni, motivo per cui un'isterectomia potrebbe diventare una necessità. Fra i segni di atrofia sono inclusi una profonda palpitazione nella zona inferiore dell'addome e crampi dolorosi senza nessun altro segno tipico del ciclo, in particolare subito dopo un rapporto sessuale. L'atrofia vaginale può essere evitata tramite estrogeni vaginali, così come tramite l'utilizzo degli stessi dilatatori vaginali che le persone assegnate maschio alla nascita utilizzano in seguito a una vaginoplastica.
 
 ##### Cambiamenti Al Pap Test
 
-I tuoi genitali interni potrebbero sviluppare piccole quantità di tessuto benigno, che può spaziare da qualche cellula a un glande "ben sviluppato". Il termine clinico è [metaplasia della prostata associata agli androgeniandrogen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/) (articolo in inglese). Queste celluce della prostata potrebbero essere scambiate per lesioni create dal papillomavirus se individuate su un Pap test, ma al contrario del papillomavirus, le cellule della metaplasia della prostata appiano medicamente normali e non sembrano portare rischio di cancro. Se necessario, una biopsia può distinguerle.
+I tuoi genitali interni potrebbero sviluppare piccole quantità di tessuto benigno, che può spaziare da qualche cellula a un glande "ben sviluppato". Il termine clinico è [metaplasia della prostata associata agli androgeniandrogen-associated prostatic metaplasia](https://genderanalysis.net/2020/10/trans-men-and-transmasculine-people-on-testosterone-can-grow-prostate-tissue/) (articolo in inglese). Queste cellule della prostata potrebbero essere scambiate per lesioni create dal papillomavirus se individuate su un Pap test, ma al contrario del papillomavirus, le cellule della metaplasia della prostata appaiono medicalmente normali e non sembrano portare rischio di cancro. Se necessario, una biopsia può distinguerle.
 
-La lubrificazione ridotta e l'atrofia, come discusse qui sopra, potrebbero anche rendere fisicamente più difficile svolgere il Pap test. Potrebbe volerci più forza per raccogliere un campione idoneo. Decreased lubrication and atrophy, as discussed above, may also make it physically more difficult to perform the Pap test. The provider may have to exert more force to collect an adequate sample. Uno speculo più piccolo potrebbe ridurre il dolore della procedura. Inoltre, a volte ti potrebbe venir concesso di tamponare la tua stessa cervice, ma nulla di garantito. Your provider can use a smaller speculum to reduce the pain of the procedure. Some providers may allow you to swab your own cervix, but this is not guaranteed.
+La lubrificazione ridotta e l'atrofia, come discusse qui sopra, potrebbero anche rendere fisicamente più difficile svolgere il Pap test. Potrebbe volerci più forza per raccogliere un campione idoneo. Uno speculo più piccolo potrebbe ridurre il dolore della procedura. Inoltre, a volte ti potrebbe venir concesso di tamponare la tua stessa cervice, ma nulla di garantito. 
 
 ##### Desiderio Sessuale Aumentato
 
