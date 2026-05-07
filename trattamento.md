@@ -30,27 +30,27 @@ Questa è la procedura per cambiare i propri documenti legali in modo che riflet
 
 Questi sono i cambiamenti al tuo stile, che siano vestiti, capelli o trucco. La nostra società associa un genere a tutte queste cose, dunque cambiare la presentazione aiuta sia ad affermarti sia a comunicare alle altre persone come vuoi che interagiscano con te.
 
-### Transizioni Medica
+### Transizione Medica
 
-Per le persone adulte, questa è la terapia ormonale e le operazioni chirurgiche. Per chi è in adolescenza, questo solitamente vuol dire bloccanti della pubertà finché l'adolescene non è abbastanza grande da poter aver certezza di quali ormoni desidera avere. Per chi è più giovane, non si fa nulla. Lo ripeto ancora, dato che le persone transfobiche continuano a sbagliarsi.
+Per le persone adulte, questa è la terapia ormonale e le operazioni chirurgiche. Per chi è in adolescenza, questo solitamente vuol dire bloccanti della pubertà finché l'adolescente non è abbastanza grande da poter aver certezza su quali ormoni desidera avere. Per chi è più giovane, non si fa nulla. Lo ripeto ancora, dato che le persone transfobiche continuano a sbagliarsi.
 
 ***I BAMBINI PREADOLESCENTI NON EFFETTUANO ALCUNA TRANSIZIONE MEDICA***.
 
-Anche se l'Accademia Americana di Pediatria [incoraggia fortemente a validare e accettare le persone trans giovanissime](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) e il permettere loro di effettuare tutte le altre modalità di transizionea, non supportano esplicitamente coloro che prescrivono la terapia ormonale o i bloccanti della pubertà a chi non ha ancora raggiunto [lo stadio 2 della Scala di Tanner](https://it.wikipedia.org/wiki/Scala_di_Tanner).
+Anche se l'Accademia Americana di Pediatria [incoraggia fortemente a sostenere e accettare le persone trans giovanissime](https://pediatrics.aappublications.org/content/pediatrics/early/2018/09/13/peds.2018-2162.full.pdf) il permettendo loro di effettuare tutte le altre modalità di transizione, non supportano esplicitamente coloro che prescrivono la terapia ormonale o i bloccanti della pubertà a chi non ha ancora raggiunto [lo stadio 2 della Scala di Tanner](https://it.wikipedia.org/wiki/Scala_di_Tanner).
 
-Inoltre, nessun medico chirurgo negli Stati Uniti effettuerebbe un operazione di cambio di sesso su una persona minorenne (eccezion fatta per le "correzioni" sulle persone intersessuali, ma è un argomento che va ben oltre dallo scopo di questo articolo). Pochissimi bambini hanno caratteri talmente forti da poter essere riconosciuti come maschi o femmine senza nessun altro indicatore della loro presentazione. Basta cambiare il suo taglio di capelli e i suoi vestiti per cambiarne la percezione, se maschio o femmina.
+Inoltre, nessun medico chirurgo negli Stati Uniti effettuerebbe un'operazione di cambio di sesso su una persona minorenne (eccezion fatta per le "correzioni" sulle persone intersessuali, ma è un argomento che va ben oltre lo scopo di questo articolo). Pochissimi bambini hanno caratteri talmente forti da poter essere riconosciuti come maschi o femmine senza nessun altro indicatore della loro presentazione. Basta cambiare il taglio di capelli e i vestiti per cambiarne la percezione, se maschio o femmina.
 
 ### Transizione Ormonale
 
 **La terapia ormonale mascolinizzante** (da caratteri sessuali femminili a maschili) consiste nell'introduzione del testosterone, di solito tramite iniezione intramuscolare o gel topico. L'aumento di ormoni gonadali causa tipicamente la cessazione del processo di ovulazione, che è la fonte principale degli estrogeni prodotte nelle ovaie.
 
-**La terapia ormonale femminilizzante** (da caratteri sessuali maschili a femminili) consiste nell'introduzione di estrogeni, solitamente estradiolo, tramite pillole orali, cerotti o iniezioni regolare (intramuscolari o sottocutanee). L'uso di impianti che lo introducono regolarmente sta diventando sempre più comune. E' anche una pratica comune quella di prescrivere antiandrogeni per bloccare la produzione e l'assorbimento del testosterone. Negli Stati Uniti si usa tipicamente lo spironolattone, una medicina per pressione sanguigna che ha come effetto collaterlae il blocco del testosterone. Al di fuori degli Stati Uniti, il farmaco più comune è il ciproterone acetato, che blocca i recettori androgeni, non disponibile negli Stati Uniti. Potrebbe anche venir prescritto la bicalutamide, anch'essa blocca i recettori androgeni. A volte vengono semplicemente prescritte dosi maggiori di estradiolo per far sì che il corpo cessi la produzione di testosterone.
+**La terapia ormonale femminilizzante** (da caratteri sessuali maschili a femminili) consiste nell'introduzione di estrogeni, solitamente estradiolo, tramite pillole orali, cerotti o iniezioni regolari (intramuscolari o sottocutanee). L'uso di impianti che lo introducono regolarmente sta diventando sempre più comune. E' anche una pratica comune quella di prescrivere antiandrogeni per bloccare la produzione e l'assorbimento del testosterone. Negli Stati Uniti si usa tipicamente lo spironolattone, una medicina per la pressione sanguigna che ha come effetto collaterale il blocco del testosterone. Al di fuori degli Stati Uniti, il farmaco più comune è il ciproterone acetato, che blocca i recettori androgeni, non disponibile negli Stati Uniti. Potrebbe anche venir prescritta la bicalutamide, anch'essa blocca i recettori androgeni. A volte vengono semplicemente prescritte dosi maggiori di estradiolo per far sì che il corpo cessi la produzione di testosterone.
 
-**Per l'adolescente**, i bloccanti della pubertà potrebbero essere i sopracitati antiandrogeni, o (se coperti da assicurazione) l'uso di un antigonadotropp (un farmaco che ferma gli ormoni che causano la produzione di estrogeni ed androgeni) come il leuprolide (un'iniezione effettuata ogni paio di mesi) o l'istrelina (un impianto annuale).
+**Per l'adolescente**, i bloccanti della pubertà potrebbero essere i sopracitati antiandrogeni, o (se coperti da assicurazione) l'uso di un antigonadotropo (un farmaco che ferma gli ormoni che causano la produzione di estrogeni ed androgeni) come il leuprolide (un'iniezione effettuata ogni paio di mesi) o l'istrelina (un impianto annuale).
 
 ### Transizione Chirurgica
 
-Le operazione transgender sono tipicamente divise in tre categorie:
+Le operazioni transgender sono tipicamente divise in tre categorie:
 
 **Operazione alla regione inferiore** (modifiche ai genitali):
 
@@ -58,7 +58,7 @@ Le operazione transgender sono tipicamente divise in tre categorie:
 
   - Orchiectomia (rimozione dei testicoli)
   - Scrotectomia (rimozione del tessuto scrotale, in seguito all'orchiectomia)
-  - Vasectomia (rimozione dei canali dello sperma, effettuata durante l'orchiectomia, può anche essere effettuata da sola in precedenza)
+  - Vasectomia (rimozione dei canali dello sperma, effettuata durante l'orchiectomia, ma può anche essere effettuata da sola in precedenza)
   - Vaginoplastica (creazione di una cavità vaginale)
   - Vulvoplastica (creazione di una vulva, con o senza profondità).
 
@@ -66,7 +66,7 @@ Le operazione transgender sono tipicamente divise in tre categorie:
 
 Una nuova area in via di sviluppo delle operazioni alla zona inferiore avviene con le persone non binarie assegnate maschio alla nascita che cercano di ricevere una vaginoplastica *senza* rimuovere il pene. Questa particolare operazione è estremamente sperimentale ed è stata effettuata meno di una dozzina di volte negli Stati Uniti, ma la prospettiva per il futuro è buona.
 
-Unìopzione addizionale per le persone non binarie sono le operazioni per annullare il genere, che mirano alla totale rimozione dei genitali esterni, lasciando solo la cavità dell'uretra.
+Un'opzione addizionale per le persone non binarie sono le operazioni per annullare il genere, che mirano alla totale rimozione dei genitali esterni, lasciando solo la cavità dell'uretra.
 
 {!{ </div></div></div> }!}
 
@@ -87,18 +87,18 @@ La falloplastica non richiede necessariamente una precedente terapia ormonale. P
 
 - Femminilizzanti:
   
-  - Aumento delle dimensioni dei seni tramite impiati o trasferimenti di adipe.
+  - Aumento delle dimensioni dei seni tramite impianti o trasferimenti di adipe.
 
 - Mascolinizzanti:
 
   - Mastectomia bilaterale (rimozione del tessuto della mammella) con ricostruzione del petto
   - Riduzione dei seni (rimozione parziale di adipe e tessuto della mammella)
 
-La mastectomia tipicamente cambia la forma dei capezzoli per rendermi più mascolini, ma alcune persone scelgono di farli rimuovere del tutto.
+La mastectomia tipicamente cambia la forma dei capezzoli per renderli più mascolini, ma alcune persone scelgono di farli rimuovere del tutto.
 
 **Operazioni per la Femminilizzazione/Mascolinizzazione del Viso** (Modifiche al teschio, alla cartilagine e alla pelle del viso).
 
-  Più una persona è giovane, meno avrà bisogno di queste operazione, in particolare se comincia la transizione prime dei 20 anni.
+  Più una persona è giovane, meno avrà bisogno di queste operazioni, in particolare se comincia la transizione prima dei 20 anni.
 
 - Femminilizzanti:
 
@@ -111,7 +111,7 @@ La mastectomia tipicamente cambia la forma dei capezzoli per rendermi più masco
   - Impianti delle guance
   - Innalzamento delle labbra
   - Riempimento delle labbra
-  - Jaw recontouring
+  - Rimodellamento della mandibola
   - Rasatura tracheale (riduzione del pomo d'Adamo)
   - Ritidectomia (innalzamento del viso)
 
