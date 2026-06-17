@@ -7,7 +7,7 @@ preBody: '_disclaimer'
 siblings:
   prev: /it/cromosomi
   prevCaption: Cromosomi
-  next: /it/seconda-pubertà-masc
+  next: /it/seconda-puberta-masc
   nextCaption: Seconda Pubertà Maschile
 classes:
   - gdb
